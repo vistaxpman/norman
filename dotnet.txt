@@ -1,0 +1,156 @@
+== 19 - 10 - 2015
++ Từ khóa
+Using Async and Await to update the UI Thread
+Parse html with c#
+Keeping UI Responsive
+Async/Await with a WinForms ProgressBar
+Synchronizing .NET 4 Tasks with the UI Thread
+
++ Async/Await
+https://www.google.com.vn/?gws_rd=ssl#q=c%23+async+await+winforms&start=50
+	- good
+	http://blog.stephencleary.com/2012/02/async-and-await.html
+	http://www.danderson.me/posts/async-and-await-ui-synchronization-with-c-5-net-4-5-and-winforms/
+	https://msdn.microsoft.com/en-us/magazine/jj991977.aspx
+	https://msdn.microsoft.com/en-us/library/jj155757.aspx
+	http://umaranis.com/2014/05/25/keeping-ui-responsive-c-net/
+	http://www.codeproject.com/Articles/562021/Asynchronous-models-and-patterns
+	http://blog.shadowmoses.co.uk/2012/04/long-running-processes-c-5-visual.html
+	http://www.slideshare.net/PauloJorgeMorgado/async-await-best-practices-in-10-minutes
+	http://enterprisecraftsmanship.com/2014/12/20/pitfalls-of-async-await/
+	http://www.dreamincode.net/forums/topic/246911-c%23-multi-threading-in-a-gui-environment/
+	http://simplygenius.net/Article/AncillaryAsyncProgress
+	https://richnewman.wordpress.com/2012/12/03/tutorial-asynchronous-programming-async-and-await-for-beginners/
+	https://github.com/brooklynDev/AsyncAwaitProgressBarDemo
+	http://www.gamlor.info/wordpress/2010/10/c-5-0-async-feature-be-aware-of-the-synchronization-context/
+	http://dotnetvisio.blogspot.com/2014/01/download-html-from-web-using-async.html
+	http://cowthulu.com/handling-long-operations-with-cancel-and-progress-in-c-with-async/
+	http://cowthulu.com/c-wait-cursor-that-automatically-goes-away/
+	http://www.codeguru.com/csharp/csharp/introduction-to-async-and-await-keywords-in-c-5.0.htm
+	http://www.hanselman.com/blog/TheMagicOfUsingAsynchronousMethodsInASPNET45PlusAnImportantGotcha.aspx
+	http://jesustorresmix.blogspot.com/2012/04/asynchronous-programming-in-net.html
+	http://www.jaylee.org/post/2012/06/18/CSharp-5-0-Async-Tips-and-Tricks-Part-1.aspx
+	http://cowthulu.com/new-features-of-c-6-0/
+	http://submain.com/blog/YouAskedWeAnsweredAsynchronousProgrammingDemystifiedWebinarQA.aspx
+	http://codeavengers.xyz/asyncawait-with-a-winforms-progressbar/
+	http://www.abhisheksur.com/2010/10/c-50-asynchronous-made-easy.html
+	http://www.csharp-examples.net/create-asynchronous-method/
+	http://reedcopsey.com/2009/11/17/synchronizing-net-4-tasks-with-the-ui-thread/
+	http://www.codearsenal.net/2012/06/reversi-game-in-csharp-winforms.html#.ViSSBn2_B-I
+	http://tiku.io/questions/4140222/async-await-with-a-winforms-progressbar-winforms-version
+	http://www.programask.com/question_41619098_async-await-with-a-winforms-progressbar/
+	http://www.dotnetperls.com/httpclient
+	http://www.dotnetperls.com/async
+	http://www.jayway.com/2012/03/13/httpclient-makes-get-and-post-very-simple/
+	http://blogs.msdn.com/b/csharpfaq/archive/2012/06/26/understanding-a-simple-async-program.aspx
+	http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
+	http://stackoverflow.com/questions/13536505/async-await-task-run-vs-httpclient-getasync
+	https://msdn.microsoft.com/en-us/library/hh696703.aspx
+	http://apmblog.dynatrace.com/2014/10/09/behind-net-4-5-async-scene-performance-impact-asynchronous-programming-c/
+	http://codereview.stackexchange.com/questions/18519/real-world-async-and-await-code-example
+	http://www.albahari.com/nutshell/cs5ch16.aspx
+	http://nikolar.com/2013/09/02/asynchronously-deadlocked-or-do-not-wrap-async-methods-into-sync-wrappers-httpclient-getasync-not-returning/
+	http://blog.ciber.no/2014/05/19/using-task-configureawaitfalse-to-prevent-deadlocks-in-async-code/
+	http://haroldrv.com/2015/01/how-to-use-httpclient-with-basic-authentication-to-post-data-asynchronously/
+	https://psycodedeveloper.wordpress.com/2014/06/30/how-to-call-httpclient-postasync-with-a-query-string/
+	https://github.com/ServiceStack/ServiceStack
+	http://blog.slaks.net/2015-06-11/easier-csharp-async-with-await/
+	https://www.simple-talk.com/dotnet/.net-framework/the-.net-4.5-asyncawait-feature-in-promise-and-practice/
+	http://www.constantinosorphanides.com/950/asynchronous-json-downloader-and-serializer-class-for-c-sharp/
+	http://www.tugberkugurlu.com/archive/my-take-on-task-base-asynchronous-programming-in-c-sharp-5-0-and-asp-net-mvc-web-applications
+	http://www.codeproject.com/Articles/535635/Async-Await-and-the-Generated-StateMachine
+	http://www.codeproject.com/Articles/535635/Async-Await-and-the-Generated-StateMachine
+	https://psycodedeveloper.wordpress.com/2013/04/02/how-to-download-a-file-with-httpclient-in-c/
+	http://blog.hibernatingrhinos.com/12545/async-await-wait-them-all
+	https://weblog.west-wind.com/posts/2014/Jan/29/Using-NET-HttpClient-to-capture-partial-Responses
+	
+	- download file
+	http://www.devtoolshed.com/content/c-download-file-progress-bar
+	http://stackoverflow.com/questions/9459225/asynchronous-file-download-with-progress-bar
+	http://stackoverflow.com/questions/16514027/download-multiple-files-async-and-wait-for-all-of-them-to-finish-before-executin
+	http://www.dreamincode.net/forums/topic/115491-download-file-asynchronously-with-progressbar/
+	http://www.fluxbytes.com/csharp/how-to-download-a-file-in-c-progressbar-and-download-speed/
+	http://codereview.stackexchange.com/questions/18519/real-world-async-and-await-code-example
+	http://blogs.msdn.com/b/csharpfaq/archive/2012/01/23/using-async-for-file-access-alan-berman.aspx
+	http://stuff.seans.com/2009/01/05/using-httpwebrequest-for-asynchronous-downloads/
+	https://www.daniweb.com/programming/software-development/threads/447375/c-downloadfileasync-problem
+	http://timtrott.co.uk/download-files-web-server/
+	http://nbsoftsolutions.com/blog/await-async-in-c-and-why-synchrony-is-here-to-stay
+	http://codesimplified.blogspot.com/2013/11/asynchronous-file-download-from-web.html
+	http://www.developer.com/net/csharp/asynchronous-programming-in-c.html
+	http://www.experts-exchange.com/Programming/Languages/C_Sharp/Q_26828518.html
+	http://blogs.visoftinc.com/2013/03/26/streaming-large-files-asynchronously-using-net-4-5/
+	http://dotnetvisio.blogspot.com/2014/01/download-html-from-web-using-async.html
+	http://bhrnjica.net/2014/04/15/pausing-and-cancelling-async-method-in-c/
+	http://www.mithunvp.com/building-responsive-ui-using-async-await-csharp/
+	http://habrahabr.ru/company/touchinstinct/blog/191926/
+	http://www.debug.is/2015/04/17/c-sharp-vs-go/
+	http://arcware.net/upload-and-download-files-with-web-api-and-azure-blob-storage/
+	
+	
+	
+	
+http://stackoverflow.com/questions/14962969/how-can-i-use-async-to-increase-winforms-performance
+https://visualstudiomagazine.com/articles/2012/08/01/performance-tips.aspx
+http://stackoverflow.com/questions/19028374/accessing-ui-controls-in-task-run-with-async-await-on-winforms
+http://stackoverflow.com/questions/17972268/async-await-with-a-winforms-progressbar
+http://stephenhaunts.com/2014/10/14/using-async-and-await-to-update-the-ui-thread/
+http://wouterdekort.blogspot.com/2013/10/async-and-await-and-ui-thread.html
+
+http://www.i-programmer.info/programming/c/1514-async-await-and-the-ui-problem.html
+http://www.i-programmer.info/programming/c/1514-async-await-and-the-ui-problem.html?start=1
+http://www.i-programmer.info/programming/c/1514-async-await-and-the-ui-problem.html?start=2
+
+http://blogs.msdn.com/b/cdndevs/archive/2013/12/18/c-async-and-await-why-do-we-need-them-part-1.aspx
+http://programmers.stackexchange.com/questions/114605/how-will-c-5-async-support-help-ui-thread-synchronization-issues
+http://theanswerweb.com/data13/2015/07/27/c-asyncawait-with-a-winforms-progressbar-winforms-version/
+http://blog.markedup.com/2012/09/c-feature-dossier-tasks-based-asynchrony-with-async-and-await/
+http://www.dotnetcurry.com/csharp/797/asynchronous-programming-csharp-45-visual-studio
+http://www.c-sharpcorner.com/UploadFile/dacca2/2-ways-to-implement-asynchronous-technique-in-C-Sharp/
+http://www.tugberkugurlu.com/archive/asynchronous-database-calls-with-task-based-asynchronous-programming-model-tap-in-asp-net-mvc-4
+http://www.mindstick.com/Articles/e169c280-3754-41aa-b2dd-b048ecb13588/Splash%20screen%20in%20C%20Winform
+http://bhrnjica.net/2012/10/16/ho-to-convert-your-old-sequential-code-in-to-async/
+
+=
+http://www.csharpstudy.com/WinForms/WinForms-thread.aspx
+private void btnRun_Click(object sender, EventArgs e)
+{
+   Thread worker = new Thread(new ThreadStart(MyThreadRun));
+   worker.Start();
+}
+
+private void MyThreadRun()
+{
+   string srcDir = @"C:\Temp\_Src";
+   string destDir = @"C:\Temp\_Dest";
+
+   DirectoryInfo di = new DirectoryInfo(srcDir);
+   FileInfo[] fileInfos = di.GetFiles();
+   int totalFiles = fileInfos.Length;
+   int counter = 0;
+   int pct = 0;
+   foreach (var fi in fileInfos)
+   {
+      string destFile = Path.Combine(destDir, fi.Name);
+      File.Copy(fi.FullName, destFile);
+      //Thread.Sleep(1000);
+      pct = ((++counter * 100) / totalFiles);
+      ShowProgress(pct);
+   }  
+}
+
+private void ShowProgress(int pct)
+{
+   progressBar1.Value = pct; //<== 에러발생!
+}
+=
+
++ Download ebook
+ - Exam Ref 70-483 Programming In C#
+http://scanlibs.com/exam-ref-70-483-programming-in-c-sharp/
+http://www.ebookway.org/uncategorized-list/exam-ref-70-483-programming-in-c_36h0g.html
+
+
+
+
+====
