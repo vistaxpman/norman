@@ -1,3 +1,39 @@
+== 21 - 10 - 2015
++ Từ khóa
+Creating a System Tray Application with C#
+
+
++ Tray application
+	- cần tìm
+	http://stackoverflow.com/questions/995195/how-can-i-make-a-net-windows-forms-application-that-only-runs-in-the-system-tra
+	http://www.codeproject.com/Articles/18683/Creating-a-Tasktray-Application
+	http://www.codeproject.com/Articles/290013/Formless-System-Tray-Application
+	https://www.simple-talk.com/dotnet/.net-framework/creating-tray-applications-in-.net-a-practical-guide/
+	http://www.itjungles.com/easy-steps-to-create-a-system-tray-application-with-c.html
+	http://www.c-sharpcorner.com/UploadFile/f9f215/how-to-minimize-your-application-to-system-tray-in-C-Sharp/
+	https://visualstudiogallery.msdn.microsoft.com/aacbc77c-4ef6-456f-80b7-1f157c2909f7/
+	http://progtuts.info/14/your-c-program-in-the-system-tray/
+	http://www.aspdotnet-pools.com/2014/06/how-to-minimize-application-to-taskbar.html
+	omegacoder.com/?p=59
+	
+	- ContextMenuStrip
+	http://gockinhnghiem.com/2010/11/24/cach-them-contextmenustrip-trong-csharp/
+	http://deepak-sharma.net/2012/11/18/how-to-create-context-menu-in-windows-forms-application-using-c-sharp/
+	http://deepak-sharma.net/2012/11/20/how-to-show-notifyicon-in-windows-forms-application-using-c-sharp/
+	http://stackoverflow.com/questions/4886327/determine-what-control-the-contextmenustrip-was-used-on
+	http://www.codeproject.com/Articles/22780/Super-Context-Menu-Strip
+	http://dobon.net/vb/dotnet/control/contextmenu.html
+	
+
+https://alanbondo.wordpress.com/2008/06/22/creating-a-system-tray-app-with-c/
+http://www.developer.com/net/net/article.php/3336751/C-Tip-Placing-Your-C-Application-in-the-System-Tray.htm
+http://stackoverflow.com/questions/7625421/minimize-app-to-system-tray
+http://alperguc.blogspot.com/2008/11/c-system-tray-minimize-to-tray-with.html
+http://www.codeproject.com/Articles/27599/Minimize-window-to-system-tray
+http://www.codeproject.com/Articles/36468/WPF-NotifyIcon
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/21992d0b-a02c-4042-a188-47b0a2b99b0b/wpf-system-tray-application?forum=wpf
+
+
 == 19 - 10 - 2015
 + Từ khóa
 Using Async and Await to update the UI Thread
