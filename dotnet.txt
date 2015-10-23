@@ -1,3 +1,59 @@
+== 23 - 10 - 2015
++ Từ khóa
+
+
++ View picture image
+https://msdn.microsoft.com/en-us/library/dd492135.aspx
+https://msdn.microsoft.com/en-us/library/ms172590%28v=vs.90%29.aspx
+http://stackoverflow.com/questions/10915958/how-to-zoom-inout-an-image-in-c-sharp
+http://stackoverflow.com/questions/18270144/c-simple-and-functional-way-to-zoom-picturebox-images-with-scroll-bars
+http://www.codeproject.com/Articles/21097/PictureBox-Zoom
+https://msdn.microsoft.com/en-us/library/ms229648%28v=vs.90%29.aspx
+http://www.youtube.com/watch?v=ar0pAQRCua0
+http://www.cyotek.com/blog/creating-a-scrollable-and-zoomable-image-viewer-in-csharp-part-4
+http://www.cyotek.com/blog/hosting-a-colorgrid-control-in-a-toolstrip
+http://www.cyotek.com/blog/batch-syntax-highlighting-in-the-digitalrune-text-editor-control
+
++ Software viewer image
+	- cần tìm
+	http://www.irfanview.com/
+	http://www.imageglass.org/source
+	https://github.com/d2phap/ImageGlass/blob/master/Source/ImageGlass/LocalSetting.cs
+	http://www.faststone.org/
+	http://www.vallen.de/downloads
+	https://picasa.google.com/
+	http://www.inviewer.org/index_gifviewer.php
+	http://sourceforge.net/projects/jpegview/
+	http://www.fastpictureviewer.com/downloads/
+	mspaint C:\Data\Pictures\Image1.jpg
+	http://delhoume.frederic.free.fr/vliv.htm
+	http://www.coffeecup.com/image-viewer/
+	http://fwtools.loskot.net/
+	http://kujawiak.sourceforge.net/index_en.html
+	
+	- tải icon này về
+	http://www.coffeecup.com/software/win/
+	
+http://www.vallen.de/products/software/jpegger
+http://www.stratopoint.com/11view_download.htm
+http://www.stratopoint.com/download_local.htm
+http://www.xnview.com/en/xnview/#screenshots
+http://www.nirsoft.net/utils/image_cache_viewer.html
+http://www.wildbit-soft.fi/software.html
+http://www.fmjsoft.com/imageeye.html#main
+http://www.contaware.com/download.html
+http://www.mitec.cz/photo.html
+http://www.dimin.net/software/viewer/
+http://www.acdsee.com/
+http://fwtools.maptools.org/
+
+
+https://phapsoftware.wordpress.com/2014/05/19/tuyen-tap-mot-so-game-nes-huyen-thoai/
+https://phapsoftware.wordpress.com/2013/08/07/eagleget-ke-xung-dang-thay-the-internet-download-manager/
+http://www.eagleget.com/
+https://www.techsmith.com/
+http://www.theinpaint.com/download.html
+
 == 21 - 10 - 2015
 + Từ khóa
 Creating a System Tray Application with C#
