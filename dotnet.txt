@@ -1,3 +1,67 @@
+== 28 - 10 - 2015
++ Từ khóa
+How can I get html from page with cloudflare ddos portection?
+Simple Web-Scraping
+
+
+http://stackoverflow.com/questions/32425973/how-can-i-get-html-from-page-with-cloudflare-ddos-portection
+
+
+
++ By pass cloudflare
+https://gist.github.com/antoligy/f4f084b87946f84a89b4
+https://github.com/ariya/phantomjs/issues/11163
+https://nicolas.perriault.net/code/2011/scrape-and-test-any-webpage-using-phantomjs/
+http://blog.rimthong.com/ghost-in-the-web-scraping-with-phantom-and-casper/
+http://nrabinowitz.github.io/pjscrape/
+
+
++ Scraping website with nodeJS, phantomjs
+http://code.tutsplus.com/tutorials/screen-scraping-with-nodejs--net-25560
+http://shout.setfive.com/2015/03/30/7817/
+http://code4node.com/snippet/web-scraping-with-node-and-phantomjs
+https://gist.github.com/crazy4groovy/2949017
+http://www.youtube.com/watch?v=LJHpm0J688Y
+https://scotch.io/tutorials/scraping-the-web-with-node-js
+https://scotch.io/tutorials/build-a-todo-app-using-sailsjs-and-angularjs
+http://www.smashingmagazine.com/2015/04/web-scraping-with-nodejs/
+http://dailyjs.com/2015/02/05/xray/
+http://blog.miguelgrinberg.com/post/easy-web-scraping-with-nodejs
+http://stackoverflow.com/questions/5211486/scrape-web-pages-in-real-time-with-node-js
+https://github.com/chriso/node.io
+https://github.com/request/request
+https://azurelogic.com/posts/web-scraping-with-nightmare-js/
+https://nodejsmodules.org/tags/scrape
+http://www.sitepoint.com/web-scraping-in-node-js/
+https://productbuilder.wordpress.com/2014/02/23/screen-scraping-with-spookyjs/
+http://code4node.com/snippet/web-scraping-with-node-and-phantomjs
+https://vimeo.com/31950192
+http://codeplanet.io/building-a-screen-scraper-in-60-lines-of-node/
+http://webdesignledger.com/24-nodejs-tuts-and-guides
+http://okfnlabs.org/blog/2013/01/15/web-scraping-with-node-css-selectors.html
+http://procbits.com/2012/04/11/quick-and-dirty-screen-scraping-with-node-js-using-request-and-cheerio
+http://www.storminthecastle.com/2013/08/25/use-node-js-to-extract-data-from-the-web-for-fun-and-profit/
+https://github.com/ContentMine/quickscrape
+
+
++ Save file with NodeJS
+http://stackoverflow.com/questions/2496710/writing-files-in-node-js
+https://nodejs.org/api/fs.html
+https://docs.nodejitsu.com/articles/file-system/how-to-write-files-in-nodejs
+http://codewinds.com/blog/2013-08-19-nodejs-writable-streams.html
+https://github.com/jprichardson/node-jsonfile
+http://www.c-sharpcorner.com/UploadFile/dacca2/node-js-in-action-create-simple-text-file-in-node-js-using/
+http://www.daveeddy.com/2013/03/26/synchronous-file-io-in-nodejs/
+https://www.codementor.io/nodejs/tutorial/how-to-use-json-files-in-node-js
+http://dribbit.eu/nodejs/write-to-file
+http://www.componentix.com/blog/9/file-uploads-using-nodejs-now-for-real
+http://excellencenodejsblog.com/expressjs-file-uploading-gridfs-mongodb/
+https://learn.koding.com/guides/getting-started-nodejs/
+http://www.ryanbensonmedia.com/blog/uploading-files-with-backbone-and-node
+https://keyholesoftware.com/2014/11/29/node-js-meets-net-edge-js/
+http://www.techrepublic.com/article/edge-js-bridges-the-gap-between-node-js-and-net/
+http://www.haneycodes.net/to-node-js-or-not-to-node-js/
+
 == 23 - 10 - 2015
 + Từ khóa
 
