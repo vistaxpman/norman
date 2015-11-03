@@ -1,3 +1,85 @@
+== 03 - 11 - 2015
+- Cần tìm 
+	https://msdn.microsoft.com/en-us/library/jj155756.aspx
+	http://www.andrearegoli.it/Blog/2014/08/26/execute-multiple-task-and-await-all-have-completed/
+	http://www.codearsenal.net/2012/11/csharp-5-async-and-await-example.html#.VjiDtn2_B-I
+	https://github.com/rdingwall/wpf-mvvm-task-progress-dialog
+	http://codereview.stackexchange.com/questions/101983/ui-error-display-window-with-task-async-in-wpf
+	http://leecampbell.blogspot.com/2009/01/responsive-uis-in-wpf-dispatchers-to.html
+	http://richarddingwall.name/2013/05/12/mvvm-progress-meter-example-using-the-task-parallel-library/
+	http://geekswithblogs.net/jacobladams/archive/2011/12/01/wpf-asynchronous-wait-cursor-using-task-parallel-library.aspx
+	http://blog.stephencleary.com/2012/02/reporting-progress-from-async-tasks.html
+	http://blog.benoitblanchon.fr/wpf-high-speed-mvvm/
+	http://blogs.infosupport.com/c-5-0-async-explained-as-simple-as-possible/
+	
+	
+	
+	
+http://scavenger.codeplex.com/SourceControl/latest#src/1.0/scavenger.winforms/MainForm.cs
+http://mdm2.codeplex.com/
+http://bitsdownloadmgr.codeplex.com/
+https://www.nuget.org/packages/FileExplorer/
+http://nthdownload.codeplex.com/
+http://sourceforge.net/projects/viphysdown/
+http://projectdownloader.codeplex.com/
+http://picasadownloader.codeplex.com/
+https://github.com/AlexxEG/YouTube-Downloader
+http://www.codeproject.com/Tips/323771/YouTube-Downloader-Using-Csharp-NET
+http://blog.alexander-luecking.de/2010/11/22/an-asynchronous-youtube-downloader-in-c-with-wpf/
+https://shemarlindie.wordpress.com/tag/youtube-downloader/
+https://shemarlindie.wordpress.com/2015/01/02/the-new-ytdl-v1-0-1-0/
+https://docs.google.com/uc?export=download&id=0B3-i5Xt15LcdRzJaZmVEWFlPT2M
+https://docs.google.com/uc?export=download&id=0B3-i5Xt15LcdNkhCQmlYZXJDWGs
+http://sourceforge.net/projects/itubelite/
+http://stackoverflow.com/questions/18091780/how-do-i-continue-after-multiple-tasks-without-blocking-the-ui-thread
+http://stackoverflow.com/questions/15180422/should-i-use-async-await-on-ui-thread-or-task-run-to-process-multiple-files
+	
+
+
+
+
++ Ebook WPF
+Building Windows 10 Applications with XAML and C# Unleashed (2nd Edition) 2016
+Real-Time Application Development - Second EditionSep 29, 2015
+Blend for Visual Studio 2012 By Example Beginners GuideJul 28, 2015
+Pro XAML with C#: Application Development Strategies (covers WPF, Windows 8.1 and Windows Phone 8.1)Jun 30, 2015
+
+Learning .NET High Performance Programming Jun 30, 2015
+http://yeahbook.net/learning-net-high-performance-programming.html
+http://rg.to/file/3857bfa50c7b820bbf6c8ae400dfcde0/B0001.rar.html
+http://ul.to/opy4wmu2
+http://www.uploadable.ch/file/T88MR27Cw5vk
+http://www.maxback.org/ebooks-list/learning-net-high-performance-programming_500rj.html
+
+Universal Windows Apps with XAML and C# Unleashed Feb 12, 2015
+
+WPF 4.5 Unleashed Jul 12, 2013
+http://uploaded.net/file/4liy3v4g
+
+Beginning WPF 4.5 by Full Example Vol 1 Dec 18, 2013
+
+Advanced MVVM Jun 5, 2013
+http://bubbleburst.codeplex.com/
+https://joshsmithonwpf.wordpress.com/
+https://joshsmithonwpf.wordpress.com/2010/02/15/my-e-book-about-advanced-mvvm/
+http://183.91.33.15/cache/files.cnblogs.com/files/kingmoon/Advanced.MVVM.pdf?ich_args=75794e1f931bb03b35e3fdd8ade50be5_1_0_0_8_f806fd59865fbf9d365aac91ecdc77a99700ec358c8b2e36e42af7d38fce0564_0decc63dbb02d925b1ad9aa0d242de11_1_0&ich_ip=33-23
+
+Programming C# 5.0: Building Windows 8, Web, and Desktop Applications for the .NET 4.5 Framework Nov 8, 2012
+
+Building Windows 8 Apps with C# and XAML (Microsoft Windows Development Series) Nov 4, 2012
+Beginning Windows 8 Application Development Oct 2, 2012
+
+
+Sam WPF 4 Unleashed 2010
+Apress Pro XAML with C# From Design to Deployment on WPF Windows Store and Windows Phone 2015
+Apress Pro WPF 4.5 in C# 4th Edition 2012
+Apress Applied WPF 4 in Context 2011
+Manning WPF in Action with Visual Studio 2008 2009
+
+
+http://www.gfxbee2.com/ebook-magazine/166869-blend-for-visual-studio-2012-by-example-beginners-guide.html
+Blend for Visual Studio 2012 By Example Beginners Guide
+
 == 28 - 10 - 2015
 + Từ khóa
 How can I get html from page with cloudflare ddos portection?
