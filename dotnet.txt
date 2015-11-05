@@ -1,3 +1,192 @@
+== 04 - 11 - 2015
++ Từ khóa
+Make WPF Image load async
+Async Programming : Patterns for Asynchronous MVVM Applications: Data Binding
+Asynchronous Programming with Async and Await (C# and Visual Basic)
+Just a Bit: Loading Images Asynchronously in WPF
+Canceling async tasks
+[WPF] Asynchronously Loading Image From Internet using C# 5.0 
+Asynchronous Data Loading
+refactorthis.net | How to keep your WPF UI responsive 
+Consuming the Task-based Asynchronous Pattern
+A pattern to pause/resume an async task
+Consuming the Task-based Asynchronous Pattern
+
+
+
+
+https://www.google.com.vn/?gws_rd=ssl#q=wpf+async+download&start=50
++ Cần tìm
+	https://msdn.microsoft.com/en-us/library/hh191443.aspx
+	https://msdn.microsoft.com/en-us/magazine/dn605875.aspx
+	http://www.c-sharpcorner.com/UploadFile/91c28d/asynchronous-data-binding-using-isasync-and-delay-in-wpf/
+	http://www.c-sharpcorner.com/UploadFile/deepak.sharma00/asynchronous-processing-of-database-records-on-a-winform-ui/
+	http://stuff.seans.com/2009/01/05/using-httpwebrequest-for-asynchronous-downloads/
+	http://www.abhisheksur.com/2010/09/progress-streamed-file-download-and.html
+	http://codereview.stackexchange.com/questions/45980/async-and-error-handling
+	http://www.muviza.com/watch?v=86N7H5wdgWk
+	http://elegantcode.com/2009/07/03/wpf-multithreading-using-the-backgroundworker-and-reporting-the-progress-to-the-ui/
+	http://www.vbforums.com/showthread.php?724747-How-to-download-a-image-%28Async%29-and-print-it-in-picture-box
+	https://canbilgin.wordpress.com/2012/06/17/download-send-request-asyncwithprogress-with-httpclient/
+	http://www.refactorthis.net/post/2012/08/31/How-to-keep-your-WPF-UI-responsive-and-report-progress-during-a-long-running-task-C-and-asynchronous-multithreading.aspx
+	http://jkshay.com/implement-webclients-asynchronous-download-cancel-capability/
+	http://www.codearsenal.net/2012/11/csharp-5-async-and-await-example.html#.Vjl4qn2_B-I
+	http://www.blackwasp.co.uk/WPFAsyncBinding.aspx
+	http://code.stonetip.com/2012/10/23/119/
+	http://holstcoding.blogspot.com/2012/07/wpf-asynchronously-loading-image-from.html
+	http://jeremybytes.blogspot.com/2015/01/task-continuations-checking-isfaulted.html
+	http://jeremybytes.blogspot.com/2015/01/task-and-await-basic-cancellation.html
+	http://jeremybytes.blogspot.com/2015/02/taskrun-vs-taskfactorystartnew.html
+	http://jeremybytes.blogspot.com/2015/07/pay-attention-to-where-you-create.html
+	http://blog.andreweichacker.com/2008/10/just-a-bit-loading-images-asynchronously-in-wpf/
+	http://www.java2s.com/Open-Source/CSharp_Free_Code/Windows_Presentation_Foundation/Download_Async_Task_Manager.htm
+	http://codefest.at/post/2012/01/02/Asynchronen-Programmierung-mit-asyncawait-in-NET-%28I%29.aspx
+	http://codefest.at/post/2012/01/03/Asynchrones-Programmierung-mit-asyncawait-in-NET-%28II%29.aspx
+	http://www.codefest.at/post/2012/01/03/Asynchronen-Programmierung-mit-asyncawait-in-NET-%28III%29-Beispiel-Anwendung.aspx
+	http://jeremybytes.blogspot.com/2014/12/ui-considerations-when-using.html
+	http://drc.ideablade.com/xwiki/bin/view/Documentation/code-sample-mvvm-made-simple-wpf-les-pinter
+	
+	- manager task
+	http://stackoverflow.com/questions/19980112/how-to-do-progress-reporting-using-async-await
+	http://blogs.msdn.com/b/dotnet/archive/2012/06/06/async-in-4-5-enabling-progress-and-cancellation-in-async-apis.aspx
+	http://geekswithblogs.net/WinAZ/archive/2014/10/21/uploading-multiple-images-in-parallel-with-async-and-linq-to.aspx
+	http://www.strathweb.com/2012/06/drag-and-drop-files-to-wpf-application-and-asynchronously-upload-to-asp-net-web-api/
+	http://stackoverflow.com/questions/19613444/a-pattern-to-pause-resume-an-async-task
+	http://stackoverflow.com/questions/20261300/what-is-correct-way-to-combine-long-running-tasks-with-async-await-pattern
+	https://msdn.microsoft.com/en-us/library/hh873173%28v=vs.110%29.aspx
+	http://blogs.msdn.com/b/csharpfaq/archive/2012/06/26/understanding-a-simple-async-program.aspx
+	http://blog.stephencleary.com/2012/02/async-and-await.html
+	http://www.codeproject.com/Articles/518856/Task-Parallel-Library-and-async-await-Functionalit
+	http://www.codinghelmet.com/?path=howto/xaml_progress
+	http://rarcher.azurewebsites.net/Post/PostContent/11
+	http://blogs.infosupport.com/c-5-0-async-explained-as-simple-as-possible/
+	
+	
+	Async Task Manager
+	https://www.google.com/search?q=free+music+box&ie=utf-8&oe=utf-8#q=wpf+multiple+tasks&start=10
+	http://www.codeplex.com/site/search?query=wpf&sortBy=CurrentReleaseDate&licenses=|&refinedSearch=true&page=2
+	- sample code
+	https://github.com/jeremybytes/using-task
+	http://www.jeremybytes.com/Downloads.aspx#Tasks
+	http://lukhezo.com/2012/04/15/writing-multithreaded-programs-using-async-await-in-c/
+	http://blog.galasoft.ch/posts/2013/01/using-asyncawait-with-webclient-in-windows-phone-8-or-taskcompletionsource-saves-the-day/
+	http://familyshow.codeplex.com/SourceControl/latest
+	http://www.slickscreen.com/
+	http://1code.codeplex.com/releases/view/612697
+	http://blogs.msdn.com/b/csharpfaq/archive/2010/07/19/parallel-programming-task-cancellation.aspx
+	https://msdn.microsoft.com/en-us/library/jj155756.aspx
+	http://wmm.codeplex.com/SourceControl/latest
+	http://taskcardcreator.codeplex.com/
+	http://rent4nature.codeplex.com/
+	http://mycollections.codeplex.com/
+	http://ine.codeplex.com/
+	http://toastify.codeplex.com/
+	http://codeframework.codeplex.com/releases/view/616964
+	http://easyhosts.codeplex.com/SourceControl/latest
+	http://ktool.codeplex.com/SourceControl/latest#KTool/KTool2/SearchWindow.xaml.cs
+	
+		- class hay dùng để tạo Task, enqueue task
+		http://nicenis.codeplex.com/SourceControl/latest#Nicenis/Nicenis/Threading/SharedResource.cs
+		http://nicenis.codeplex.com/SourceControl/latest#Nicenis/NicenisTests/Threading/SharedResourceTests.cs
+		http://photoalbumworkflow.codeplex.com/SourceControl/latest#PhotoAlbumWorkflow/MainWindow.xaml.cs
+		https://github.com/thomaslevesque/NString/blob/master/NString/StringExtensions.cs
+		http://yawd.codeplex.com/SourceControl/latest#YAWD/YAWD/Utils/Util.cs
+		http://screensaver.codeplex.com/SourceControl/latest#Screen%20Saver.cs
+		http://iconpro.codeplex.com/SourceControl/latest#HL.IconPro/HL.IconPro.Lib.Wpf/Tools/PEIconExtractor.cs
+		http://iconpro.codeplex.com/SourceControl/latest#HL.IconPro/HL.IconPro.Lib.Wpf/Dialogs/FolderBrowserDialog.cs
+		http://mbpm.codeplex.com/SourceControl/latest#MailboxPermissionsManager/App.xaml.cs
+		https://handbrake.fr/
+		http://nentang.codeplex.com/SourceControl/latest#Nentang.wpf/Helpers/Class/ImplementNotifyPropertyChanged.cs
+		http://flickrmetadatasynchr.codeplex.com/SourceControl/latest
+		https://github.com/higty/higlabo
+		http://bassguitartrainer.codeplex.com/SourceControl/latest
+		http://fileexplorer.codeplex.com/SourceControl/latest#src/FileExplorer3/app/FileExplorer3.WPF/Utils/AsyncLock.cs
+		http://fileexplorer.codeplex.com/SourceControl/latest#src/FileExplorer3/app/FileExplorer3.WPF/Utils/AsyncSemaphore.cs
+		http://fileexplorer.codeplex.com/SourceControl/latest#src/FileExplorer3/app/FileExplorer3.WPF/Utils/TaskUtils.cs
+		http://fileexplorer.codeplex.com/SourceControl/latest#src/FileExplorer3/app/FileExplorer3.WPF/Utils/WebUtils.cs
+		http://squiggle.codeplex.com/SourceControl/latest#Squiggle.UI/Windows/SettingsWindow.xaml.cs
+		
+		
+		- logger
+		http://playlistcopy.codeplex.com/SourceControl/latest#PlaylistCopy/PlaylistCopy/Logging/BufferedLogger.cs
+		
+		
+		
+		http://www.codeplex.com/site/search?query=wpf&sortBy=CurrentReleaseDate&licenses=|&refinedSearch=true&page=6
+		https://www.google.com/search?q=wpf+downloader&ie=utf-8&oe=utf-8
+		
+		
+		- sử dụng thread
+		http://vidcoder.codeplex.com/SourceControl/latest#VidCoder/View/MainWindow.xaml.cs
+		
+		- WPF Toast Popup Notification and Help Balloon Controls
+		http://toastspopuphelpballoon.codeplex.com/
+		
+		- login vào và lấy cookie, sau đó dùng cookie để tiến hành tải file
+		https://github.com/andrewzach/Blackboard-Downloader/blob/master/BlackboardDownloader/Scraper.cs
+	
+		- sample code
+		https://github.com/search?l=C%23&o=desc&p=7&q=downloader&ref=searchresults&s=updated&type=Repositories&utf8=%E2%9C%93
+		
+		
+			https://github.com/witoong623/TirkxDownloader
+			https://github.com/Behzadkhosravifar/NugetDownloader/blob/master/src/NugetDownloader/MainForm.cs
+			https://github.com/AlexxEG/YouTube-Downloader/blob/master/YouTube%20Downloader%20WPF/MainWindow.xaml.cs
+			https://github.com/4-Eyes/AutomagicDownloader/blob/master/AutomagicDownloader/MediaAPIs/IMDB/IMDBClient.cs
+			http://syntorrent.codeplex.com/SourceControl/latest#SynTorrent/MainWindow.xaml.cs
+			http://mp3cleanerwpf.codeplex.com/SourceControl/latest#Mp3Cleaner/FlashWindow.cs
+			http://shitalshah.com/p/downloading-all-of-hacker-news-posts-and-comments/
+			https://github.com/XboxChaos/Downloader/blob/master/Downloader/SizeDisplay.cs
+			https://github.com/WimObiwan/FxPicasaWebAlbumDownloader/blob/master/MainWindow.cs
+			https://github.com/andrewzach/Blackboard-Downloader/blob/master/BlackboardDownloader/HTMLParser.cs
+			https://github.com/fiendbusa/AnimeDownloader
+			https://github.com/Mordonus/YoutubeDownloader/blob/master/YoutubeDownloader/Classes/YTDownload.cs
+			https://github.com/Code-ScottLe/MangoDownloader/blob/Dev/ProjectMangoV3/HttpDownloader/HttpParallelDownloader.cs
+			https://github.com/witoong623/TirkxDownloader/blob/master/Models/DownloadEngine.cs
+			https://github.com/4-Eyes/AutomagicDownloader
+			
+			
+		- lấy html page
+		https://github.com/Hooodo/BtDownloader/blob/master/BtDownloader/MainWindow.xaml.cs
+		public string GetHtmlPage(string url)
+		
+			
+			
+		http://mbpm.codeplex.com/
+		https://handbrake.fr/contribute.php
+		https://github.com/HandBrake/HandBrake/tree/master/win/CS/HandBrakeWPF
+		http://vidcoder.codeplex.com/SourceControl/latest
+		http://wfpbookreader.codeplex.com/SourceControl/latest#BookReader/BookReader/MainWindow.xaml.cs
+	
+	- blog hay
+	http://www.jeremybytes.com/downloads.aspx
+	
+	
+http://stackoverflow.com/questions/16035300/make-wpf-image-load-async
+http://stackoverflow.com/questions/9459225/asynchronous-file-download-with-progress-bar
+http://www.dreamincode.net/forums/topic/115491-download-file-asynchronously-with-progressbar/
+
+
+static bool ShowSaveDialog(out string fileName, out string format)
+{
+	var dialog = new System.Windows.Forms.SaveFileDialog();
+	dialog.Filter = "RTF Document|*.rtf|Unicode Text Document|*.txt|Text Document|*.txt";
+	dialog.CheckPathExists = true;
+	if (dialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+	{
+		fileName = dialog.FileName;
+		if (dialog.FilterIndex == 1)
+			format = DataFormats.Rtf;
+		else if (dialog.FilterIndex == 2)
+			format = DataFormats.UnicodeText;
+		else
+			format = DataFormats.Text;
+		return true;
+	}
+	fileName = format = null;
+	return false;
+}
+
 == 03 - 11 - 2015
 - Cần tìm 
 	https://msdn.microsoft.com/en-us/library/jj155756.aspx
