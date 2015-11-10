@@ -1,3 +1,58 @@
+== 10 - 11 - 2015
++ Từ khóa
+https://www.google.com.vn/?gws_rd=ssl#q=foreach+async+c%23&start=20
+Foreach async
+How can I use Async with ForEach
+Parallel.ForEach and async await
+ForEachAsync
+Start Multiple Async Tasks and Process Them As They Complete
+
+
+	- Cần tìm
+	http://blogs.msdn.com/b/pfxteam/archive/2012/03/05/10278165.aspx
+	https://msdn.microsoft.com/en-us/library/hh556530.aspx
+	https://msdn.microsoft.com/en-us/library/jj155756.aspx
+	http://www.nesterovsky-bros.com/weblog/2014/06/25/ParallelVsAsyncInC.aspx
+	http://www.hanselman.com/blog/BackToParallelBasicsDontBlockYourThreadsMakeAsyncIOWorkForYou.aspx
+	https://www.simple-talk.com/dotnet/.net-framework/the-.net-4.5-asyncawait-feature-in-promise-and-practice/
+	http://www.mkmurray.com/blog/2012/12/01/async-lambda-expressions-and-anonymous-delegates/
+	
+	
+	
+
++ http://stackoverflow.com/questions/18667633/how-can-i-use-async-with-foreach
+using (DataContext db = new DataLayer.DataContext())
+{
+    var tasks = db.Groups.ToList().Select(i => GetAdminsFromGroupAsync(i.Gid));
+    var results = await Task.WhenAll(tasks);
+}
+
+
++ http://stackoverflow.com/questions/18667633/how-can-i-use-async-with-foreach
+public static async Task ForEachAsync<T>(this List<T> list, Func<T, Task> func)
+{
+	foreach (var value in list)
+	{
+		await func(value);
+	}
+}
+await db.Groups.ToList().ForEachAsync(async i => {
+	await GetAdminsFromGroup(i.Gid);
+});
+
++ http://stackoverflow.com/questions/15136542/parallel-foreach-with-asynchronous-lambda
+var bag = new ConcurrentBag<object>();
+var tasks = myCollection.Select(async item =>
+{
+  // some pre stuff
+  var response = await GetData(item);
+  bag.Add(response);
+  // some post stuff
+});
+await Task.WhenAll(tasks);
+var count = bag.Count;
+
+
 == 04 - 11 - 2015
 + Từ khóa
 Make WPF Image load async
