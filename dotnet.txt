@@ -1,3 +1,94 @@
+== 12 - 11 - 2015
++ Từ khóa
+Regex for BBCode + c#
+BBcode regular expression
+
+http://stackoverflow.com/questions/27829346/regex-find-urls-but-not-bbcode-urls
+http://stackoverflow.com/questions/23522022/regex-bbcode-parser-to-find-string-between-two-strings-between-two-strings-a
+
+http://stackoverflow.com/questions/10458103/how-to-make-php-bb-codes-with-regexp
+// Patterns
+$pat = array();
+$pat[] = '/\[url\](.*?)\[\/url\]/';         // URL Type 1
+$pat[] = '/\[url=(.*?)\](.*?)\[\/url\]/';   // URL Type 2
+$pat[] = '/\[img\](.*?)\[\/img\]/';         // Image
+
+http://hubpages.com/technology/Regex-for-BBCode-in-PHP
+http://stackoverflow.com/questions/4351239/regex-to-strip-bbcode-tags-from-a-string
+string r = Regex.Replace(s,
+    @"\[youtube\].*\[\/youtube\]",
+    String.Empty, RegexOptions.IgnoreCase);
+
+ r = Regex.Replace(r,
+    @"\[img\].*\[\/img\]",
+    String.Empty, RegexOptions.IgnoreCase);
+
+http://stackoverflow.com/questions/3064453/regex-bbcode-to-html
+http://stackoverflow.com/questions/8140350/parse-multiline-bbcode-with-c-sharp-regex
+
+http://stackoverflow.com/questions/7018321/help-fixing-a-bbcode-regular-expression
+
+http://www.foliotek.com/devblog/convert-html-to-bbcode-in-c/
+
++ Những mã BBCode và pattern
+https://eksith.wordpress.com/2009/01/14/aspnet-bbcode-c/	
+
+https://social.msdn.microsoft.com/Forums/en-US/cb2da3c5-b938-4e74-9df9-c5996f481f60/html-to-bb-code-converter-is-there-any-shortcut-
+
+https://lazyloaders.com/threads/vb-net-c-bbcode-function.39/
+regExp = new Regex(@"\[url\]([^\]]+)\[\/url\]"); 
+
+https://facepunch.com/showthread.php?t=868026
+
+http://go4answers.webhost4life.com/Example/problem-regex-bbcode-87873.aspx
+
+http://questions-group.com/data96/2015/07/24/c-regex-for-nested-bbcode/
+[(.*)b=?([^=].*)?](.*)[/1] 
+
+http://dotnet.edu.vn/ChuyenMuc/Aspnet--Jquery-BBcode-Editor-tao-BBCode-don-gian-185.aspx
+
+
+
+
+
+
+== 11 - 11 - 2015
++ Từ khóa
+Cancel a List of Tasks
+CancelNotification
+Cancelling async tasks
+Cancel an Asynchronous Method
+Pausing and cancelling async method in C#
+Cancelling async tasks – C#
+
+	+ Cần tìm
+	https://www.google.com.vn/?gws_rd=ssl#q=c%23+task+async+await+cancel&start=30
+	
+	http://bhrnjica.net/2014/04/15/pausing-and-cancelling-async-method-in-c/
+	http://jeremybytes.blogspot.com/2015/01/task-and-await-basic-cancellation.html
+	https://github.com/jeremybytes/using-task
+	http://www.jaylee.org/post/2013/04/16/Cancellation-with-Async-Fsharp-Csharp-and-the-Reactive-Extensions.aspx
+	http://cowthulu.com/handling-long-operations-with-cancel-and-progress-in-c-with-async/
+	http://www.thomaslevesque.com/2015/06/04/async-and-cancellation-support-for-wait-handles/
+	http://www.infoq.com/articles/Tasks-Async-Await
+	http://tomasp.net/blog/async-csharp-differences.aspx/	
+	
+	
+
+https://msdn.microsoft.com/en-us/library/jj155761.aspx
+https://msdn.microsoft.com/en-us/library/jj155759.aspx#Anchor_0
+https://code.msdn.microsoft.com/Async-Fine-Tuning-Your-a676abea
+https://msdn.microsoft.com/en-us/library/jj155758.aspx
+https://msdn.microsoft.com/en-us/library/jj631575.aspx
+http://stackoverflow.com/questions/10134310/how-to-cancel-a-task-in-await
+http://blogs.msdn.com/b/dotnet/archive/2012/06/06/async-in-4-5-enabling-progress-and-cancellation-in-async-apis.aspx
+http://blogs.msdn.com/b/pfxteam/
+http://blogs.msdn.com/b/pfxteam/archive/2015/02/02/new-task-apis-in-net-4-6.aspx
+http://codereview.stackexchange.com/questions/23020/c-5-async-await-task-factory-startnew-cancellation
+https://thinkthencode.wordpress.com/2014/08/18/cancelling-async-tasks-c/
+
+https://github.com/StephenCleary/AsyncEx
+
 == 10 - 11 - 2015
 + Từ khóa
 https://www.google.com.vn/?gws_rd=ssl#q=foreach+async+c%23&start=20
