@@ -48,10 +48,6 @@ http://questions-group.com/data96/2015/07/24/c-regex-for-nested-bbcode/
 http://dotnet.edu.vn/ChuyenMuc/Aspnet--Jquery-BBcode-Editor-tao-BBCode-don-gian-185.aspx
 
 
-
-
-
-
 == 11 - 11 - 2015
 + Từ khóa
 Cancel a List of Tasks
@@ -62,7 +58,7 @@ Pausing and cancelling async method in C#
 Cancelling async tasks – C#
 
 	+ Cần tìm
-	https://www.google.com.vn/?gws_rd=ssl#q=c%23+task+async+await+cancel&start=30
+	https://www.google.com.vn/?gws_rd=ssl#q=c%23+task+async+await+cancel&start=60
 	
 	http://bhrnjica.net/2014/04/15/pausing-and-cancelling-async-method-in-c/
 	http://jeremybytes.blogspot.com/2015/01/task-and-await-basic-cancellation.html
@@ -71,7 +67,18 @@ Cancelling async tasks – C#
 	http://cowthulu.com/handling-long-operations-with-cancel-and-progress-in-c-with-async/
 	http://www.thomaslevesque.com/2015/06/04/async-and-cancellation-support-for-wait-handles/
 	http://www.infoq.com/articles/Tasks-Async-Await
-	http://tomasp.net/blog/async-csharp-differences.aspx/	
+	http://tomasp.net/blog/async-csharp-differences.aspx/
+	http://code.stonetip.com/2012/10/23/119/	
+	http://windowsapptutorials.com/windows-phone/general/cancelling-an-async-task/
+	http://www.albahari.com/nutshell/cs5ch16.aspx
+	http://www.guruumeditation.net/en/c-5-0-playing-with-async-ctp/
+	http://julmar.com/blog/programming/moving-from-synchronous-apis-to-async-apis/
+	http://blog.rectorsquid.com/waiting-for-a-canceled-task-to-complete/
+	http://dailydotnettips.com/2013/09/03/asynchrony-with-dispatcher-in-wpf/
+	http://reedcopsey.com/2010/12/14/c-5-async-part-3-preparing-existing-code-for-await/
+	http://goobbe.com/issue/8026834/c-sharp-5-async-await-task-factory-startnew-cancellation
+	http://dev.splunk.com/view/csharp-sdk-pcl/SP-CAAAEYY
+	
 	
 	
 
