@@ -1,3 +1,84 @@
+== 19 - 11 - 2015
++ Từ khóa
+How to search with github
+Pipeline.NET - Limited Concurrency Task Scheduler 
+Tasks - Limit the number of concurrent Tasks
+How to set maximum concurrent threads using Task
+Maximum number of concurrent tasks
+limit concurrent tasks, limit thread usage, maximum concurrency
+How to: Create a Task Scheduler That Limits Concurrency
+Dirt simple method of limiting System.Threading.Task concurrency (max concurrent threads)
+How To Limit The Thread Count Use By The Task Library
+MaxParallelThreads
+
+https://www.google.com.vn/?gws_rd=ssl#q=maximum+concurrent+%2B+task+%2B+async+%2B+.net&start=30
+
+	- Cần tìm
+	https://github.com/Esri/arcgis-runtime-samples-dotnet/blob/99ad2c032c370b9b5c870539764aef7f771e2602/src/Desktop/ArcGISRuntimeSamplesDesktop/Samples/Symbology/MarkerSymbols.xaml.cs
+	https://github.com/bsonnino/ParallelProgramming
+	https://github.com/bsonnino/ProgramacaoParalela
+	https://github.com/sramzel/DailyValue/tree/0e1d08fda8a0fcac7fd6d721f275ec2a8159600b/DailyValue/Views
+	https://github.com/hermitdave/AsyncTask/blob/master/AsyncTask/MainPage.xaml.cs
+	https://github.com/Dispersia/LegendaryClient/blob/d2ac8d069dfcc2cd87befb807b964881ab19e0bd/LegendaryClient/Controls/ChatItem.xaml.cs
+	https://github.com/Xenophik/WContact/blob/0a96182ced381ebb2bd8961e3a7dec7cabbbaf16/src/WOWSharp2.x/WOWSharp.Silverlight5Test/DiabloTest.xaml.cs
+	https://github.com/richhildebrand/PuzzleRpg
+	
+	- cancellable
+	https://github.com/AhmedMabrouck/Microsoft-Egypt-AppFactory-Training/blob/bc68ccf1888693497a85691f75a3f773c6b745b6/01.CSharp/Day%203/03.Asynchrony/New%20folder/Asynchrony/MainPage.xaml.cs
+	
+	- Splash screen
+	https://github.com/Robot1que/Samples/blob/31d16d426a176a875827891b0bd02b12dc834baf/LearningSplashScreen/LearningSplashScreen/App.xaml.cs
+	
+	- có phần setting
+	https://github.com/r-ashish/IntelAgent/tree/master/CodeFunDo
+	
+	- maximum currently, maximum concurrency
+	http://stackoverflow.com/questions/10806951/how-to-limit-the-amount-of-concurrent-async-i-o-operations
+	https://msdn.microsoft.com/en-us/library/ee789351%28v=vs.110%29.aspx
+	http://www.shulerent.com/2013/08/08/dirt-simple-method-of-limiting-system-threading-task-concurrency-max-concurrent-threads/ - sử dụng SemaphoreSlim 
+	http://stackoverflow.com/questions/2898609/system-threading-tasks-limit-the-number-of-concurrent-tasks
+	http://stackoverflow.com/questions/20355931/limiting-the-amount-of-concurrent-tasks-in-net-4-5
+	http://stackoverflow.com/questions/17804004/how-to-set-maximum-concurrent-threads-using-task
+	http://www.blackwasp.co.uk/LoopMaxParallelism.aspx
+	http://aviadezra.blogspot.com/2009/10/how-many-threads-tpl-concurrency.html
+	
+	https://books.google.com.vn/books?id=XO4RCgAAQBAJ&pg=PA153&lpg=PA153&dq=.net+task+maximum+concurrent&source=bl&ots=mdzToaSII_&sig=AKPfgIFDhtiNfUcS-Ef3zIWuhXM&hl=vi&sa=X&ved=0CC8Q6AEwAjgUahUKEwinu-WRlpzJAhXFKaYKHf4dACc#v=onepage&q=.net%20task%20maximum%20concurrent&f=false
+	http://www.albahari.com/threading/part5.aspx
+	http://sylvester-lee.blogspot.com/2014/05/how-to-limit-thread-count-use-by-task.html
+	http://tipsandtricks.runicsoft.com/CSharp/ParallelClass.html
+	http://blogs.msdn.com/b/pfxteam/archive/2012/02/12/10266983.aspx
+	https://msdn.microsoft.com/en-us/library/hh873173%28v=vs.110%29.aspx
+	http://www.codemag.com/article/1211071
+	http://codereview.stackexchange.com/questions/18519/real-world-async-and-await-code-example
+	http://www.matlus.com/httpwebrequest-asynchronous-programming/
+	
+https://github.com/search
+https://help.github.com/articles/searching-code/
+
+
+https://github.com/search?p=6&q=filename%3A.xaml.cs+await&ref=searchresults&type=Code&utf8=%E2%9C%93
+
+
+
+https://github.com/jernejk/ForScore-data-export-tool/blob/06a6096810d87aead8be933b96331b930e18e2d1/src/PortingDataFromForScore/MainWindow.xaml.cs
+https://github.com/tpodolak/Playground/blob/ef1ce534e7c47af77931cbfa7ba0770b4d509e72/AsyncAwaitDeadlock/AsyncAwaitDeadlockWPF/MainWindow.xaml.cs
+https://github.com/ytabuchi/Study/blob/65b4d267880ea6d646171d1ba0ba0aae218aa28e/X_GpsSample/XF_GpsSample/XF_GpsSample/GetGeoXaml.xaml.cs
+https://github.com/christophwille/winrt-snippets/blob/9c3c2b477a7e977abef7d28406c18b0ac30ef166/sqlite-winrt-samples/BasicSamples/BasicSamples/MainPage.xaml.cs
+
+	https://github.com/BrianPeek/legoev3/blob/b6ef11f3e68d6a34f1b794e8ebe64009aa540b40/Testers/Lego.Ev3.Tester.Phone/MainPage.xaml.cs
+	https://github.com/BrianPeek/legoev3/blob/b6ef11f3e68d6a34f1b794e8ebe64009aa540b40/Testers/Lego.Ev3.Tester.Phone81/MainPage.xaml.cs
+	https://github.com/WouterDeKort/ProgrammingInCSharp/blob/1f43b8e35001d18e82ffd052f29bf68518dff0d6/Chapter1.WPF/MainWindow.xaml.cs
+
+== 16 - 11 - 2015
++ Từ khóa
+Using Async for File Access
+
+http://stackoverflow.com/questions/2407986/get-all-sub-directories-from-a-given-path
+http://stackoverflow.com/questions/2953254/cgetting-all-image-files-in-folder
+http://stackoverflow.com/questions/4124254/want-to-list-all-image-files-in-a-folder-using-c-sharp
+http://blogs.msdn.com/b/csharpfaq/archive/2012/01/23/using-async-for-file-access-alan-berman.aspx
+
+
 == 12 - 11 - 2015
 + Từ khóa
 Regex for BBCode + c#
