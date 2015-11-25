@@ -1,3 +1,62 @@
+== 23 - 11 - 2015
++ Từ khóa
+wpf notify message
+A WPF desktop alert control 
+WPF Notification Bar
+
+	https://www.google.com.vn/?gws_rd=ssl#q=wpf+notify+message&start=40
+	- Cần tìm notifications
+	http://www.codeproject.com/Articles/499241/Growl-Alike-WPF-Notifications
+	https://toastspopuphelpballoon.codeplex.com/
+	http://www.codeproject.com/Articles/275238/Skinnable-and-Animated-popup-window-in-WPF
+	http://www.canofcode.co.uk/software/wpf-notification-popup/
+	http://www.codeproject.com/Articles/36468/WPF-NotifyIcon
+	http://www.hardcodet.net/wpf-notifyicon
+	http://nickeandersson.blogs.com/blog/2007/12/a-wpf-desktop-a.html
+	https://www.nuget.org/packages?q=notification
+	http://www.abhisheksur.com/2012/08/notifyicon-with-wpf-applications.html
+	http://blog.magnusmontin.net/2013/04/20/implement-a-confirmation-dialog-in-wpf-with-mvvm-and-prism/
+	https://github.com/TheLevelUp/wpf-notify-icon/blob/master/wpf-notifyicon/NotifyIconWpf/TaskbarIcon.cs
+	
+	- cần tìm icon
+	http://stackoverflow.com/questions/2672537/setting-icon-for-wpf-application-vs-08
+	https://possemeeg.wordpress.com/2007/09/06/minimize-to-tray-icon-in-wpf/
+	http://stackoverflow.com/questions/13281143/how-can-i-change-the-icon-of-wpf-application
+	http://stackoverflow.com/questions/1881580/wpf-icon-for-all-app-windows
+	https://msdn.microsoft.com/en-us/library/system.windows.window.icon%28v=vs.110%29.aspx
+	http://blogs.technicise.com/how-to-add-task-bar-icon-for-wpf-application/
+	http://www.broculos.net/2014/03/wpf-how-to-add-icon-for-entire.html#.VlQ5GX2_B-I
+	http://www.c-sharpcorner.com/uploadfile/mahesh/windows-icon-in-wpf/
+	http://sa.ndeep.me/post/143/using-custom-icons-in-a-wpf-application
+	https://github.com/sandeepb1/CustomFontIcons
+	http://findicons.com/search/wpf-application
+	http://www.iconarchive.com/tag/wpf-application
+	http://www.abhisheksur.com/2012/08/notifyicon-with-wpf-applications.html
+	http://www.blackwasp.co.uk/WPFApplicationIcon.aspx
+	http://learnwpf.com/post/2012/07/09/Adding-an-Icon-and-File-Association-to-WPF-Clickonce-Applications.aspx
+	http://www.wpftutorial.net/RemoveIcon.html
+	http://www.thomasclaudiushuber.com/blog/2015/08/22/creating-a-background-application-with-wpf/
+	http://labs.bjfocus.co.uk/2013/06/add-a-notification-icon-to-your-wpf-program/
+	
+	
+	
+http://stackoverflow.com/questions/4088465/wpf-notifications
+https://github.com/kentcb/WPFConverters
+http://stackoverflow.com/questions/461184/toast-style-popup-for-my-application
+http://stackoverflow.com/questions/3034741/create-popup-toaster-notifications-in-windows-with-net
+http://www.bjoernrochel.de/2009/11/02/notifications-the-wpf-way-i-guess-part-iii/
+http://chateau-logic.com/content/c-wpf-application-plumbing-using-emesary
+http://blogs.msdn.com/b/bethmassi/archive/2008/06/27/displaying-data-validation-messages-in-wpf.aspx
+http://wpfapptutorial.com/mvvm-light-messenger
+http://www.c-sharpcorner.com/UploadFile/20c06b/messaging-system-in-wpf/
+https://documentation.devexpress.com/#WPF/CustomDocument17975
+http://blog.galasoft.ch/posts/2009/10/clean-shutdown-in-silverlight-and-wpf-applications/
+
+
+
+Represents a pop-up window that has content.
+https://msdn.microsoft.com/en-us/library/system.windows.controls.primitives.popup.aspx
+
 == 19 - 11 - 2015
 + Từ khóa
 How to search with github
