@@ -1,3 +1,39 @@
+== 26 - 11 - 2015
++ Từ khóa
+combine exe file
+
+http://www.eziriz.com/
+http://research.microsoft.com/en-us/people/mbarnett/ILMerge.aspx
+https://www.microsoft.com/en-us/download/details.aspx?id=17630
+http://nbox.codeplex.com/
+https://www.pelock.com/products/netshrink
+https://www.pelock.com/products/netshrink/screenshots
+
+
+
+https://www.google.com/search?q=telerik+wpf&ie=utf-8&oe=utf-8#q=wpf+controls&start=30
++ Software
+http://wpftoolkit.codeplex.com/
+http://www.mindscapehq.com/products/wpfelements
+https://www.google.com/search?q=telerik+wpf&ie=utf-8&oe=utf-8#q=wpf+controls&start=20
+http://www.kaxaml.com/
+
++ WPF Controls
+https://www.telerik.com/download-trial-file/v2/ui-for-wpf
+http://www.telerik.com/products/wpf/download.aspx
+http://www.viblend.com/Products/NET/WPF/Controls/data-grid.aspx
+http://xceed.com/US_Suite_Intro.html
+
+http://www.infragistics.com/products/wpf/menus
+https://www.devexpress.com/Products/NET/Controls/WPF/
+https://www.devexpress.com/Products/NET/Controls/WPF/Ribbon/
+http://www.actiprosoftware.com/products/controls/wpf
+https://www.componentone.com/Downloads/Default.aspx?utm_expid=224476-9.voSbRvEJQOm2npuLKScXCg.0&utm_referrer=http%3A%2F%2Fwww.componentone.com%2FStudio%2FNavigation-Layout%2FTabControlWPF
+
+
+https://www.syncfusion.com/products/wpf
+https://www.syncfusion.com/products/wpf/notify-icon
+
 == 23 - 11 - 2015
 + Từ khóa
 wpf notify message
