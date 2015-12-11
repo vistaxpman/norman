@@ -1,1 +1,303 @@
-3
+== 10 - 12 - 2015
++ Từ khóa
+Grid Layout in WPF
+Grid within a grid, ofcourse. Thank you sir :) 
+How to split a Grid row into two columns
+Easy form layout in WPF 
+Using a WPF StackPanel for Business Forms
+Super Productivity: Using WPF and Silverlight’s Automatic Layout Features in Business Applications
+	- good
+	http://www.codemag.com/Article/1505091
+	http://www.codemag.com/magazine
+	http://wpf.2000things.com/tag/grid/
+	http://weblogs.asp.net/psheriff/using-a-wpf-stackpanel-for-business-forms
+	https://rachel53461.wordpress.com/2011/09/17/wpf-grids-rowcolumn-count-properties/
+	http://blog.scottlogic.com/2010/11/15/using-a-grid-as-the-panel-for-an-itemscontrol.html
+	http://daniel-albuschat.blogspot.com/2011/07/gridlayout-for-wpf-escape-margin-hell.html
+	http://samondotnet.blogspot.com/2012/03/wpf-grid-layout-simplified-using-rows.html
+	http://www.nbdtech.com/Blog/archive/2010/08/03/easy-form-layout-in-wpf-part-2-ndash-how-to.aspx
+	http://www.nbdtech.com/Blog/archive/2010/08/10/easy-form-layout-in-wpf-part-3-ndash-adding-groups.aspx
+	http://www.magnuslindhe.com/2014/09/listbox-with-grid-layout-in-wpf/
+	http://www.magnuslindhe.com/2015/04/styling-a-togglebutton-inside-a-toolbar/
+	http://www.magnuslindhe.com/2015/04/how-to-remove-cell-focus-border-on-telerik-radgridview/
+	http://www.magnuslindhe.com/2015/03/how-to-turn-off-selection-on-a-listview-control/
+	http://deepak-sharma.net/2013/02/01/how-to-add-rows-and-columns-to-a-wpf-grid-programmatically/
+	http://programming-pages.com/2012/01/15/wpfs-grid-layout-in-xaml-and-c/
+	http://www.codemag.com/article/1011071
+	http://www.webtech360.com/detail/wpf-grid-layout-control-3480.html
+	
+	
+http://garfoot.com/blog/2013/09/using-grids-with-itemscontrol-in-xaml/	
+http://www.c-sharpcorner.com/UploadFile/1e050f/grid-layout-in-wpf/
+https://msdn.microsoft.com/en-us/library/bb514525%28v=vs.90%29.aspx
+http://www.wpf-tutorial.com/panels/grid-rows-and-columns/
+http://stackoverflow.com/questions/7432654/wpf-grid-layout
+http://stackoverflow.com/questions/9040535/how-to-split-a-grid-row-into-two-columns
+http://www.codeproject.com/Articles/238307/A-Two-Column-Grid-for-WPF
+http://www.go4expert.com/articles/understanding-wpf-grid-layout-t30094/
+http://www.blackwasp.co.uk/WPFGrid.aspx
+	
+
+
++ Tạo layout cho GridView WPf
+http://www.infragistics.com/samples/wpf/grid/template-column-layout
+Trong này có tạo phần hiển thị thông tin dạng Grid, chia layout và kèm image
+
+
+
+
+== 30 - 11 - 2015
++ Từ khóa
+Free Multi-purpose Flat Icon Set
+Axialis Pure Flat 2013 Toolbar Icons
+Pure Flat 2013 Toolbar Stock Icons 
+
+https://www.google.com.vn/search?q=free+toolbar+icon+sets&biw=1920&bih=943&tbm=isch&tbo=u&source=univ&sa=X&sqi=2&ved=0ahUKEwid4MrpqsHJAhWKc44KHfK7DZAQsAQINQ&dpr=1
+
++ Icon - https://www.google.com.vn/?gws_rd=ssl#q=free+icon&start=10
+	
+	
+	- icon toolbar
+	https://www.iconfinder.com/search/?q=iconset%3A32pxmania
+	https://www.iconfinder.com/iconsets/woothemesiconset
+	https://www.iconfinder.com/iconsets/crystal_office
+	https://www.iconfinder.com/iconsets/freeapplication
+	https://www.iconfinder.com/iconsets/ie_Milky
+	https://www.iconfinder.com/iconsets/function_icon_set
+	https://www.iconfinder.com/iconsets/icojoy
+	https://www.iconfinder.com/iconsets/developperss
+	https://www.iconfinder.com/iconsets/onebit
+	https://www.iconfinder.com/iconsets/developerkit
+	https://www.iconfinder.com/iconsets/woothemes
+	
+	http://www.icojam.com/blog/?p=668
+	http://www.icojam.com/download/eldorado_bundle_mini_3132.zip
+	http://www.directoryofshareware.com/getit/professional_toolbar_icon_set/
+	
+	http://www.filebuzz.com/findsoftware/Ms_Office_Toolbar_Icon_Set/1.html
+	http://www.sharewareconnection.com/32x32-free-design-icons.htm
+	
+	http://sekkyumu.deviantart.com/art/Developpers-Icons-63052312
+	http://www.deviantart.com/download/63052312/developpers_icons_by_sekkyumu.zip?token=3cb2ce034c28ba2fa30acc5b71f64f6fe3cfdb76&ts=1449221523
+	
+	https://www.google.com.vn/search?q=free+toolbar+icon+sets&biw=1920&bih=943&tbm=isch&tbo=u&source=univ&sa=X&sqi=2&ved=0ahUKEwid4MrpqsHJAhWKc44KHfK7DZAQsAQINQ&dpr=1
+	
+	http://www.tutorial9.net/downloads/nixus-icon-pack-60-beautiful-premium-icons-free/
+	http://tutorial9.s3.amazonaws.com/wp-content/uploads/2010/02/NIXUS-Tutorial9.zip
+	
+	http://www.tutorial9.net/downloads/icon-pack-256x256-business-icons/
+	http://tutorial9.s3.amazonaws.com/wp-content/uploads/2010/07/256x256-Business-Icons.zip
+	
+	http://www.tutorial9.net/downloads/free-icon-pack-web-injection/
+	http://tutorial9.s3.amazonaws.com/uploads/2009/04/web-injection-icon-pack.zip
+	
+	http://www.qweas.com/downloads/desktop/icons/screenshots-24x24-free-application-icons.html
+	http://www.small-icons.com/downloads/24x24-free-application-icons.zip
+	
+	http://www.brothersoft.com/software-toolbar-icons-177914.html
+	http://www.webiconset.com/free-download-30-toolbar-icons/
+	
+	http://sublink.ca/icons/sweetieplus/
+	http://sublink.ca/downloads/SweetiePlus-v2-SublinkInteractive.zip
+	
+	http://clipart.me/19051/free-blueberry-icon-set
+	
+	http://www.webappers.com/2007/09/10/giving-away-one-set-of-264-apples-os-x-toolbar-icons/
+	
+	
+	http://www.supadupawebdesign.co.uk/blog/Web-Design-6/44-Great-Free-Icon-Sets-50
+	https://github.com/nerdfiles/ui-resources/tree/master/interface-elements/icon-sets/woofunction-icon-set
+	http://www.axialis.com/free/icons/index.html
+	http://jasabuatsoftware.blogspot.com/2014/09/axialis-pure-flat-2013-ribbon-toolbar.html
+	http://lkji84.blogspot.com/2014/05/pure-flat-2013-toolbar-stock-icons.html
+	http://line25.com/articles/30-free-icon-packs-from-the-dribbble-community
+	http://omercetin.deviantart.com/art/PixeloPhilia-32PX-Icon-Set-157612627
+	http://salleedesign.com/resources/delight-icons/
+	http://toolbar-icon-set.en.softonic.com/
+	http://www.softpedia.com/get/Desktop-Enhancements/Icons-Related/20x20-Free-Toolbar-Icons.shtml
+	
+	http://blog.twg.ca/2009/09/free-iphone-toolbar-icons/
+	http://twg.ca/system/downloads/twg_iphone_toolbar_icons.zip
+	http://blog.twg.ca/wp-content/uploads/2010/11/TWG_Retina_Icons.zip
+	
+	http://www.gentleface.com/free_toolbar_icons.html
+	http://download.gentleface.com/free_CC-NC_toolbar_icons.zip
+	http://ava1219.deviantart.com/art/Icons-155814328
+	http://kyo-tux.deviantart.com/art/NiXUS-153355594
+	http://tango.freedesktop.org/Tango_Icon_Library
+	http://led24.de/iconset/
+	
+	http://www.tutorial9.net/downloads/108-mono-icons-huge-set-of-minimal-icons/
+	http://tutorial9.s3.amazonaws.com/uploads/2009/12/mono-icons/32x32%20Mono%20Icons%20-%20Tutorial9.zip
+	
+	http://glyphish.com/download/glyphish-free.zip
+	http://www.softpedia.com/get/Desktop-Enhancements/Icons-Related/24x24-Free-Button-Icons.shtml
+	http://www.dreamstime.com/stock-photo-toolbar-website-icons-image-vector-illustration-image31980030
+	
+	
+	http://d.pr/f/qkDD/download
+	https://github.com/kgn/kgn_icons
+	http://www.ultimatedesignertoolkit.com/photoshop/free-tiny-icons/
+	
+	http://www.uza.lt/icons/
+	http://uza.lt/download/3
+	
+	http://brankic1979.com/icons/
+	http://www.brankic1979.com/wp-content/uploads/2012/02/brankic1979-icon-set.zip
+	
+	http://maxcdn.webappers.com/download/toolbar-icons.zip
+	http://www.webappers.com/2012/07/09/30-toolbar-icons-for-user-interface-design/
+	
+	http://www.smashingmagazine.com/2015/01/freebie-dashel-icon-set-svg-psd-png/
+	http://provide.smashingmagazine.com/smashing-freebie-dashel-icon-set.zip
+	
+	http://www.1001freedownloads.com/free-icon/iconset-essential-toolbar-icons-by-fast-icon-design
+	http://www.1001freedownloads.com/download/1104393
+	
+	http://www.hongkiat.com/blog/toolbar-icon-set/
+	
+	http://www.axialis.com/stock-icons/pure-flat-2013-toolbar.html
+	http://www.axialis.com/free/icons/index.html
+	
+	http://www.iconlover.com/2010/11/free-small-icons-for-designers/
+	http://www.mightydeals.com/deal/webiconset-membership.html?ref=social
+	https://www.google.com.vn/?gws_rd=ssl#q=free%20toolbar%20icon%20sets
+	https://www.google.com.vn/search?q=free+toolbar+icon+sets&biw=1920&bih=943&tbm=isch&tbo=u&source=univ&sa=X&sqi=2&ved=0ahUKEwid4MrpqsHJAhWKc44KHfK7DZAQsAQINQ&dpr=1
+	http://www.webappers.com/2012/07/09/30-toolbar-icons-for-user-interface-design/
+	http://www.instantshift.com/2010/08/27/100-free-high-quality-icon-sets-for-web-designers-and-developers/
+	http://www.smashingmagazine.com/2010/06/my-favorite-icon-sets/
+	http://www.freshshare.com/Desktop-Enhancements/Icons/office-style-icon-set-download-29516.htm
+	http://www.small-icons.com/packs/24x24-free-toolbar-icons.htm
+	http://www.lamweb.com/freebies/hon-70-bo-icon-mien-phi-ban-nen-danh-dau/
+	http://www.brothersoft.com/artistic-icon-set-77623.html
+	
+	http://www.gentleface.com/free_icon_set.html
+	https://www.icondeposit.com/theicondeposit:108
+	http://tympanus.net/codrops/2012/10/02/freebie-application-icon-set-png-psd-csh/
+	http://findicons.com/pack/2083/go_green_web
+	http://speckyboy.com/2013/02/19/freebie-retina-glyph-icon-set/
+	http://www.graphicsfuel.com/2013/01/45-ios-tab-bar-icons-psd-png/
+	
+	https://www.icondeposit.com/theicondeposit:28
+	http://p.yusukekamiyamane.com/
+	http://www.webdesignerdepot.com/2009/07/200-free-exclusive-vector-icons-primo/
+	http://www.webdesignerdepot.com/2009/03/200-free-exclusive-icons-siena/
+	http://www.tuohoo.com/Superb-Icon/20-semi-transparent-icons-vector.html
+	http://www.webdesignerdepot.com/2013/09/free-download-120-vector-glyph-icons/
+	https://www.iconfinder.com/iconsets/Primo_Icons
+	https://www.iconfinder.com/iconsets/onebit
+	https://www.iconfinder.com/iconsets/Basic_set2_Png	
+	https://www.iconfinder.com/iconsets/metal
+	https://www.iconfinder.com/iconsets/follow-me
+	https://www.iconfinder.com/iconsets/ionicons
+	https://www.iconfinder.com/iconsets/feather
+	https://www.iconfinder.com/iconsets/vibrant
+	https://www.iconfinder.com/iconsets/icocentre-free-icons
+	https://www.iconfinder.com/iconsets/shift-free
+	https://www.iconfinder.com/iconsets/ie_Glossy_button
+	https://www.iconfinder.com/iconsets/freeapplication
+	https://www.iconfinder.com/iconsets/32x32-free-design-icons
+	https://www.iconfinder.com/iconsets/48x48-free-time-icons
+	http://steadysets.com/
+	http://www.webdesignerdepot.com/2015/07/free-download-200-flat-icons-from-smashicons/
+	http://www.webdesignerdepot.com/2015/03/free-download-450-outline-icons/
+	http://www.webdesignerdepot.com/2012/06/free-download-simplycons-icon-set/?ref=speckyfreebies1
+	http://fribly.com/2013/02/12/mini-icons/
+	https://www.icondeposit.com/theicondeposit:21
+	http://www.mouserunner.net/Spheres_ColoCons1_Free_Icons
+	https://dribbble.com/shots/741141-Icon
+	http://www.icojam.com/blog/?p=380
+	http://medialoot.com/item/listicons-arrows-bullets-webfont/
+	http://dryicons.com/free-icons/preview/grey-moonlight-icons/
+	http://medialoot.com/free/P90/search?&category=+4+47+6+40+5&freebie=free+&item_metadata=+&order=date+desc
+	http://pixelkit.com/free-ui-kits/arctic-sunset/
+	https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits
+	http://www.webdesignerdepot.com/2013/09/free-download-awesome-ui-kit/
+	http://www.webdesignerdepot.com/2013/11/free-download-5-oclock-shadows-icon-set/
+	
+	http://www.fatcow.com/free-icons
+	http://www.fatcow.com/images/fatcow-icons/fatcow-hosting-icons-3.9.2-all.zip
+	
+	http://maxbuttons.com/free-icon-set/colicons-freebie/
+	http://www.freeicons.co.in/51-iphone-toolbar-icons-for-free-use/
+	
+	
+	wefunction.com/
+	http://www.icojam.com/
+	http://www.icojam.com/blog/?p=231
+	http://webdesign-freebies.tumblr.com/tagged/Free-Icons
+	https://dribbble.com/search?q=free+icons
+	http://glyphicons.com/
+	http://graphicburger.com/icons-set/	
+	
+	
+https://www.iconfinder.com/iconsets/musthave
+https://www.iconfinder.com/iconsets/softwaredemo
+https://www.iconfinder.com/iconsets/vista-general
+https://www.iconfinder.com/iconsets/simplicio
+https://www.iconfinder.com/iconsets/material-audio-video
+https://www.iconfinder.com/iconsets/chatting
+https://www.iconfinder.com/iconsets/checkout-icons
+https://www.iconfinder.com/iconsets/free-funktional-icons
+https://www.iconfinder.com/iconsets/Vector-Icon-set-1-BevelAndEmboss-Net
+http://www.smashingmagazine.com/tag/freebies/
+
+http://www.freepik.com/free-icons
+http://dryicons.com/free-icons/
+https://www.iconfinder.com/free_icons
+https://icons8.com/web-app/category/all/Computer-Hardware
+http://www.smashingmagazine.com/tag/freebies/
+https://www.behance.net/search?content=projects&sort=appreciations&time=week&search=free%20icons
+https://www.behance.net/gallery/7925693/Free-Social-Media-Icons
+http://www.iconsweets2.com/
+http://freebiesbug.com/psd-freebies/icons/
+https://colorlib.com/wp/free-flat-social-media-icons-sets/
+
+
+
+
+
+http://demos.telerik.com/wpf/
+http://www.telerik.com/products/wpf/overview.aspx
+http://www.telerik.com/wpf/sample-applications
+http://www.telerik.com/forums/downloadable-source-code-for-wpf-controls-examples
+https://www.telerik.com/login/v2/telerik?ReturnUrl=https%3a%2f%2fidentity.telerik.com%2fv2%2foauth%2ftelerik%2fauthorize%3fclient_id%3dhttp%253a%252f%252fwww.lean.telerik.com%26redirect_uri%3dhttp%253a%252f%252fwww.telerik.com%252faccount%252fyour-products%252fproduct-versions.aspx%253fpmvid%253d4061%2526pid%253d601%26response_type%3dcode%26state%3d54985E31F3FC9159B0957D2E56344C8E38AE83B7BFF0422DF3F3012E69668F85
+http://www.telerik.com/products/wpf/download.aspx
+http://docs.telerik.com/devtools/wpf/introduction.html
+https://github.com/telerik
+https://github.com/telerik/xaml-sdk
+
+
++ Mán hình tham khảo
+ActivePresenter Professional Edition 5.5.2 
+https://atomisystems.com/activepresenter/pro-edition/
+
+
+avxhome.se/pictures/3765923
+WonderFox DVD Video Converter 8.7 
+
+Mgosoft PDF To Image Converter 11.0.918 
+pxhst.co/pictures/3715752
+http://www.mgosoft.com/pdf-to-image.html
+
+ImTOO AVCHD Converter 7.8.12 Build 20151119 Multilingual 
+http://avxhome.se/pictures/3780534
+http://www.imtoo.com/avchd-converter.html
+
+http://www.4videosoft.com/support.html
+http://www.4videosoft.com/video-converter-ultimate.html
+http://avxhome.se/pictures/3780003
+4Videosoft PDF to Word Converter 3.1.78 Multilingual Portable 
+
+http://www.anymp4.com/pdf-converter-ultimate/
+AnyMP4 PDF Converter Ultimate 3.2.12 Multilingual Portable 
+http://avxhome.se/pictures/3779964
+
+RonyaSoft CD DVD Label Maker 3.01.32 Multilingual 
+http://avxhome.se/pictures/3778061
+
+http://avxhome.se/pictures/3785589
+GoldWave 6.18 + Portable 
+
+http://avxhome.se/pictures/3445281
+BurnAware Professional 8.0 Multilingual 
