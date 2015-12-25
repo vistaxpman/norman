@@ -1,3 +1,65 @@
+== 25 - 12 - 2015
+https://www.upwork.com/o/profiles/browse/?q=wpf%20layout%20and%20design
+
++ Từ khóa
+layout design in wpf
+
+https://www.google.com.vn/?gws_rd=ssl#q=layout+design+in+wpf&start=10
+
+	
+	
+	http://www.blackwasp.co.uk/WPFViewbox.aspx
+	http://www.dotnetlead.com/wpf/layout-by-content
+	https://github.com/blog/1151-designing-github-for-windows
+	http://www.wpf-tutorial.com/panels/grid-rows-and-columns/
+	http://www.nbdtech.com/Blog/archive/2010/07/27/easy-form-layout-in-wpf-part-1-ndash-introducing-formpanel.aspx
+	http://quince.infragistics.com/Patterns/Liquid%20Layout.aspx
+	http://wpftutorial.net/DockPanel.html
+	http://wpftutorial.net/WrapPanel.html
+	http://wpftutorial.net/GridLayout.html
+	http://wpftutorial.net/Canvas.html
+	http://wpftutorial.net/ViewBox.html
+	http://wpftutorial.net/CustomLayoutPanel.html
+	https://msdn.microsoft.com/en-us/library/system.windows.controls.grid%28v=vs.90%29.aspx
+	http://www.mini.pw.edu.pl/~mossakow/materials/presentations/wpf.3.5/controls_layout/index.html
+	http://laptrinhviet.net/Content/Document/WPF/WebGiaoTrinhWPF/DemoGiaoTrinhWPF/doc.htm
+	
+	
+	
+	https://zamjad.wordpress.com/2009/09/22/right-to-left-stack-in-wpf/
+	http://www.java2s.com/Tutorial/CSharp/0470__Windows-Presentation-Foundation/RotateButtonAnimationWithLayout.htm
+	http://www.sharpfellows.com/post/WPFSilverlight-MVVM-Design-Data-create-once-and-share-with-Unit-Tests
+	http://www.codeproject.com/Articles/332615/WPF-Master-Details-MVVM-Application
+	http://tapchilaptrinh.vn/2012/08/01/wpf2-bo-tri-giao-dien-trong-ung-dung/
+	
+	http://www.codeproject.com/Articles/140613/WPF-Tutorial-Layout-Panels-Containers-Layout-Trans
+	http://blogs.msdn.com/b/wpfsldesigner/archive/2010/06/04/layout-techniques-for-windows-forms-developers.aspx
+	http://stackoverflow.com/questions/2399234/how-do-i-layout-a-form-in-wpf-using-grid-or-other-controls-for-maintainability
+	http://paulstovell.com/blog/magellan-shared-layouts
+	http://paulstovell.com/blog/wpf-model-view-presenter
+	http://stackoverflow.com/questions/8940892/wpf-desktop-application-layout-dilemma
+	http://blogs.msdn.com/b/wpf/?CR_CC=200674113
+	https://karlshifflett.wordpress.com/category/wpf-controls/page/3/
+	https://karlshifflett.wordpress.com/2008/10/23/wpf-silverlight-lob-form-layout-searching-for-a-better-solution/
+	https://karlshifflett.wordpress.com/2008/05/16/wpf-multi-tier-business-application-track-code-camp-source-code/
+	http://www.granthinkson.com/category/wpf/page/2/
+	https://patrickyong.wordpress.com/category/wpf/
+	https://dzone.com/articles/putting-another-grid-out-there
+	https://tuananhict.wordpress.com/category/windows-form-tutorials/
+	http://www.blogs.intuidev.com/post/2010/01/25/TabControlStyling_PartOne.aspx
+	http://www.java2s.com/Tutorial/VB/0290__Windows-Presentation-Foundation/SetcontrolpositionforCanvas.htm
+	http://www.abhishekshukla.com/wpf/advanced-wpf-part-1-reusable-ui-in-windows-presentation-foundation/
+	http://dashboards-fx.blogspot.com/2012/08/wpf-gridpanel-tutorial.html
+	https://marlongrech.wordpress.com/2008/02/28/wpf-overlays-or-better-adorner/
+	https://tuanphamdg.wordpress.com/2015/05/26/wpf-material-design-shadows-in-wpf/
+	http://www.bravohex.com/2013/05/thiet-ke-giao-dien-ribbon-voi-wpf.html
+	
+	
+	http://paulstovell.com/blog?skip=130
+http://www.lunamusika.com/blog/?p=2297
+http://wpftutorial.net/StackPanel.html
+https://yinyangit.wordpress.com/2011/08/28/wpf-co-ban-ve-layout/
+
 == 18 - 12 - 2015
 + Từ khóa
 
