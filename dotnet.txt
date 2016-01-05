@@ -1,1 +1,32 @@
-== 25 - 12 - 2015
+== 05 - 01 - 2016
++ Từ khóa
+How do I set a cookie on HttpClient HttpRequestMessage
+https://www.google.com.vn/?gws_rd=ssl#q=httpclient+c%23+post+cookie+example&start=40
+
+	+ Cần tìm
+	http://www.binaryintellect.net/articles/0f52c5bf-b7a4-4720-9572-6159b1804d1d.aspx
+	http://odetocode.com/articles/162.aspx
+	http://www.devcurry.com/2013/04/http-cookies-and-aspnet-web-api.html
+	http://codecaster.nl/blog/2012/12/using-the-webclient-class-with-cookies/
+	https://blogs.windows.com/buildingapps/2015/11/23/demystifying-httpclient-apis-in-the-universal-windows-platform/
+	http://codereview.stackexchange.com/questions/18519/real-world-async-and-await-code-example
+	http://www.terminally-incoherent.com/blog/2008/05/05/send-a-https-post-request-with-c/	
+	https://www.stevefenton.co.uk/2012/10/automating-web-login-with-httpwebrequest/
+	http://www.scriptscoop.net/t/374b23f7adf5/c-c-httpclient-does-not-store-some-cookies.html
+	http://www.programering.com/a/MzM0gjNwATE.html
+	https://open.xerox.com/Help/OAuth2%20Authorization
+	http://leastprivilege.com/2012/06/19/session-token-support-for-asp-net-web-api/
+	http://www.asp.net/web-api/overview/advanced/calling-a-web-api-from-a-net-client
+	http://www.baeldung.com/httpclient-4-basic-authentication
+	http://dennymichael.net/2014/03/16/c-enable-cookie-container-on-system-net-webclient-for-authentication/
+	http://geekswithblogs.net/xlinesonegoal/archive/2008/10/10/send-cookie-in-http-header-webrequest-asp.net-c-web-services.aspx
+	http://rion.io/2013/07/22/using-a-cookie-aware-webclient-to-persist-authentication-in-asp-net-mvc/
+	
+	
+http://stackoverflow.com/questions/12373738/how-do-i-set-a-cookie-on-httpclients-httprequestmessage
+http://stackoverflow.com/questions/14681144/httpclient-not-storing-cookies-in-cookiecontainer
+https://social.msdn.microsoft.com/Forums/en-US/509664eb-6053-490d-9521-6ddc2573f873/setting-cookies-in-httpclient?forum=winappswithcsharp
+https://dinhso.wordpress.com/2012/10/15/c-simple-http-client-class/
+http://tostring.it/2012/12/03/manage-cookies-using-web-api/
+http://www.codeproject.com/Articles/49243/Handling-Cookies-with-Redirects-and-HttpWebRequest
+https://blogs.windows.com/buildingapps/2015/11/23/demystifying-httpclient-apis-in-the-universal-windows-platform/
