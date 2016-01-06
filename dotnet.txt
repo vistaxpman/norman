@@ -1,3 +1,65 @@
+== 06 - 01 - 2016
++ Từ khóa
+Scroll to next article
+scrollto
+Page-Transitions
+Page Scroller
+Scrolling Nav
+Page Scroll Navigation with jQuery
+
+	+ Cần tìm
+	http://www.outyear.co.uk/smint/
+	http://alvarotrigo.com/blog/fullpage-jquery-plugin-for-fullscreen-scrolling-websites/
+	http://startbootstrap.com/template-overviews/scrolling-nav/
+	http://ironsummitmedia.github.io/startbootstrap-scrolling-nav/
+	http://manos.malihu.gr/repository/page-scroll-to-id/demo/demo.html
+	http://www.bytemuse.com/scrollIt.js/
+	http://manos.malihu.gr/repository/page-scroll-to-id/demo/demo-jqaddress.html#/#section-5
+	http://manos.malihu.gr/page-scroll-to-id/2/
+	http://scrollnav.com/
+	http://davist11.github.io/jQuery-One-Page-Nav/
+	http://www.jqueryscript.net/demo/One-Page-Scroll-Navigation-Plugin-with-jQuery-pageNav/
+	
+	http://trevordavis.net/blog/jquery-one-page-navigation-plugin
+	http://trevordavis.net/play/jquery-one-page-nav/
+	
+	
+	https://codyhouse.co/gem/secondary-fixed-navigation/
+	https://codyhouse.co/demo/secondary-fixed-navigation/index.html
+	
+	https://stanhub.com/sticky-header-change-navigation-active-class-on-page-scroll-with-jquery/
+	http://stanhub.com/tutorials/change-active-state-in-sticky-navigation-on-scroll/
+	
+	
+	
+	
+	http://www.jqueryscript.net/demo/Smooth-Vertical-Page-Scroll-Navigation-with-jQuery/
+	http://callmenick.com/post/single-page-site-with-smooth-scrolling-highlighted-link-and-fixed-navigation
+	http://callmenick.com/_development/single-page-smooth-scroll/
+	
+	
+	
+	https://markgoodyear.com/labs/scrollup/?theme=image
+	http://manos.malihu.gr/repository/custom-scrollbar/demo/examples/scrollbar_themes_demo.html
+	http://als.musings.it/
+	http://darsa.in/sly/#!download
+	http://lyonlai.github.io/bootstrap-paginator/
+	
+
+http://marcgrabanski.com/scrollto-next-article-button-jquery/
+http://www.webdesignerwall.com/demo/scrollto-demo/
+http://webdesignerwall.com/tutorials/scrollto-posts-with-jquery
+http://www.elated.com/articles/elegant-sliding-image-gallery-with-jquery/
+
+http://alvarotrigo.com/blog/fullpage-jquery-plugin-for-fullscreen-scrolling-websites/
+http://alvarotrigo.com/fullPage/#firstPage
+http://lions-mark.com/jquery/scrollTo/
+http://builtbywill.com/code/booklet/demos/methods
+
+http://projects.lukehaas.me/scrollify/#configuration
+http://demo.paper-leaf.com/alton/bookend/
+
+
 == 05 - 01 - 2016
 + Từ khóa
 How do I set a cookie on HttpClient HttpRequestMessage
