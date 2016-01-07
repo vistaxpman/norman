@@ -1,3 +1,29 @@
+== 07 - 01 - 2016
++ Từ khóa
+Asynchronous Function Looping in C#
+SemaphoreSlim Class
+Represents a lightweight alternative to Semaphore that limits the number of threads that can access a resource or pool of resources concurrently.
+
+https://www.google.com/search?q=slim+semaphore+%2B+async+%2B+c%23&ie=utf-8&oe=utf-8#q=slim+semaphore+%2B+async+%2B+c%23&start=20
+
+http://unknownerror.org/opensource/caolan/async/q/stackoverflow/10806951/how-to-limit-the-amount-of-concurrent-async-i-o-operations
+http://msdev.developer-works.com/article/30189409/Regarding+the+usage+of+SemaphoreSlim+with+Async+Await
+https://books.google.com.vn/books?id=nsaUAwAAQBAJ&pg=PA166&lpg=PA166&dq=SemaphoreSlim+%2B+async+%2B+c%23&source=bl&ots=tNKKIVEHqM&sig=qaNRq5nmDlBNX-ZRgeLHOmID0RU&hl=en&sa=X&redir_esc=y#v=onepage&q=SemaphoreSlim%20%2B%20async%20%2B%20c%23&f=false
+http://stackoverflow.com/questions/15136542/parallel-foreach-with-asynchronous-lambda
+http://stackoverflow.com/questions/30260858/c-sharp-async-await-using-linq-foreach
+http://blogs.msdn.com/b/pfxteam/archive/2012/03/05/10278165.aspx
+http://www.nesterovsky-bros.com/weblog/2014/06/25/ParallelVsAsyncInC.aspx
+http://www.tech.theplayhub.com/is_it_ok_to_do_some_asyncawait_inside_some_-net_parallel-foreach_code/
+https://msdn.microsoft.com/en-us/library/system.threading.semaphoreslim%28v=vs.110%29.aspx
+https://msdn.microsoft.com/en-us/magazine/jj991977.aspx
+http://stackoverflow.com/questions/19998779/regarding-the-usage-of-semaphoreslim-with-async-await
+http://www.hanselman.com/blog/ComparingTwoTechniquesInNETAsynchronousCoordinationPrimitives.aspx
+http://blog.cincura.net/233438-semaphoreslims-waitasync-puzzle/
+http://blogs.msdn.com/b/pfxteam/archive/2012/02/29/10274035.aspx
+http://blogs.msdn.com/b/pfxteam/archive/2012/02/12/10266983.aspx
+https://gist.github.com/tugberkugurlu/5917020
+http://blog.shtair.net/archives/793
+
 == 06 - 01 - 2016
 + Từ khóa
 Scroll to next article
