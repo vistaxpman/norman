@@ -1,1 +1,32 @@
-== 07 - 01 - 2016
+== 29 - 01 - 2016
++ Linq to xml
+https://www.google.com.vn/?gws_rd=ssl#q=Linq+to+xml&start=30
+
+http://www.dotnetcurry.com/linq/564/linq-to-xml-tutorials-examples
+https://msdn.microsoft.com/en-us/library/bb387048.aspx
+http://stackoverflow.com/questions/670563/linq-to-read-xml
+http://www.codeproject.com/Articles/24376/LINQ-to-XML
+http://www.dreamincode.net/forums/topic/353127-linq-by-example-5-linq-to-xml-querying/
+http://broadcast.oreilly.com/2010/10/understanding-c-simple-linq-to.html
+http://codesamplez.com/programming/linq-to-xml-tutorial
+http://weblogs.asp.net/scottgu/using-linq-to-xml-and-how-to-build-a-custom-rss-feed-reader-with-it
+http://www.c-sharpcorner.com/UploadFile/de41d6/learning-linq-made-easy-tutorial-1/
+http://www.c-sharpcorner.com/UploadFile/de41d6/learning-linq-made-easy-linq-to-sql-tutorial-2/
+http://www.c-sharpcorner.com/UploadFile/de41d6/learning-linq-made-easy-linq-to-xml-tutorial-3/
+http://www.intertech.com/Blog/query-an-xml-document-using-linq-to-xml/
+http://www.tutorialspoint.com/linq/linq_xml.htm
+http://geekswithblogs.net/pabothu/archive/2014/04/29/reading-a-complex-xml-using-linq-in-c-sharp.aspx
+http://www.i-programmer.info/programming/c/1641-linq-and-xml.html
+https://msdn.microsoft.com/en-us/library/bb308960.aspx
+http://www.dotnet-france.com/Documents/ADOLinq/Linq%20To%20XML.pdf
+https://yinyangit.wordpress.com/2011/07/05/linq-basic%E2%80%93linq-to-xml-architecture-overview/
+http://www.joe-stevens.com/2010/01/08/linq-to-xml-tutorial/
+https://habrahabr.ru/post/24673/
+http://ericwhite.com/blog/linq-to-xml-expanded/
+http://www.aspose.com/docs/display/wordsnet/How+to++Mail+Merge+from+XML+using+LINQ+to+XML
+http://www.codemag.com/article/1210021
+http://www.4guysfromrolla.com/articles/112509-1.aspx
+
+
++ Save xml
+https://blog.udemy.com/linq-to-xml/
