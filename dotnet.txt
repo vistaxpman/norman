@@ -1,3 +1,74 @@
++ 21 - 02  2016
+	- Keyword
+		Using SemaphoreSlim for async locking scenarios.  
+		How to limit the amount of concurrent async I/O operations?
+		CountdownEvent 
+		Tom DuPont .NET: Throttles - Delay vs Semaphore
+
+http://unknownerror.org/opensource/caolan/async/q/stackoverflow/10806951/how-to-limit-the-amount-of-concurrent-async-i-o-operations
+http://geekswithblogs.net/abhijeetp/archive/2012/07/15/mutexes-semaphores-monitors-readerwriterlocks-autoresetevents--manualresets-oh-my.aspx
+http://www.tomdupont.net/2015/10/throttles-delay-vs-semaphore.html
+http://www.slideshare.net/Intertech/asynchronous-programming-techniques-with-net-45-oxygen-blast
+http://blog.awagat.com/?p=701
+https://www.google.com/?gws_rd=ssl#q=semaphoreslim+async+await&start=50
+
+https://books.google.com.vn/books?id=nsaUAwAAQBAJ&pg=PA166&lpg=PA166&dq=semaphoreslim+async+await&source=bl&ots=tNKOHWBAtJ&sig=11ObYvJ6vCslN0bBcjntyOaeAYo&hl=vi&sa=X&redir_esc=y#v=onepage&q=semaphoreslim%20async%20await&f=false
+async Task<string[]> DownloadUrlsAsync(IEnumerable<string> urls)
+{
+	var httpClient = new HttpClient();
+	var semaphore = new SemaphoreSlim(10);
+	var tasks = urls.Select(async url =>
+	{
+		await semaphore.WaitAsync();
+		try
+		{
+			return await httpClient.GetStringAsync(url);
+		}
+		finally
+		{
+			semaphore.Release();
+		}
+	}).ToArray();
+	return await Task.WhenAll(tasks);
+}
+
+http://neue.cc/2014/03/14_448.html
+public static class EnumerableExtensions
+{
+    public static async Task ForEachAsync<T>(this IEnumerable<T> source, Func<T, Task> action, int concurrency, CancellationToken cancellationToken = default(CancellationToken), bool configureAwait = false)
+    {
+        if (source == null) throw new ArgumentNullException("source");
+        if (action == null) throw new ArgumentNullException("action");
+        if (concurrency <= 0) throw new ArgumentOutOfRangeException("concurrencyは1以上の必要があります");
+ 
+        using (var semaphore = new SemaphoreSlim(initialCount: concurrency, maxCount: concurrency))
+        {
+            var exceptionCount = 0;
+            var tasks = new List<Task>();
+ 
+            foreach (var item in source)
+            {
+                if (exceptionCount > 0) break;
+                cancellationToken.ThrowIfCancellationRequested();
+ 
+                await semaphore.WaitAsync(cancellationToken).ConfigureAwait(configureAwait);
+                var task = action(item).ContinueWith(t =>
+                {
+                    semaphore.Release();
+ 
+                    if (t.IsFaulted)
+                    {
+                        Interlocked.Increment(ref exceptionCount);
+                        throw t.Exception;
+                    }
+                });
+                tasks.Add(task);
+            }
+ 
+            await Task.WhenAll(tasks.ToArray()).ConfigureAwait(configureAwait);
+        }
+    }
+}
 
 + Tai mũi họng 
 http://phongkhamtaimuihongsg.com/phuong-phap-jcic-su-lua-chon-hang-dau-trong-chua-tri-viem-amidan-1129.html?50209103
