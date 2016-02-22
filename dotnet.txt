@@ -1,3 +1,65 @@
+== 22 - 02 - 2016
++ Search source code 	
+https://searchcode.com/
+http://www.getcodesamples.com/
+
+Architecture and patterns
+http://dotnetcodr.com/architecture-and-patterns/
+
+
+	- Best
+	https://jonlabelle.com/snippets/view/csharp/implementing-a-simple-foreachasync
+	http://pr8x.com/st/questions/14367333/parallel-tasks-vs-delegates ( xem trong phần Answer 3 )
+	https://zestedesavoir.com/tutoriels/884/lasynchrone-et-le-multithread-en-net/
+	http://blog.abodit.com/category/programming/xamarin/ ( xem trong phần cancellationToken.ThrowIfCancellationRequested ();      // Check immediately )
+	http://1-vopros-1-otvet.ru/using-asyncawait-with-ordered-task-queue-closed-34115853/
+	https://pieterderycke.wordpress.com/category/windows-phone-8/
+	http://sylvester-lee.blogspot.com/2014/08/wcf-limit-transaction-per-second-with.html
+	https://www.cs.auckland.ac.nz/courses/compsci711s2c/lectures/radu/03-AsyncsActors-handout.pdf
+	https://openlab.ncl.ac.uk/gitlab/dan.richardson.gs/Coaching/blob/sparks/Core/Comms/DownloadHelper.cs
+	https://searchcode.com/codesearch/view/66654398/
+	http://ideone.com/9IzLpq
+	http://putridparrot.com/blog/category/multi-threading/
+	http://gfilez.info/how-to-write-to-a-file-stream-asynchronously-using-asyncawait-from-multiple-threads-in-a-thread-safe-manner/
+	http://www.scriptscoop.net/t/5cd511946032/c-await-multiple-async-task-while-setting-max-running-task-at-a-time.html
+	https://www.symbolsource.org/Public/Metadata/NuGet/Project/Microsoft.IdentityModel.Clients.ActiveDirectory/3.0.110311127-alpha/Release/.NETCore,Version%3Dv4.5/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform/Microsoft.IdentityModel.Clients.ActiveDirectory/ADAL.WinRT/StorageFileEventListener.cs?ImageName=Microsoft.IdentityModel.Clients.ActiveDirectory.Platform
+	https://jonlabelle.com/snippets/view/csharp/clean-whitespace-from-string
+	https://jonlabelle.com/snippets/view/csharp/check-if-internet-connection-is-available
+	https://jonlabelle.com/snippets/view/csharp/async-task-helpers
+	http://pastie.org/pastes/3701186#
+	
+	- Profile
+	http://se.linkedin.com/in/andrasnemes
+	
+	NUnit 3.0 with Visual Studio 2015 by David Bush
+	English | Dec. 18, 2015 | ASIN: B019KZYO84 | 100 Pages | AZW3/MOBI/EPUB/PDF (conv) | 1.64 MB
+	http://nitroflare.com/view/D737056157B7D3A/NUnit_3.0_with_Visual_Studio_2015_-_David_Bush.rar
+	
+	Walter Doberenz, Thomas Gewinnus, "Visual C# 2015 - Grundlagen, Profiwissen und Rezepte"
+	2015 | ISBN: 3446443819 | German | 1195 pages | PDF | 27 MB 
+	http://nitroflare.com/view/32056D9D99D36CA/3446443819.pdf
+	
+	Real SQL Queries: 50 Challenges by Brian Cohen
+	English | Dec. 29, 2015 | ISBN: 1517290708 | 100 Pages | AZW3/MOBI/EPUB/PDF (conv) | 2.17 MB
+	http://nitroflare.com/view/ED401905A3C67F3/Real_SQL_Queries_50_Challenges_-_Brian_Cohen.rar
+	
+	Joseph Benharosh, "The essentials of Object Oriented PHP"
+	English | ISBN: n/a | 2016 | PDF | 215 pages | 1,8 MB
+	http://nitroflare.com/view/99C676FBE474538/the-essentials-of-object-oriented-php.pdf
+	
+	Caio Ribeiro Pereira, "Building APIs with Node.js"
+	English | ISBN: n/a | 2015 | PDF | 152 pages | 3,4 MB
+	http://nitroflare.com/view/686A71D15825EB2/building-apis-with-nodejs.pdf
+	
+	Derick Bailey, "RabbitMQ Layout: Basic Structure and Topology for Applications"
+	English | ISBN: n/a | 2015 | PDF | 75 pages | 13 MB
+	http://nitroflare.com/view/EF3059B8C3F8EC0/rabbitmq-structures-and-layout.pdf
+	
+	
+
+http://source.roslyn.io/#Microsoft.CodeAnalysis,namespaces
+https://code.videolan.org/videolan/vlc-winrt/blob/8db59cb275e9e907a602db166befcaed3bae774f/universal/VLC_WinRT.Shared/Helpers/LogHelper.cs
+
 + 21 - 02  2016
 	- Keyword
 		Using SemaphoreSlim for async locking scenarios.  
