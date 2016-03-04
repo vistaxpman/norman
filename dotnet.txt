@@ -1,3 +1,33 @@
+== 04 - 03 - 2016
++ Từ khóa
+C# - What is Difference between Overriding and Overloading with Example 
+Asp.net Difference between DataReader and DataSet and DataAdapter in C#, VB.NET 
+
+
+http://www.c-sharpcorner.com/blogs/difference-between-string-and-stringbuilder-in-c-sharp1
+http://stackoverflow.com/questions/73883/string-vs-stringbuilder
+http://net-informations.com/q/faq/builder.html
+http://www.codeproject.com/Articles/1082141/Easy-Kids-Learn-Using-MVC-and-AngularJS
+http://www.aspdotnet-suresh.com/2013/11/difference-between-string-and-stringbuilder-csharp.html
+http://www.aspdotnet-suresh.com/2013/09/c-sharp-overloading-and-overriding-differences-with-example.html
+http://www.aspdotnet-suresh.com/2012/10/aspnet-difference-between-datareader.html
+http://www.aspdotnet-suresh.com/search/label/Interview%20Questions
+http://www.aspdotnet-suresh.com/2013/09/c-sharp-overloading-and-overriding-differences-with-example.html
+http://www.aspdotnet-suresh.com/2012/10/aspnet-difference-between-datareader.html
+https://msdn.microsoft.com/en-us/library/2839d5h5%28v=vs.110%29.aspx
+https://channel9.msdn.com/forums/TechOff/14294-C-string-vs-StringBuilder/
+http://www.aspneto.com/what-is-the-difference-between-string-and-stringbuilder-in-asp-net-c-vb-net.html
+
+https://www.google.com.vn/?gws_rd=ssl#q=wcf+l%C3%A0+g%C3%AC
+
+Clean Code Summary: Agile Software Craftmanship Guidelines - Developer Deconstructed by Todd McGrath
+English | Jan. 6, 2016 | ASIN: B01AAS8T4A | 44 Pages | AZW3/MOBI/EPUB/PDF (conv) | 1.86 MB
+http://nitroflare.com/view/A10F4C4FED34370/Clean_Code_Summary_Agile_Software_Craftmanship_Guidelines_-_Todd_McGrath.rar
+
+
+MongoDB: Master MongoDB With Simple Steps and Clear Instructions (From Zero to Professional Book 5)
+http://nitroflare.com/view/325CC331606795F/MongoDB_Master_MongoDB_With_Simple_Steps_and_Clear_Instructions_-_Daniel_Perkins.rar
+
 == 03 - 03 - 2016
 + Upload file
 www.binaryintellect.net/articles/f1cee257-378a-42c1-9f2f-075a3aed1d98.aspx
