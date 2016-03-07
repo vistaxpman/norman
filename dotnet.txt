@@ -1,3 +1,24 @@
+== 07 - 03 - 2016
+https://yinyangit.wordpress.com/2011/02/11/c-tim-hieu-co-che-yielding-va-tu-khoa-yield-trong-iteration/
+http://www.stdio.vn/
+http://liveproject.edu.vn/nhomtin/17/csharpc.aspx
+http://dvhaiblog.blogspot.com/2013_09_01_archive.html
+
+Understanding Yield Return in C#
+http://www.c-sharpcorner.com/UploadFile/5ef30d/understanding-yield-return-in-C-Sharp/
+http://www.dotnetperls.com/yield
+
+https://vozforums.com/showthread.php?t=4747558
+
+
+https://www.google.com/search?q=Entity+Framework+Tutorial%2C+2nd+Edition&ie=utf-8&oe=utf-8
+https://www.google.com/search?q=Entity+Framework+4.1%3A+Expert%27s+Cookbook+&ie=utf-8&oe=utf-8
+https://www.google.com/search?q=Code-First+Development+with+Entity+Framework+&ie=utf-8&oe=utf-8#q=Code-First+Development+with+Entity+Framework+pdf
+https://www.google.com/search?q=Mastering+Entity+Framework&ie=utf-8&oe=utf-8#q=mastering+entity+framework+pdf
+https://www.google.com/search?q=WCF+Multi-layer+Services+Development+with+Entity+Framework%2C+4th+Edition+&ie=utf-8&oe=utf-8
+
+
+
 == 04 - 03 - 2016
 + Từ khóa
 C# - What is Difference between Overriding and Overloading with Example 
