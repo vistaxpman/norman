@@ -1,3 +1,47 @@
+
+
+== 15 - 03 - 2016
+Difference between Select and SelectMany in LINQ
+
+http://stackoverflow.com/questions/958949/difference-between-select-and-selectmany
+http://www.dotnet-tricks.com/Tutorial/linq/N74N160714-Difference-between-Select-and-SelectMany-in-LINQ.html
+http://www.c-sharpcorner.com/uploadfile/dhananjaycoder/select-and-selectmany-linq-projection-operator/
+http://www.technicaloverload.com/linq-select-vs-selectmany/
+
+https://msdn.microsoft.com/library/bb534336%28v=vs.100%29.aspx
+then flattens this two-dimensional collection of collections into a one-dimensional IEnumerable<T> and returns it
+
+
+
+http://www.dotnet-tricks.com/Home/MVCInterviewBook
+http://www.dotnet-tricks.com/Home/LINQInterviewBook
+http://www.dotnet-tricks.com/Home/AngularJSInterviewBook
+http://www.dotnet-tricks.com/Home/NodeJSInterviewBook
+
+
+
+== 14 - 03 - 2016
+http://www.fromdev.com/2015/06/angular-js-tutorials-pdf.html
+https://github.com/cardeo/booterator
+https://github.com/cardeo/booterator-sass
+http://harpjs.com/
+http://harpjs.com/blog/v0-20-0-node-5-compatibility
+https://github.com/sintaxi/harp
+http://harpjs.com/docs/development/globals
+
+
+== 11 - 03 - 2016
+http://foundation.zurb.com/sites/download.html/
+http://getbootstrap.com/
+https://www.bootstrapcdn.com/
+
+
+
+
+
+== 09 - 03 - 2016
+http://www.linqpad.net/Download.aspx
+
 == 07 - 03 - 2016
 https://yinyangit.wordpress.com/2011/02/11/c-tim-hieu-co-che-yielding-va-tu-khoa-yield-trong-iteration/
 http://www.stdio.vn/
