@@ -1,5 +1,23 @@
 
 
+== 16 - 03 - 2016
+Brahma Dathan; Sarnath Ramnath, "Object-Oriented Analysis, Design and Implementation: An Integrated Approach, 2nd Edition"
+English | ISBN: 3319242784 | 2016 | 492 pages | PDF | 12 MB 
+http://nitroflare.com/view/041DC74B36C1790/3319242784.pdf
+
+Apress Make a 2D Arcade Game in a Weekend: With Unity
+English | ISBN: 1484214951 | 2016 | 180 pages | PDF | 5 MB 
+http://nitroflare.com/view/E730E178CA175DD/1484214951.pdf
+
+Apress Beginning Android, 5th edition
+English | ISBN: 1430246863 | 2016 | 440 pages | PDF | 7 MB 
+http://nitroflare.com/view/B3F9E9768587679/1430246863.pdf
+
+Ruby on Rails: Learn web development with Ruby on Rails by Harry Oliver
+English | Mar 5, 2016 | ASIN: B01CMW3PVO | 104 Pages | PDF (True) | 3.1 MB
+http://nitroflare.com/view/7B24AE3A930C8DC/Ruby_on_Rails_Learn_web_development_with_Ruby_on_Rails_-_Harry_Oliver.pdf
+
+
 == 15 - 03 - 2016
 Difference between Select and SelectMany in LINQ
 
