@@ -1,3 +1,47 @@
+
+== 04 - 04 - 2016
+https://www.google.com/search?q=token+key+%2B+asp.net+mvc&ie=utf-8&oe=utf-8#q=token+key+%2B+asp.net+mvc&start=20
+
++ Token base web authentication
+http://www.primaryobjects.com/2015/05/08/token-based-authentication-for-web-service-apis-in-c-mvc-net/
+http://blog.stevensanderson.com/
+http://blog.stevensanderson.com/2014/06/11/architecting-large-single-page-applications-with-knockout-js/
+http://tech.trailmax.info/2015/05/asp-net-identity-invalid-token-for-password-reset-or-email-confirmation/
+
++ Ebook
+Exam Ref 70-486 Developing ASP.NET MVC 4 Web Applications (MCSD
+http://www.it-ebooks.info/book/3119/
+Exam Ref 70-486: Developing ASP.NET MVC 4 Web Applications
+https://www.microsoftpressstore.com/store/exam-ref-70-486-developing-asp.net-mvc-4-web-applications-9780735677227
+
+http://capesean.co.za/blog/asp-net-5-jwt-tokens/
+http://bitoftech.net/2014/12/15/secure-asp-net-web-api-using-api-key-authentication-hmac-authentication/
+http://www.davepaquette.com/archive/2015/07/19/cancelling-long-running-queries-in-asp-net-mvc-and-web-api.aspx
+http://bitoftech.net/
+http://blog.novanet.no/anti-forgery-tokens-using-mvc-web-api-and-angularjs/
+http://blog.maartenballiauw.be/post/2012/10/18/From-API-key-to-user-with-ASPNET-Web-API.aspx
+http://www.codeproject.com/Articles/793384/ASP-NET-Anti-Forgery-Tokens-internals
+
+http://www.jerriepelser.com/blog/using-aspnet-oauth-providers-without-identity
+http://www.oauthforaspnet.com/providers/twitter/
+http://richiban.uk/2013/02/06/validating-net-mvc-4-anti-forgery-tokens-in-ajax-requests/
+http://insidethecpu.com/2015/04/10/protecting-asp-net-applications-against-csrf-attacks/
+https://www.google.com/search?q=http%3A%2F%2Fwww.codecasestudy.com%2F&ie=utf-8&oe=utf-8
+http://insidethecpu.com/2015/04/10/protecting-asp-net-applications-against-csrf-attacks/
+https://lbadri.wordpress.com/2012/07/30/anatomy-of-a-simple-web-token-swt/
+http://www.binaryintellect.net/articles/20e546b4-3ae9-416b-878e-5b12434fe7a6.aspx
+http://chris.59north.com/post/Configuring-an-ASPNET-site-to-use-WS-Federation
+https://developers.google.com/api-client-library/dotnet/guide/aaa_oauth#installed-applications
+
+http://www.jamiekurtz.com/2014/11/25/5-keys-to-web-app-token-authentication/
+http://www.henrihietala.fi/validate-anti-forgery-token-using-angularjs-typescript-asp-net-mvc-and-web-api/
+
+Manning Kyle Banker and Peter Bakkum, "MongoDB in Action, 2 edition"
+English | ISBN: 1617291609 | 2016 | 375 pages | PDF | 7 MB 
+http://nitroflare.com/view/D33E88C79FC1E5B/1617291609.pdf
+
+
+
 == 29 - 03 - 2016
 Node.js Basics | Learn The Basics Of Node: Have you heard about Node.js? You haven't! Node.js is changing how modern applications are built. by Rick Hernandez
 English | March 24, 2016 | ASIN: B01DFQG5QS | 27 Pages | AZW3/MOBI/EPUB/PDF (conv) | 4.28 MB
