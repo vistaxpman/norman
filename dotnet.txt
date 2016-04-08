@@ -1,4 +1,48 @@
 
+== 08 - 04 - 2016
+list vs ilist in c#
+https://www.google.com/search?q=list+vs+ilist+in+c%23&ie=utf-8&oe=utf-8
+http://stackoverflow.com/questions/400135/listt-or-ilistt
+http://www.claudiobernasconi.ch/2013/07/22/when-to-use-ienumerable-icollection-ilist-and-list/
+http://www.codeproject.com/Articles/832189/List-vs-IEnumerable-vs-IQueryable-vs-ICollection-v
+http://www.dotnetperls.com/ilist
+http://www.c-sharpcorner.com/UploadFile/78607b/difference-between-ienumerable-icollection-and-ilist-interf/
+http://truongminhtuan.info/lessons/bai-07-cac-loai-doi-tuong-trong-entity-framework-2-35
+http://forums.asp.net/t/1231995.aspx?List+vs+IList
+http://www.dotnet-tricks.com/Tutorial/linq/VXTY160612-IEnumerable-VS-IList.html
+http://irisclasson.com/2012/09/10/stupid-question-41-should-i-use-ilist-or-list/
+http://www.daedtech.com/what-to-return-ienumerable-or-ilist/
+http://www.resolvinghere.com/sm/c-list-vs-ilist.shtml
+http://you.arenot.me/2010/07/14/asp-net-c-list-vs-ilist/
+http://weblogs.asp.net/stevewellens/what-s-the-deal-with-interfaces
+
+
+
+C# Interfaces
+http://app.pluralsight.com/courses/csharp-interfaces#csharp-interfaces-m6-advanced
+
+
+
+
+
+
+== 07 - 04 - 2016
+http://vncongnghe.net/huong-dan-tao-partial-view-asp-net-mvc
+http://megacode.vn/files/view/phan-biet-html-partial-html-renderpartial-html-action-va-html-renderaction-4956.html
+http://nhatkyhoctap.blogspot.com/2011/11/tao-va-su-dung-template-trong-aspnet.html
+https://fisama.wordpress.com/2011/01/10/chuyen-mot-partial-view-thanh-chuoi/
+http://truongminhtuan.info/Articles/nhin-lai-tinh-nang-cua-asp-net-mvc-tu-version-asp-net-mvc3-den-asp-net-mvc5-75
+http://truongminhtuan.info/Articles/so-sanh-diem-khac-biet-giua-web-api-va-mvc-83
+http://truongminhtuan.info/lessons/bai-05-cach-tao-mot-entity-data-model-edm-2-28
+hoidapit.com.vn/Questions/ViewQuestions/4900/su-dung-javascript-trong-partial-view-cua-asp-net-mvc.html
+http://thayphet.net/application/upload/products/Chuong2TongquanveASPNetMVC4.pdf
+https://codedaily.vn/2015/03/cac-cau-hoi-phong-van-asp-net-mvc/
+http://www.devbike.com/threads/entity-framework-code-first-crud-su-dung-bootstrap-modal.247/
+https://www.google.com.vn/?gws_rd=ssl#q=partialview+la+gi&start=10
+
+
+
+
 == 04 - 04 - 2016
 https://www.google.com/search?q=token+key+%2B+asp.net+mvc&ie=utf-8&oe=utf-8#q=token+key+%2B+asp.net+mvc&start=20
 
@@ -26,19 +70,31 @@ http://www.jerriepelser.com/blog/using-aspnet-oauth-providers-without-identity
 http://www.oauthforaspnet.com/providers/twitter/
 http://richiban.uk/2013/02/06/validating-net-mvc-4-anti-forgery-tokens-in-ajax-requests/
 http://insidethecpu.com/2015/04/10/protecting-asp-net-applications-against-csrf-attacks/
-https://www.google.com/search?q=http%3A%2F%2Fwww.codecasestudy.com%2F&ie=utf-8&oe=utf-8
-http://insidethecpu.com/2015/04/10/protecting-asp-net-applications-against-csrf-attacks/
 https://lbadri.wordpress.com/2012/07/30/anatomy-of-a-simple-web-token-swt/
 http://www.binaryintellect.net/articles/20e546b4-3ae9-416b-878e-5b12434fe7a6.aspx
+http://www.oauthforaspnet.com/providers/github/guides/aspnet-mvc5/
+
 http://chris.59north.com/post/Configuring-an-ASPNET-site-to-use-WS-Federation
 https://developers.google.com/api-client-library/dotnet/guide/aaa_oauth#installed-applications
 
 http://www.jamiekurtz.com/2014/11/25/5-keys-to-web-app-token-authentication/
 http://www.henrihietala.fi/validate-anti-forgery-token-using-angularjs-typescript-asp-net-mvc-and-web-api/
+https://stormpath.com/blog/top-six-reasons-use-api-keys-and-how/
+https://stormpath.com/product/token-auth/
+https://github.com/stormpath/stormpath-sdk-dotnet
 
 Manning Kyle Banker and Peter Bakkum, "MongoDB in Action, 2 edition"
 English | ISBN: 1617291609 | 2016 | 375 pages | PDF | 7 MB 
 http://nitroflare.com/view/D33E88C79FC1E5B/1617291609.pdf
+
+
+https://www.google.com/search?q=custom+function+in+linq+to+entities&ie=utf-8&oe=utf-8
+http://forums.asp.net/t/2031441.aspx?LINQ+to+Entities+does+not+recognize+the+method+method+and+this+method+cannot+be+translated+into+a+store+expression+
+http://forums.asp.net/t/1987664.aspx?Error+LINQ+to+Entities+does+not+recognize+the+method+Int32+Parse+System+String+method+and+this+method+cannot+be+translated+into+a+store+expression+
+http://stackoverflow.com/questions/7259567/linq-to-entities-does-not-recognize-the-method
+http://www.itorian.com/2015/05/linq-to-entities-does-not-recognize.html
+http://stackoverflow.com/questions/11164655/integrating-custom-method-into-linq-to-entities-query
+http://stackoverflow.com/questions/12142384/linq-to-entities-does-not-recognise-custom-method
 
 
 
