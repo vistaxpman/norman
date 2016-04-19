@@ -1,3 +1,36 @@
+http://www.codingfusion.com/Post/Jquery-JSON-Add-Edit-Update-Delete-in-Asp-Net
+http://mrbool.com/how-to-add-edit-and-delete-rows-of-a-html-table-with-jquery/26721
+http://mrbool.com/creating-a-crud-form-with-html5-local-storage-and-json/26719
+http://techbrij.com/add-edit-delete-jqgrid-asp-net-web-api
+http://techbrij.com/add-edit-delete-jqgrid-asp-net-web-api
+http://stackoverflow.com/questions/4935632/parse-json-in-javascript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
+
+http://www.quirksmode.org/js/associative.html
+http://stackoverflow.com/questions/346021/how-do-i-remove-objects-from-a-javascript-associative-array
+http://blog.xkoder.com/2008/07/10/javascript-associative-arrays-demystified/
+http://www.laurencegellert.com/2012/01/associative-arrays-in-javascript/
+
+var testing = [];
+            testing["key30"] = "abc,cdf,ghk1";
+            testing["key50"] = "abc,cdf,ghk2";
+            testing["key70"] = "abc,cdf,ghk3";
+            testing["key20"] = "abc,cdf,ghk4";
+            //console.log(testing);
+            //delete testing["key30"];
+            //console.log(testing);
+            //testing["key70"] = "70";
+            //console.log(testing);
+
+            //$.each(testing, function (index, value) {
+            //    alert("Key: " + index + " - Value: " + value);
+            //});
+            
+            for (var i in testing)
+            {
+                alert(testing[i]);
+            }
+            
 == 12 - 04 - 2016
 + Từ khóa
 IOC containers like Windsor, Unity, NInject, StrucutureMap etc.
