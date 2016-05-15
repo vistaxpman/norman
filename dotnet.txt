@@ -1,3 +1,44 @@
++ Escapse sql
+	- Từ khóa : Named Parameters, Use parameterized query 
+
+http://stackoverflow.com/questions/11528122/escape-character-for-sql-in-c-sharp
+http://codesanswer.com/question/52863-how-to-escape-simple-sql-queries-in-c-for-sqlserver
+http://www.codetinkerer.com/2015/07/08/escaping-column-and-table-names-in-mysql-part2.html
+public string Escape(string data)
+        {
+            data = data.Replace("'", "''");
+            data = data.Replace("\\", "\\\\");
+            return data;
+        }
+		
+		 private string escapeString(string name)
+    {
+      //ワイルドカードをエスケープ
+      return "%" + Regex.Replace(name, "[_%\\[#]", "#$0") + "%";
+    }
+
+http://docs.oracle.com/cd/B19306_01/win.102/b14307/OracleCommandClass.htm#DAFCJDDG
+public bool BindByName {get; set;}
+http://stackoverflow.com/questions/5980615/parameterized-query-in-oracle-trouble
+OracleCommand.BindByName = True
+
+http://codesnippets.fesslersoft.de/escape-brackets-using-string-format/
+To output a { use {{ and to output a } use }}.
+	
+
+Slightly better:
+HttpServerUtility.HtmlEncode(stringVariable)
+http://www.codingforums.com/asp-net/101163-how-escape-ampersand-sign-c-asp-net.html
+
+http://stackoverflow.com/questions/323640/can-i-convert-a-c-sharp-string-value-to-an-escaped-string-literal
+
+private string SafeSqlLiteral(string inputSQL)
+{
+  return inputSQL.Replace("'", "''");
+
+}
+
+
 http://www.codingfusion.com/Post/Jquery-JSON-Add-Edit-Update-Delete-in-Asp-Net
 http://mrbool.com/how-to-add-edit-and-delete-rows-of-a-html-table-with-jquery/26721
 http://mrbool.com/creating-a-crud-form-with-html5-local-storage-and-json/26719
