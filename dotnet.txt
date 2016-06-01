@@ -1,3 +1,4 @@
+iZg8mCT59yf00CpOcFONBDPYCVnmKzO2OwkOq2WzWbcOjG0LSRY3Mg==
 + Escapse sql
 	- Từ khóa : Named Parameters, Use parameterized query 
 
