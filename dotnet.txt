@@ -1,4 +1,21 @@
-iZg8mCT59yf00CpOcFONBDPYCVnmKzO2OwkOq2WzWbcOjG0LSRY3Mg==
+== 16 - 06 - 2016
+http://www.codeproject.com/Articles/27148/C-NET-Interface-for-Zip-Archive-DLLs
+https://github.com/tomap/SevenZipSharp
+http://epplus.codeplex.com/downloads/get/813458
+Exception of type 'System.OutOfMemoryException' was thrown.
+
+http://www.7-zip.org/sdk.html
+http://stackoverflow.com/questions/3203701/sample-c-sharp-net-code-for-zipping-a-file-using-7zip
+http://stackoverflow.com/questions/222030/how-do-i-create-7-zip-archives-with-net
+http://www.dotnetperls.com/7-zip
+http://www.dotnetperls.com/7-zip-examples
+
+http://www.codeproject.com/Articles/27148/C-NET-Interface-for-Zip-Archive-DLLs
+http://www.cupofdev.com/compress-files-7zip-csharp/
+http://www.splinter.com.au/compressing-using-the-7zip-lzma-algorithm-in/
+https://www.google.com.vn/?gws_rd=ssl#q=7+zip+c%23+example&start=10
+http://api.jquery.com/category/manipulation/
+
 + Escapse sql
 	- Từ khóa : Named Parameters, Use parameterized query 
 
