@@ -1,3 +1,52 @@
+== 21 - 06 - 2016
++ Từ khóa
+Unzip a file in c# using 7z.exe
+Get Live output from Process
+Capturing the Standard Output of a Process
+Using Process.Start to capture console output 
+How to interact with applications via command line in C#
+C#: Running a command prompt and capturing the output
+C# Process RedirectStandardOutput pattern: BeginOutputReadLine + OutputDataReceived is broken
+ 
+
+http://unix.stackexchange.com/questions/234283/get-percentage-information-from-7z-command-in-bash
+http://www.dotnetperls.com/7-zip-examples
+https://stick2basic.wordpress.com/2013/04/25/how-to-extract-7z-file-to-a-folder-c-net/
+http://stud-work.ru/index.php/c-7-zip-primer-ispolzovaniya-7z-v-net
+http://www.codeproject.com/Articles/27148/C-NET-Interface-for-Zip-Archive-DLLs
+http://stackoverflow.com/questions/16558363/unzip-a-file-in-c-sharp-using-7z-exe
+http://stackoverflow.com/questions/8808663/get-live-output-from-process
+https://www.autoitscript.com/forum/topic/150835-7zip-command-line-progress-bar/
+https://manguonaz.wordpress.com/2014/05/22/nen-file-voi-winrar-trong-c/
+
++ Show process output
+http://stackoverflow.com/questions/4291912/process-start-how-to-get-the-output
+RedirectStandardOutput = true
+while (!proc.StandardOutput.EndOfStream) {
+    string line = proc.StandardOutput.ReadLine();
+    // do something with line
+}
+https://www.google.com/search?q=show+Process+output+%2B+c%23&ie=utf-8&oe=utf-8#q=Using+Process.Start+to+capture+console+output&start=20
+http://blog.coretech.dk/rja/capture-output-from-command-line-tools-with-powershell/
+http://forums.codeguru.com/showthread.php?460918-Capture-console-and-output-in-realtime
+http://www.perbyte.com/blog/Redirecting-Console-Output/
+http://www.blackwasp.co.uk/CaptureProcessOutput.aspx
+http://www.codeproject.com/Articles/18577/How-to-redirect-Standard-Input-Output-of-an-applic
+http://stackoverflow.com/questions/186822/capturing-console-output-from-a-net-application-c
+http://stackoverflow.com/questions/285760/how-to-spawn-a-process-and-capture-its-stdout-in-net
+https://www.techcoil.com/blog/how-to-interact-with-applications-via-command-line-in-c/
+https://msdn.microsoft.com/en-us/library/system.diagnostics.processstartinfo.redirectstandardoutput%28v=vs.110%29.aspx
+http://www.codeproject.com/Articles/4665/Launching-a-process-and-displaying-its-standard-ou
+http://www.codeproject.com/Questions/720259/How-to-run-command-prompt-command-and-get-output-i
+http://csharptest.net/532/using-processstart-to-capture-console-output/
+http://www.howtogeek.com/howto/programming/get-a-list-of-running-processes-in-c/
+http://www.c-sharpcorner.com/article/redirecting-standard-inputoutput-using-the-process-class/
+https://channel9.msdn.com/Forums/Coffeehouse/250664-C-Execute-External-App-and-capture-output
+https://gist.github.com/cheynewallace/5971686
+https://bytes.com/topic/c-sharp/answers/954097-redirecting-standard-output-listbox
+http://vohoangchieu.blogspot.com/2013/07/nen-file-su-dung-winrar-va-c-compress.html
+http://maffelu.net/c-running-a-command-prompt-and-capturing-the-output/
+http://alabaxblog.info/2013/06/redirectstandardoutput-beginoutputreadline-pattern-broken/
 
 == 16 - 06 - 2016
 http://www.codeproject.com/Articles/27148/C-NET-Interface-for-Zip-Archive-DLLs
