@@ -1,3 +1,33 @@
+== 22 - 06 - 2016
+http://stackoverflow.com/questions/2821040/how-do-i-find-the-time-difference-between-two-datetime-objects
+http://stackoverflow.com/questions/10500095/getting-time-difference-between-two-values
+http://stackoverflow.com/questions/10796369/calculate-time-difference-in-c
+http://www.codeproject.com/Questions/228431/Csharp-Time-difference-calculation
+https://msdn.microsoft.com/en-us/library/aa287590%28v=vs.71%29.aspx
+https://msdn.microsoft.com/en-us/library/8ysw4sby%28v=vs.110%29.aspx
+http://forums.asp.net/t/1908140.aspx?Find+time+difference+between+01+30pm+to+11+30pm+Using+c+net
+http://www.beansoftware.com/ASP.NET-FAQ/DateTime-TimeSpan.aspx
+http://csharp.net-informations.com/statements/csharp-date-difference.htm
+
+
+http://www.josecgomez.com/2013/12/02/vs-2008-c-wysiwyg-html-editor/
+http://coolthingoftheday.blogspot.com/2011/07/winform-html-editor-control-adding-html.html
+http://blog.gfader.com/2010/01/winforms-html-editor-control-source.html
+http://stackoverflow.com/questions/2627991/how-to-show-html-contents-with-a-richtextbox
+http://www.modeltext.com/html/
+http://www.codeproject.com/Articles/12172/An-extended-RichTextBox-to-save-and-load-quot-HTML
+http://www.dreamincode.net/forums/topic/232908-displaying-html-in-winforms/
+https://social.msdn.microsoft.com/Forums/windows/en-US/0832d546-3005-4cfa-aa0a-6019a4c10221/how-to-show-html-content-in-winform?forum=winforms
+https://code.msdn.microsoft.com/windowsdesktop/Converting-between-RTF-and-aaa02a6e
+http://www.dotnetperls.com/richtextbox
+http://www.c-sharpcorner.com/uploadfile/mahesh/richtextbox-in-C-Sharp/
+http://www.mysofttool.com/index_htmleditor.html
+https://code.msdn.microsoft.com/windowsdesktop/winforms-html-editor-01dbce1a
+https://netrix.codeplex.com/
+http://www.codeproject.com/KB/edit/TextRulerControl.aspx?fid=968441&df=90&mpp=25&noise=3&sort=Position&view=Quick&fr=26&select=2438044
+http://www.codeproject.com/Articles/15559/A-Windows-Forms-based-text-editor-with-HTML-output
+http://www.codeproject.com/Articles/18356/Word-Processor-Based-Upon-an-Extended-RichTextBox
+
 == 21 - 06 - 2016
 + Từ khóa
 Unzip a file in c# using 7z.exe
