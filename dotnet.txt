@@ -88,7 +88,15 @@ http://www.codeproject.com/Articles/10675/Enabling-syntax-highlighting-in-a-Rich
 http://www.codeproject.com/Articles/161871/Fast-Colored-TextBox-for-syntax-highlighting
 http://www.c-sharpcorner.com/uploadfile/kirtan007/syntax-highlighting-in-richtextbox-using-C-Sharp/
 http://www.c-sharpcorner.com/article/syntax-highlighting-in-rich-textbox-control-part-1/
-
+[20/01/2016 11:20:00] +++ Folder Start +++ Welcome
+http://stackoverflow.com/questions/4616132/how-to-append-line-into-rtf-using-richtextbox-control
+http://stackoverflow.com/questions/4463363/how-can-i-set-the-opacity-or-transparency-of-a-panel-in-winforms
+http://www.fsmpi.uni-bayreuth.de/~dun3/archives/creating-a-transparent-panel-in-net/108.html
+http://stackoverflow.com/questions/4387680/transparent-background-on-winforms
+http://stackoverflow.com/questions/9358500/making-a-control-transparent
+http://stackoverflow.com/questions/1600664/how-can-i-scroll-my-panel-using-my-mousewheel
+http://stackoverflow.com/questions/8624737/c-sharp-scrolling-a-panel-in-windows-forms
+http://stackoverflow.com/questions/4429901/how-to-capture-mouse-wheel-on-panel
 
 == 22 - 06 - 2016
 http://stackoverflow.com/questions/2821040/how-do-i-find-the-time-difference-between-two-datetime-objects
