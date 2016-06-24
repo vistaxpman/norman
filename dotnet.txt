@@ -1,3 +1,67 @@
+var testInput = textBoxInput.Text.Trim();
+
+            //richTextBoxOutput.Rtf = @"{\rtf1\ansi This is in \b bold\b0.}";
+
+            if (testInput != string.Empty)
+            {
+                var lineRows = testInput.Split(new string[] { "\r\n" }, StringSplitOptions.RemoveEmptyEntries);
+                if (lineRows != null && lineRows.Count() > 0)
+                {
+                    foreach (var line in lineRows)
+                    {
+                        var iCount = 0;
+                        var testData = line.Split(new string[] { "+++" }, StringSplitOptions.RemoveEmptyEntries);
+                        foreach (var item in testData)
+                        {
+                            if (iCount > 0)
+                            {
+                                richTextBoxOutput.SelectedText = " - ";
+                            }
+
+                            switch (iCount)
+                            {
+                                case 0:
+                                    richTextBoxOutput.SelectionColor = Color.Blue;
+                                    richTextBoxOutput.SelectionFont = new Font("Tahoma", 10, FontStyle.Bold);
+                                    break;
+                                case 1:
+                                    richTextBoxOutput.SelectionColor = Color.Black;
+                                    richTextBoxOutput.SelectionFont = new Font("Tahoma", 10, FontStyle.Regular);
+                                    break;
+                                case 2:
+                                    richTextBoxOutput.SelectionColor = Color.Red;
+                                    richTextBoxOutput.SelectionFont = new Font("Tahoma", 10, FontStyle.Bold);
+                                    break;
+                            }
+                            //richTextBoxOutput.SelectedText = item;
+                            richTextBoxOutput.AppendText(item);
+                            iCount++;
+                        }
+                        //richTextBoxOutput.SelectedText = Environment.NewLine;
+                        richTextBoxOutput.AppendText(Environment.NewLine);
+                    }
+                }
+            }
+
+            //richTextBoxOutput.Text += @"{\rtf1\ansi This is in \b bold\b0.}";
+            
+         public class TransparentPanel : Panel
+    {
+        protected override CreateParams CreateParams
+        {
+            get
+            {
+                CreateParams cp = base.CreateParams;
+                cp.ExStyle |= 0x00000020; // WS_EX_TRANSPARENT
+                return cp;
+            }
+        }
+
+        protected override void OnPaint(PaintEventArgs e)
+        {
+            e.Graphics.FillRectangle(new SolidBrush(this.BackColor), this.ClientRectangle);
+        }
+    }    
 == 23 - 06 - 2016
 Long
 Test
