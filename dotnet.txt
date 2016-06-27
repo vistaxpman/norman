@@ -1,3 +1,47 @@
+== 27 - 06 - 2016
++ Từ khóa
+jobs concurrently
+Maximum Thread Number
+Trying to run multiple HTTP requests in parallel, but being limited by Windows
+Handling Concurrent Downloads 
+
++ Multiple file download
+https://www.informit.com/guides/content.aspx?g=dotnet&seqNum=866
+https://social.msdn.microsoft.com/Forums/sqlserver/en-US/2af2d9c3-6172-425b-bd44-288dacb8c02b/problem-with-file-downloader?forum=wpf
+https://social.msdn.microsoft.com/Forums/windowsapps/en-US/61eb1e01-0cec-4151-8d69-0b9d7a541100/downloading-multiple-files-wp7?forum=wpdevelop
+http://stackoverflow.com/questions/16514027/download-multiple-files-async-and-wait-for-all-of-them-to-finish-before-executin
+http://stackoverflow.com/questions/6992553/how-do-i-async-download-multiple-files-using-webclient-but-one-at-a-time
+http://stackoverflow.com/questions/22747645/download-multiple-files-in-parallel-using-c-sharp
+https://blogs.msdn.microsoft.com/spike/2013/06/12/how-to-download-multiple-files-concurrently-using-webclient-and-the-downloadfileasync-method/
+https://code.msdn.microsoft.com/windowsdesktop/Asynchronous-Downloader-61955c78
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/3bdb1f6c-3b97-4f73-9582-161f0191f9e8/how-to-async-download-multiple-files-using-webclient-simultaneously?forum=csharpgeneral
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/12097992-b815-4048-8fe2-b65c745bfc0b/how-to-async-download-multiple-files-using-task-library?forum=csharpgeneral
+http://stackoverflow.com/questions/11277139/maximum-thread-number
+http://stackoverflow.com/questions/2960056/trying-to-run-multiple-http-requests-in-parallel-but-being-limited-by-windows
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/19310be1-8dfb-4932-9f50-3181e15609aa/how-to-do-progress-reporting-using-asyncawait?forum=csharpgeneral
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/035563ad-20d3-42d2-9e9f-9bfa25d66ff7/async-await-i-just-dont-get-it?forum=csharpgeneral
+https://social.msdn.microsoft.com/Forums/en-US/8a82b7ab-b3d4-40ea-b812-16d52896b3e5/downloading-images-async-with-net-4?forum=csharplanguage
+http://www.dreamincode.net/forums/topic/115491-download-file-asynchronously-with-progressbar/ 
+https://dzone.com/articles/building-relatively-simple
+https://social.msdn.microsoft.com/Forums/en-US/70784fe4-2b89-4d58-ae05-38bff94c3006/how-to-read-big-text-files-in-c-threads?forum=csharplanguage
+https://social.msdn.microsoft.com/Forums/windowsapps/en-US/17d96c41-b246-4691-ab41-cf3b0650499d/progress-bar-for-multiple-downloads?forum=winappswithcsharp
+http://www.dotnetfunda.com/articles/show/1755/how-to-download-and-upload-a-file-to-the-server-in-silverlight
+http://www.csharp-examples.net/download-files/
+https://www.experts-exchange.com/questions/26828518/Multi-File-Download-with-C-WebClient.html
+https://www.google.com.vn/?gws_rd=ssl#q=c%23+download+multiple+files+async&start=10
+
+https://www.google.com.vn/search?q=c%23+download+multiple+files+async+site:social.msdn.microsoft.com&biw=1920&bih=943&sa=X&sqi=2&ved=0ahUKEwjE9Lzw5sfNAhXJt48KHb8JBWgQrQIIWCgDMAU#q=c%23+download+multiple+files+async+site:social.msdn.microsoft.com&start=50
+
+
+ 
+http://jsbin.com/fuhen/edit?html,js,console
+http://jsbin.com/mufunutoca/1/edit?html,js,console,output
+
+CommonJS
+RequireJS
+http://requirejs.org/docs/start.html
+https://github.com/requirejs/requirejs/wiki/Upgrading-to-RequireJS-2.1
+
 var testInput = textBoxInput.Text.Trim();
 
             //richTextBoxOutput.Rtf = @"{\rtf1\ansi This is in \b bold\b0.}";
