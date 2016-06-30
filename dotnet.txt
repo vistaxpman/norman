@@ -1,3 +1,20 @@
+== 29 - 06 - 2016
++ Từ khóa
+
+https://www.google.com.vn/?gws_rd=ssl#q=c%23+download+multiple+files+async&start=40
+
+http://anoori.me/blog/programming/downloading-multiple-files-with-net-35-4-and-45
+https://github.com/alirezanoori1986/FileDownloader
+http://www.componentpro.com/doc/ftp/Downloading-multiple-files-and-directories-Asynchronously.htm
+http://www.infoworld.com/article/2995387/application-architecture/how-to-perform-asynchronous-file-operations-in-c.html
+http://www.fluxbytes.com/csharp/how-to-download-a-file-in-c-progressbar-and-download-speed/
+https://www.infoq.com/articles/Tasks-Async-Await
+http://www.strathweb.com/2012/08/a-guide-to-asynchronous-file-uploads-in-asp-net-web-api-rtm/
+http://toreaurstad.blogspot.com/2013/03/using-powershell-to-download-multiple.html
+http://www.c-sharpcorner.com/UploadFile/kirtan007/how-to-download-file-and-showing-its-progress-in-progress-bar/
+http://msdev.developer-works.com/article/30186495/How+to+Async+download+multiple+files+using+webclient+simultaneously%3F
+http://www.intstrings.com/ramivemula/articles/file-upload-and-download-to-azure-blob-storage/
+
 == 27 - 06 - 2016
 + Từ khóa
 jobs concurrently
