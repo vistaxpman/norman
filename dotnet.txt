@@ -4,6 +4,16 @@ jobs concurrently
 Maximum Thread Number
 Trying to run multiple HTTP requests in parallel, but being limited by Windows
 Handling Concurrent Downloads 
+The Progress Reporting Pattern in C# 5
+C# async tasks in a queue or waiting list
+SemaphoreSlim
+lock-free solution
+Async Producer/Consumer Queue using Dataflow
+Task Queue
+Emulating Actors in C# with Async/Await
+
+
+https://msdn.microsoft.com/en-us/library/mt674889.aspx
 
 + Multiple file download
 https://www.informit.com/guides/content.aspx?g=dotnet&seqNum=866
@@ -28,9 +38,37 @@ https://social.msdn.microsoft.com/Forums/windowsapps/en-US/17d96c41-b246-4691-ab
 http://www.dotnetfunda.com/articles/show/1755/how-to-download-and-upload-a-file-to-the-server-in-silverlight
 http://www.csharp-examples.net/download-files/
 https://www.experts-exchange.com/questions/26828518/Multi-File-Download-with-C-WebClient.html
-https://www.google.com.vn/?gws_rd=ssl#q=c%23+download+multiple+files+async&start=10
+http://stackoverflow.com/questions/25009437/running-multiple-async-tasks-and-waiting-for-them-all-to-complete
+https://www.quora.com/What-are-the-differences-between-parallel-concurrent-and-asynchronous-programming
+https://ayende.com/blog/167299/async-event-loops-in-c
+http://stackoverflow.com/questions/20904328/c-sharp-async-tasks-in-a-queue-or-waiting-list
+http://stackoverflow.com/questions/7863573/awaitable-task-based-queue
+http://blog.stephencleary.com/2012/11/async-producerconsumer-queue-using.html
+http://yacsharpblog.blogspot.com/2008/09/simple-task-queue.html
+http://twistedoakstudios.com/blog/Post2061_emulating-actors-in-c-with-asyncawait
+http://savas.me/2011/05/implementing-an-actor-in-c-with-task-continuations/
+http://www.ben-morris.com/using-asynchronous-log4net-appenders-for-high-performance-logging/
+http://jakzaprogramowac.pl/pytanie/13076,queue-of-async-tasks-with-throttling-which-supports-muti-threading
 
-https://www.google.com.vn/search?q=c%23+download+multiple+files+async+site:social.msdn.microsoft.com&biw=1920&bih=943&sa=X&sqi=2&ved=0ahUKEwjE9Lzw5sfNAhXJt48KHb8JBWgQrQIIWCgDMAU#q=c%23+download+multiple+files+async+site:social.msdn.microsoft.com&start=50
+
++ Exception async await
+"IsFaulted" property on our Task
+async/await exception handling pattern
+Handling Async Await Exceptions
+Async exception handling in C#
+Task Exception Handling in .NET 4.5
+
+
+http://jeremybytes.blogspot.com/2015/01/task-and-await-basic-exception-handling.html
+http://stackoverflow.com/questions/19148452/async-await-exception-handling-pattern
+http://www.axilis.com/2015/07/27/async-exception-handling-in-c/
+http://blog.stephencleary.com/2014/06/await-in-catch-and-finally.html
+http://www.bartread.com/2014/02/13/c-quick-tip-does-exception-handling-work-with-async-method-calls/
+http://blogs.msdn.com/b/pfxteam/archive/2011/09/28/task-exception-handling-in-net-4-5.aspx
+
+
+
+https://www.google.com.vn/?gws_rd=ssl#q=exception+async+await+%2B+.net&start=10
 
 
  
