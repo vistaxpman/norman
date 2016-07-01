@@ -1,3 +1,34 @@
+== 01 - 07 - 2016
++ Từ khóa
+FileSystemWatcher class
+
+
+https://blogs.msdn.microsoft.com/developer-tools/
+https://vozforums.com/showthread.php?t=5063349&page=11
+http://stackoverflow.com/questions/28028262/using-await-semaphoreslim-waitasync-in-net-4
+http://stackoverflow.com/questions/25654498/semaphoreslim-waitasync-continuation-code
+http://www.hanselman.com/blog/ComparingTwoTechniquesInNETAsynchronousCoordinationPrimitives.aspx
+http://www.tomdupont.net/2015/11/net-semaphore-slim-that-supports-keys.html
+https://gist.github.com/tugberkugurlu/5917020
+http://blog.awagat.com/?p=701
+http://blog.shtair.net/2014/07/29/%E9%9D%9E%E5%90%8C%E6%9C%9F%E3%81%AE%E5%90%8C%E6%9C%9F/
+http://ideone.com/fork/9IzLpq
+https://www.snip2code.com/Snippet/1043268/A-test-console-app-to-upload-multiple-bl
+http://uk-taniyama.cocolog-nifty.com/tools/2013/07/winrt-2e1c.html
+https://www.codefactor.io/repository/github/redth/pushsharp
+http://codegists.com/snippet/c/uploadmultipleblobscs_tuan_c
+http://www.tipsabc.com/2015/xamarin-forms-how-to-lock-async-functions/
+http://codegists.com/snippet/c/paralleluploadtoblobstoragecs_tuan_c
+http://mataro777.hateblo.jp/entry/2015/02/19/153052
+
++ Read content change
+http://stackoverflow.com/questions/13185319/how-to-detect-real-time-change-of-text-files
+http://stackoverflow.com/questions/2373090/reading-file-content-changes-in-net
+https://www.experts-exchange.com/questions/24674548/want-to-read-a-text-file-in-'realtime'-in-C.html
+http://www.dotnetlogging.com/
+http://programmers.stackexchange.com/questions/168059/best-practices-for-logging-user-actions-in-production
+https://www.google.com.vn/?gws_rd=ssl#q=real+time+write+log+file+%2B+c%23&start=10
+
 == 29 - 06 - 2016
 + Từ khóa
 
