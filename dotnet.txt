@@ -1,3 +1,55 @@
+== 05 - 07 - 2016
++ Từ khóa
+process.WaitForExit() asynchronously
+TaskCompletionSource
+Pausing and cancelling async method in C#
+
+
+http://stackoverflow.com/questions/470256/process-waitforexit-asynchronously
+http://stackoverflow.com/questions/10788982/is-there-any-async-equivalent-of-process-start
+https://msdn.microsoft.com/en-us/library/mt674882.aspx
+http://stackoverflow.com/questions/611094/async-process-start-and-wait-for-it-to-finish
+http://www.dotnetperls.com/async
+http://www.levibotelho.com/development/async-processes-with-taskcompletionsource
+http://www.codeducky.org/process-handling-net/
+http://hmemcpy.com/2013/01/turning-old-and-busted-asynchronous-code-into-new-asyncawait-enabled-hotness-with-taskcompletionsourcet/
+https://weblogs.asp.net/dixin/understanding-c-sharp-async-await-3-runtime-context
+http://www.codeproject.com/Articles/518856/Task-Parallel-Library-and-async-await-Functionalit
+https://blog.tonysneed.com/2013/04/01/more-fun-async-asp-net-web-api/
+http://blogs.msdn.com/b/pfxteam/archive/2013/01/13/cooperatively-pausing-async-methods.aspx
+http://stackoverflow.com/questions/20185848/async-tasks-pause-resume-of-loop
+http://stackoverflow.com/questions/19613444/a-pattern-to-pause-resume-an-async-task
+http://stackoverflow.com/questions/5754486/a-pattern-for-pausing-threads-similar-to-the-cancellationtokensource-and-cancell
+https://forums.xamarin.com/discussion/10858/async-await-finishes-running-thread-and-resumes-execution-on-main-ui-thread
+https://psycodedeveloper.wordpress.com/2013/01/21/concurrent-asynchronous-processing-of-all-the-files-in-a-directory-with-support-for-cooperative-pausing-in-c/
+http://toughdev.vn/qa/467489/m%E1%BB%99t-m%C3%B4-h%C3%ACnh-%C4%91%E1%BB%83-t%E1%BA%A1m-d%E1%BB%ABng-ti%E1%BA%BFp-t%E1%BB%A5c-m%E1%BB%99t-nhi%E1%BB%87m-v%E1%BB%A5-async
+http://www.it610.com/article/5348602.htm
+https://bhrnjica.net/2014/04/15/pausing-and-cancelling-async-method-in-c/
+https://www.google.com.vn/?gws_rd=ssl#q=Async+processes+with+TaskCompletionSource+%2B+c%23&start=10
+http://www.levibotelho.com/development/a-universal-event-logger
+
+
++ Directory.GetCurrentDirectory
+https://msdn.microsoft.com/en-us/library/system.io.directory.getcurrentdirectory%28v=vs.110%29.aspx
+http://stackoverflow.com/questions/21726088/how-to-get-current-working-directory-path-c
+http://stackoverflow.com/questions/6041332/best-way-to-get-application-folder-path
+http://stackoverflow.com/questions/10718956/c-sharp-get-true-path-of-current-directory
+http://stackoverflow.com/questions/837488/how-can-i-get-the-applications-path-in-a-net-console-application
+http://stackoverflow.com/questions/6122984/load-a-bitmap-image-into-windows-form-using-open-file-dialog
+http://stackoverflow.com/questions/6576341/open-image-from-file-then-release-lock
+http://stackoverflow.com/questions/1201228/speed-up-loading-an-image-from-disk-in-a-windows-forms-c-net-app
+http://stackoverflow.com/questions/6511816/loading-image-from-relative-path-in-windows-forms
+http://stackoverflow.com/questions/17193825/loading-picturebox-image-from-resource-file-with-path-part-3
+http://stackoverflow.com/questions/5502978/how-can-i-load-an-image-from-a-specific-directory-in-c
+http://stackoverflow.com/questions/2069048/setting-the-filter-to-an-openfiledialog-to-allow-the-typical-image-formats
+
+cell.Value = Image.FromFile(
+  Path.Combine (
+     Path.GetDirectoryName (Assembly.GetExecutingAssembly().Location),
+     "Resources/warning_Icon"));
+	 
+pictureBox1.Image = Image.FromFile(@"Images\a.bmp");
+
 == 01 - 07 - 2016
 + Từ khóa
 FileSystemWatcher class
