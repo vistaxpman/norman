@@ -1,3 +1,189 @@
+== 12 - 07 - 2016
++ Từ khóa
+This is the Arrow Anti-Pattern in action.
+Anti-Patterns and Worst Practices
+Object-oriented design pattern to avoid if/then/else statements
+How to avoid switch-case syndrome
+Applying Strategy Pattern Instead of Using Switch Statements
+
+
+Table Layout in CSS
+CSS Table Rendering in Detail
+By Eric A. Meyer
+Publisher: OReilly Media
+Final Release Date: June 2016
+Pages: 44
+
+Transitions and Animations in CSS
+Adding Motion with CSS
+By Estelle Weyl
+Publisher: OReilly Media
+Final Release Date: April 2016
+Pages: 118
+
+Padding, Borders, Outlines, and Margins in CSS
+CSS Box Model Details
+By Eric A. Meyer
+Publisher: OReilly Media
+Final Release Date: December 2015
+Pages: 78
+
+Grid Layout in CSS
+Interface Layout for the Web
+By Eric A. Meyer
+Publisher: OReilly Media
+Final Release Date: April 2016
+Pages: 84
+
+Positioning in CSS
+Layout Enhancements for the Web
+By Eric A. Meyer
+Publisher: OReilly Media
+Final Release Date: April 2016
+Pages: 50
+
+CSS Floating
+By Eric A. Meyer
+Publisher: OReilly Media
+Release Date: January 2016 
+
+Basic Visual Formatting in CSS
+Layout Fundamentals in CSS
+By Eric A. Meyer
+Publisher: OReilly Media
+Final Release Date: August 2015
+Pages: 72
+
+Flexible Boxes in CSS
+By Estelle Weyl
+Publisher: OReilly Media
+Release Date: September 2016 
+
+Multi-Column Layout in CSS
+By Estelle Weyl
+Publisher: OReilly Media
+Release Date: September 2016 
+
+Lists and Generated Content in CSS
+By Estelle Weyl
+Publisher: OReilly Media
+Release Date: October 2016 
+
+
+The Little Book of HTML/CSS Coding Guidelines
+By Jens Oliver Meiert
+Publisher: OReilly Media
+Release Date: December 08, 2015 
+
+Mastering CSS3 Colors
+By Ben Fhala
+Publisher: Packt Publishing
+Release Date: December 30, 2015 
+
+Mastering CSS3 Selectors
+By Ben Fhala
+Publisher: Packt Publishing
+Release Date: December 30, 2015 
+
+CSS Refactoring
+By Steve Lindstrom
+Publisher: OReilly Media
+Release Date: October 2016 
+
+
+HTML5 & CSS3 For The Real World, 2nd Edition
+By Alexis Goldstein, Louis Lazaris, Estelle Weyl
+Publisher: SitePoint
+Release Date: March 2015 
+
+CSS3 for Web Designers, 2nd Edition
+By Dan Cederholm
+Publisher: A Book Apart
+Release Date: February 2015 
+
+CSS3 Pushing the Limits
+By Stephen Greig
+Publisher: Wiley
+Release Date: July 2013 
+
+HTML5 and CSS3, 2nd Edition
+By Brian P. Hogan
+Publisher: Pragmatic Bookshelf
+Release Date: October 2013 
+
+http://kenh14.vn/khong-phai-gap-bung-hay-plank-day-moi-la-bai-tap-khien-ban-thon-tha-trong-thay-sau-20-ngay-20160713193530088.chn
+http://2sao.vn/the-thao/8-bai-tap-danh-bay-mo-va-lam-san-chac-bung-duoi-tot-nhat-p0c1051n20160712080558535.vnn
+
+	- Good
+	http://joelabrahamsson.com/invoking-methods-based-on-a-parameter-without-if-else-statements-in-c/
+	http://blogs.microsoft.co.il/gilf/2009/11/22/applying-strategy-pattern-instead-of-using-switch-statements/
+	http://prasadhonrao.com/how-to-avoid-race-condition-in-csharp/
+	http://cache-www.coderanch.com/templates/default/betaview/images/header-bg.jpg
+	http://www.coderanch.com/t/99377/patterns/Chained-statements-avoid
+	http://greatis.com/dotnet/delphi2cs/language/case.html =====> Download icon
+	
+	
+	
+https://www.google.com/search?q=how+to+avoid+if+else+in+c%23&ie=utf-8&oe=utf-8#q=how+to+avoid+if+else+in+c%23&start=10
+http://stackoverflow.com/questions/3666030/how-to-avoid-multiple-nested-ifs
+http://stackoverflow.com/questions/13588424/object-oriented-design-pattern-to-avoid-if-then-else-statements
+http://stackoverflow.com/questions/6548207/avoiding-too-many-if-else-else-if-statement-for-multiple9-conditions
+http://programmers.stackexchange.com/questions/206816/clarification-of-avoid-if-else-advice
+http://www.dofactory.com/topic/1179/question-of-multiple-if-else-statements-in-code.aspx
+http://www.codeproject.com/Articles/12508/Dude-are-you-still-programming-using-if-then-else
+http://www.codeproject.com/Articles/626403/How-and-Why-to-Avoid-Excessive-Nesting
+http://webmisterradixlecti.blogspot.com/2013/03/writing-better-c-code-if-statements.html
+http://www.dotnetperls.com/if
+http://haacked.com/archive/2013/11/08/death-to-the-if-statement.aspx/
+http://james.padolsey.com/javascript/how-to-avoid-switch-case-syndrome/
+http://joelabrahamsson.com/syntax-highlighting-json-with-c/
+	
+
+Dictionary<SearchType, Action> actionMap = new Dictionary<SearchType, Action>();
+actionMap.Add(SearchType.Bananas, SearchForBananas);
+actionMap.Add(SearchType.Oranges, SearchForOranges);
+actionMap.Add(SearchType.Kiwis, SearchForKiwis);
+
+if(actionMap.ContainsKey(searchType))
+    actionMap[searchType]();
+else
+    foreach (Action action in actionMap.Values)
+        action();
+		
++ Dictionary store function
+	- Từ khóa
+		delegate dictionary pattern
+		
+	- Good
+		http://stackoverflow.com/questions/30397846/is-it-possible-to-store-functions-in-a-dictionary
+		http://www.markhneedham.com/blog/2010/05/30/c-using-a-dictionary-instead-of-if-statements/
+		
+http://stackoverflow.com/questions/4233536/c-sharp-store-functions-in-a-dictionary
+http://codereview.stackexchange.com/questions/33152/function-that-builds-dictionary-based-on-lambda-params
+http://joelabrahamsson.com/invoking-methods-based-on-a-parameter-without-if-else-statements-in-c/
+http://stackoverflow.com/questions/28992411/string-function-dictionary-c-sharp-where-functions-have-different-arguments
+http://stackoverflow.com/questions/2550218/how-to-store-a-function-pointer-in-c-sharp
+https://msdn.microsoft.com/en-us/library/s6938f28.aspx
+http://people.cs.aau.dk/~normark/oop-csharp/html/notes/collections_themes-dictionary-sect.html
+https://blogs.msdn.microsoft.com/brunoterkaly/2012/03/02/c-delegates-actions-funcs-lambdaskeeping-it-super-simple/
+https://github.com/dotnet/roslyn/issues/4100
+http://www.codeproject.com/Articles/32894/C-Multi-key-Generic-Dictionary
+https://www.google.com/search?q=dictionary+add+method+with+param+%2B+c%23&ie=utf-8&oe=utf-8#q=C%23+Store+functions+in+a+Dictionary+with+param+%2B+c%23&start=20	
+		 
+
+== 11 - 07 - 2016
++ Từ khóa
+http://www.dotnetodyssey.com/2015/04/09/partial-view-in-asp-net-mvc/
+https://our.umbraco.org/forum/developers/razor/52609-Passing-Parameters-From-Partial-View-Macro-to-Partial-View
+
+
+
+== 07 - 07 - 2016
++ Từ khóa
+
+CSS: The Missing Manual, 4th Edition
+https://github.com/sawmac/css_mm_4e
+
 == 05 - 07 - 2016
 + Từ khóa
 process.WaitForExit() asynchronously
