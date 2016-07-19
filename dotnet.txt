@@ -1,3 +1,28 @@
+== 15 - 07 - 2016
++ Từ khóa
+	Create and invoke generic async method
+	Async method returning Task<T> with generic constraint in C#
+	
+http://stackoverflow.com/questions/18562613/async-method-returning-taskt-with-generic-constraint-in-c-sharp
+http://stackoverflow.com/questions/34028109/how-to-make-async-method-generic-over-task-type
+http://stackoverflow.com/questions/21264265/create-and-invoke-generic-async-method
+https://dotnetcodr.com/2014/01/17/getting-a-return-value-from-a-task-with-c/
+https://msdn.microsoft.com/en-us/library/hh873173%28v=vs.110%29.aspx
+https://msdn.microsoft.com/en-us/library/mt674889.aspx
+http://codereview.stackexchange.com/questions/38673/using-taskt-and-actions-for-simple-threading
+http://blogs.msdn.com/b/pfxteam/archive/2012/02/08/10265476.aspx
+http://www.codeproject.com/Articles/490818/Android-Inspired-Csharp-AsyncTask
+http://www.matlus.com/
+http://www.mithunvp.com/building-responsive-ui-using-async-await-csharp/
+http://stackoverflow.com/questions/32901989/dynamic-linq-function-using-dictionary-as-a-parameter-to-filter-method
+http://stackoverflow.com/questions/8613035/dynamic-function-mapping
+http://tomasp.net/blog/dynamic-linq-queries.aspx/
+http://kenh14.vn/4-dong-tac-the-duc-giam-can-quen-thuoc-nhung-thuong-xuyen-bi-tap-sai-20160718152824577.chn
+https://www.simple-talk.com/sql/learn-sql-server/sql-server-indexed-views-the-basics/
+https://technet.microsoft.com/en-us/magazine/2007.11.sqlquery.aspx
+http://blog.sqlauthority.com/2013/08/28/sql-server-tips-for-sql-query-optimization-by-analyzing-query-plan/
+http://www.databasejournal.com/features/mssql/article.php/3867651/SQL-Server-Indexed-Views.htm
+
 == 12 - 07 - 2016
 + Từ khóa
 This is the Arrow Anti-Pattern in action.
