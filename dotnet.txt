@@ -1,3 +1,52 @@
+== 21 - 07 - 2016
++ Từ khóa
+	Using Lambdas for Getter-Only Auto-Properties
+
+https://www.google.com.vn/?gws_rd=ssl#q=c%23+func+property&start=10	
+https://visualstudiomagazine.com/Articles/2011/06/01/pccsp_Lambda-Properties.aspx
+http://stackoverflow.com/questions/5075484/property-selector-expressionfunct-how-to-get-set-value-to-selected-property
+https://handcraftsman.wordpress.com/2008/11/11/how-to-get-c-property-names-without-magic-strings/
+http://blog.slaks.net/2015-06-26/code-snippets-fast-property-access-reflection/
+http://stackcode.xyz/sc?id=is38056426
+http://www.aaron-powell.com/posts/2011-03-30-binding.html
+https://www.oreilly.com/learning/building-c-objects-dynamically
+http://fascinatedwithsoftware.com/blog/post/2011/12/02/Falling-in-Love-with-LINQ-Part-7-Expressions-and-Funcs.aspx
+https://habrahabr.ru/post/83169/
+https://codeblog.jonskeet.uk/2008/08/09/making-reflection-fly-and-exploring-delegates/
+http://blog.raffaeu.com/archive/2010/06/26/how-to-write-fluent-interface-with-c-and-lambda.aspx
+http://www.minddriven.de/index.php/technology/dot-net/c-sharp/efficient-expression-values
+http://mikehadlow.blogspot.com/2010/09/getting-property-name-from-property.html
+https://joelholder.com/2011/03/12/property-gettersetter-extraction-from-c-types/
+http://zenhackers.net/blog/?p=225
+https://weblog.west-wind.com/posts/2012/feb/08/creating-a-dynamic-extensible-c-expando-object
+
+http://codereview.stackexchange.com/questions/42016/delegate-that-selects-a-writable-property-on-a-generic
+http://stackoverflow.com/questions/18176856/passing-a-function-as-parameter
+https://msdn.microsoft.com/en-us/library/ms173172.aspx
+https://msdn.microsoft.com/en-us/library/bb549151%28v=vs.110%29.aspx
+http://abundantcode.com/how-to-pass-method-or-function-as-parameter-in-c/
+http://www.codeproject.com/Questions/164911/Pass-a-method-with-N-params-as-parameter-in-C
+http://www.dotnetperls.com/parameter
+http://stackoverflow.com/questions/2082615/pass-method-as-parameter-using-c-sharp
+http://stackoverflow.com/questions/3622160/c-sharp-passing-function-as-argument
+http://www.growingwiththeweb.com/2012/08/func-and-action-basics-in-c.html
+http://programmers.stackexchange.com/questions/264525/best-oop-practice-in-c-passing-the-object-as-parameter-vs-creating-a-new-insta
+https://csharp.2000things.com/2014/11/04/1218-c-6-0-using-lambdas-for-getter-only-auto-properties/
+http://automatetheplanet.com/get-property-names-using-lambda-expressions/
+http://automatetheplanet.com/windows-event-log-tips/
+http://automatetheplanet.com/generic-properties-validator-csharp-code/
+http://stackoverflow.com/questions/671968/retrieving-property-name-from-lambda-expression
+https://blogs.msdn.microsoft.com/csharpfaq/2010/03/11/how-can-i-get-objects-and-property-values-from-expression-trees/
+http://www.kunal-chowdhury.com/2014/12/csharp-6-expression-bodied-method.html#4kkcpqgEUvyWWQwU.97
+http://bytefish.de/blog/expression_trees_csharp/
+https://visualstudiomagazine.com/articles/2015/06/03/c-sharp-6-expression-bodied-properties-dictionary-initializer.aspx
+http://stackoverflow.com/questions/9601707/how-to-set-property-value-using-expressions
+http://www.codeproject.com/Articles/584720/ExpressionplusbasedplusPropertyplusGettersplusandp
+http://www.palmmedia.de/Blog/2012/2/4/reflection-vs-compiled-expressions-vs-delegates-performance-comparision
+https://gist.github.com/treymack/bf16761c871858e016fd
+http://stackoverflow.com/questions/2789504/get-the-property-as-a-string-from-an-expressionfunctmodel-tproperty
+http://geekswithblogs.net/BlackRabbitCoder/archive/2011/11/10/c.net-little-wonders-the-generic-func-delegates.aspx
+http://blogs.tedneward.com/patterns/ClosureBasedState-CSharp/
 == 15 - 07 - 2016
 + Từ khóa
 	Create and invoke generic async method
