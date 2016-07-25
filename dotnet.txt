@@ -1,3 +1,52 @@
+== 25 - 07 - 2016
+https://vozforums.com/showthread.php?t=5156050&page=15
+share trình già lập, game, cheats code cho mọi người chơi
+https://www.fshare.vn/file/6QW16HMDRGQZ
+https://www.fshare.vn/file/RHWT3P2VYV9E
+đây là hướng dẫn giả lập
+http://download.com.vn/virtuanes/download
+
++ Generic .net core
+	- Từ khóa
+	https://www.pluralsight.com/courses/csharp-generics	
+	C# Generics - Why Generics?
+	Working with Generic Collections
+	Generic Classes and Interfaces
+	Generic Methods and Delegates
+	Constraints, Covariance, and Contravariance
+	Generics and Reflection
+	Generic Odds & Ends
+https://msdn.microsoft.com/en-us/magazine/dn879355.aspx
+https://blogs.msdn.microsoft.com/csharpfaq/2014/11/20/new-features-in-c-6/
+http://stackoverflow.com/questions/2587236/generic-property-in-c-sharp
+http://stackoverflow.com/questions/36680933/discovering-generic-controllers-in-asp-net-core
+https://github.com/dotnet/corefx/issues/574
+http://vietjack.com/csharp/generic_trong_csharp.jsp
+http://vietjack.com/ngu-phap-tieng-anh/thi-hien-tai-tiep-dien-trong-tieng-anh.jsp
+http://stackoverflow.com/questions/4560890/what-are-generics-in-c
+http://stackoverflow.com/questions/77632/what-is-cool-about-generics-why-use-them
+http://csharp-station.com/Tutorial/CSharp/Lesson20
+https://toidicodedao.com/2015/03/05/series-c-hay-ho-generic-la-cai-thu-chi-chi/
+http://www.infoworld.com/article/2984788/application-architecture/how-to-work-with-generics-in-c.html
+http://o7planning.org/vi/10461/huong-dan-su-dung-csharp-generics
+https://www.pluralsight.com/courses/csharp-generics
+http://www.c-sharpcorner.com/UploadFile/84c85b/using-generics-with-C-Sharp/
+https://unity3d.com/learn/tutorials/topics/scripting/generics
+http://v1study.com/csharp-tao-va-su-dung-generic-a631.html
+http://programmers.stackexchange.com/questions/191275/what-problems-can-be-solved-using-generics
+https://nguyenminhphuc.wordpress.com/khainiemvegeneric/
+http://aptech.vn/kien-thuc-tin-hoc/tim-hieu-kieu-generic-trong-c.html
+http://igoro.com/archive/fun-with-c-generics-down-casting-to-a-generic-type/
+http://people.cs.aau.dk/~normark/oop-csharp/html/notes/collections_themes-non-generic-collections-sect.html
+https://github.com/sestoft/C5
+http://www.indiabix.com/c-sharp-programming/generics/
+https://www.lynda.com/C-tutorials/C-Interfaces-Generics/388134-2.html
+https://www.itu.dk/research/c5/
+http://www.akadia.com/services/dotnet_generics.html
+http://thibaultlaurens.github.io/microsoft/2013/01/12/generics-with-csharp/
+http://www.growingwiththeweb.com/2013/02/using-enum-as-generic-type.html
+
+
 == 21 - 07 - 2016
 + Từ khóa
 	Using Lambdas for Getter-Only Auto-Properties
