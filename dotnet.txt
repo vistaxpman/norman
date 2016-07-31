@@ -1,5 +1,10 @@
 https://www.google.com/search?q=c%23+wpf+download+file&client=firefox-b&biw=1280&bih=663&noj=1&ei=ChSeV7uvDYXwvgSOlrjoAg&start=20&sa=N&gfe_rd=cr
 
+https://www.google.com/search?q=wpf+datagrid+progress+bar+column&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=VRWeV6TXA4LM8geTspOADQ
+http://stackoverflow.com/questions/13253384/adding-progressbar-to-datagrid-column
+http://stackoverflow.com/questions/19360667/progressbar-in-datagrid
+http://stackoverflow.com/questions/23779365/wpf-datagrid-progressbar-with-text
+
 no signal entering the power saving mode shortly
 
 == 25 - 07 - 2016
