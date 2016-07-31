@@ -1,3 +1,5 @@
+no signal entering the power saving mode shortly
+
 == 25 - 07 - 2016
 Super Bomberman 3 trên SNES 
 bomberman 4 
