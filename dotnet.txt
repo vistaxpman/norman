@@ -1,3 +1,241 @@
+<Grid ShowGridLines="True">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <DataGrid ItemsSource="{Binding}" AutoGenerateColumns="False" Height="430" HorizontalAlignment="Left" Margin="12,12,0,0" Name="dataGrid1" VerticalAlignment="Top" Width="550" Grid.Column="1" Grid.Row="1" LoadingRow="dataGrid1_LoadingRow">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="FirstName" Binding="{Binding FirstName}" />
+                <DataGridTextColumn Header="Sure Name" Binding="{Binding SureName}" />
+                <DataGridTextColumn Header="Last Name" Binding="{Binding LastName}" />
+                <DataGridTextColumn Header="Age" Binding="{Binding Age}" />
+                <DataGridTextColumn Header="Gender" Binding="{Binding Gender}" />
+                <DataGridTemplateColumn Header="Orders Count" Width="380">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <ProgressBar Grid.Row="0" Grid.Column="0"  Minimum="0" Maximum="100" Value="{Binding OrderCounts, Mode=OneWay}" ToolTip="{Binding OrderCounts, Mode=OneWay}">
+                                </ProgressBar>
+                                <TextBlock Grid.Row="0" Grid.Column="0" Text="{Binding OrderCounts,Mode=OneWay}" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+                            </Grid>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+    
+    
+    <Style TargetType="{x:Type DataGridCell}">
+            <Setter Property="BorderThickness" Value="0"/>
+            <Style.Triggers>
+                <Trigger Property="IsSelected" Value="True">
+                    <Setter Property="Background" Value="DarkGreen" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style x:Key="DataGridNumberHeaderStyle" TargetType="DataGridColumnHeader">
+            <Setter Property="Background" Value="{DynamicResource HeaderBrush}" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="BorderBrush" Value="{DynamicResource HeaderBorderBrush}" />
+            <Setter Property="BorderThickness" Value="1" />
+            <Setter Property="SnapsToDevicePixels" Value="True" />
+            <Setter Property="HorizontalContentAlignment" Value="Center" />
+            <Setter Property="MinWidth" Value="0" />
+            <Setter Property="MinHeight" Value="30" />
+            <Setter Property="Cursor" Value="Hand" />
+        </Style>
+        <Style TargetType="DataGrid">
+            <Setter Property="RowHeight" Value="20" />
+            <Setter Property="GridLinesVisibility" Value="None" />
+            <Setter Property="AlternationCount" Value="2" />
+        </Style>
+
+        <Style TargetType="{x:Type DataGridRow}">
+            <Style.Triggers>
+                <Trigger Property="AlternationIndex" Value="1" >
+                    <Setter Property="Background" Value="AntiqueWhite" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <LinearGradientBrush x:Key="HeaderBrush" StartPoint="0.5,0" EndPoint="0.5,1">
+            <GradientStop Color="#FF6B8E95" Offset="0"/>
+            <GradientStop Color="#FF14A7C1" Offset="1"/>
+            <GradientStop Color="#FF1E424E" Offset="0.509"/>
+            <GradientStop Color="#FF1D4855" Offset="0.542"/>
+            <GradientStop Color="#FF1D4855" Offset="0.542"/>
+            <GradientStop Color="#FF193A44" Offset="0.526"/>
+        </LinearGradientBrush>
+
+        <LinearGradientBrush x:Key="HeaderBorderBrush" StartPoint="0.5,0" EndPoint="0.5,1">
+            <GradientStop Color="#FF1D1D1D" Offset="0.614"/>
+            <GradientStop Color="#FF007F96" Offset="0.853"/>
+            <GradientStop Color="#FF0AEAFA" Offset="1"/>
+        </LinearGradientBrush>
+        
+        private void dataGrid1_LoadingRow(object sender, DataGridRowEventArgs e)
+        {
+            e.Row.Header = (e.Row.GetIndex() + 1).ToString();
+        }
+
+
+== 02 - 08 - 2016
++ Từ khóa
+	Displaying Data in Tables with WPF DataGrid Control 
+	DataGrid Styles and Templates
+
++ Soft
+http://www.mindscapehq.com/products/wpfelements/nightly-builds
+http://www.mindscapehq.com/products/wpfelements/download
+http://www.techrum.vn/threads/devcomponents-dotnetbar-12-8-0-6-registered-version-no-crack.51253/
+http://dl.downloadly.ir/Files/Software/DotNetBar_12.8.0.8_Registered_Version_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Software/DotNetBar_12.8.0.6_Registered_Version_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Software/DevComponents_DotNetBar_12.7.0.10_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Software/DevComponents_DotNetBar_12.7.0.2_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Software/DevComponents_DotNetBar_12.4.0.2_Downloadly.ir.exe
+http://dl.downloadly.ir/Files/Software/DevComponents_DotNetBar_for_WPF_7.1.0.14_Downloadly.ir.exe
+Password: www.downloadly.ir
+
+DotNetBar for Windows Forms Fully Functional Trial Download - v12.8
+http://www.devcomponents.com/dotnetbar/download.aspx
+
+DotNetBar for WPF - v7.9
+http://www.devcomponents.com/dotnetbar-wpf/download.aspx
+
+http://dl.downloadly.ir/Files/Software/Actipro_WPF_Controls_v15.1.0623_Downloadly.ir.rar
+Password: www.downloadly.ir
+Actipro WPF Controls 15.1.0623
+
+http://dl.downloadly.ir/Files/Software/Actipro_Winforms_Controls_v14.1.0323_Downloadly.ir.rar
+Actipro Windows Forms Controls 14.1.0323
+
+
+http://dl.downloadly.ir/Files/Software/Telerik_UI_for_WPF_2016_2_613_Dev_Downloadly.ir.rar
+UI for WPF 2016.2.613 Retail
+http://downloadly.ir/software/programming/telerik/
+
+DevExpress_Universal Complete 16.1.4 Build 20160622
+http://dl.downloadly.ir/Files/Software/DevExpress_Universal_Complete_16.1.4_Build_20160622_Downloadly.ir.rar
+
+Devexpress_Universal 16.1.4 Source Code
+http://dl.downloadly.ir/Files/Software/Devexpress_Universal_16.1.4_Source_Code_Downloadly.ir.rar
+
+DevExpress Components for .Net 16.1.4
+http://dl.downloadly.ir/Files/Software/DevExpress_Components_for_.Net_16.1.4_Downloadly.ir.rar
+
+Crypto Logger For .Net (v2010)     
+http://www.ssware.com/cryptologger/logger-net.htm
+http://dl.downloadly.ir/Files/Software/Crypto_Logger_For_.Net_2010_Build_611718_Downloadly.ir.rar
+Crypto Logger For .Net 2010 Build 611718
+
+
+
++ ProgressBar to DataGrid column
+
+	- can tim
+	http://kishor-naik-dotnet.blogspot.com/2012/12/wpf-progressbar-in-datagrid-column-in.html
+	https://social.msdn.microsoft.com/Forums/vstudio/en-US/355db9b7-e87a-413d-8579-a60f9b7e44c7/update-progressbar-value-dynamically-inside-the-datagrid-at-datagrid-button-click-event-using-wpf-c?forum=wpf
+	https://zamjad.wordpress.com/2009/12/08/display-text-in-progress-bar/
+	http://www.wpf-tutorial.com/misc-controls/the-progressbar-control/ => sử dụng cho load data lần đầu
+	http://www.c-sharpcorner.com/UploadFile/393ac5/use-of-progressbar-in-wpf/
+	http://www.dotnetcurry.com/wpf/1187/using-wpf-45-responsive-ui-async
+	
+	
+	
+https://zamjad.wordpress.com/2010/08/23/apply-conditional-data-template-in-data-grid/	
+http://stackoverflow.com/questions/13253384/adding-progressbar-to-datagrid-column
+http://stackoverflow.com/questions/19360667/progressbar-in-datagrid
+http://stackoverflow.com/questions/23779365/wpf-datagrid-progressbar-with-text
+https://social.msdn.microsoft.com/Forums/en-US/54a6e2cb-096a-4f7e-8abb-562fc1858fb3/wpf-c-binding-list-of-progressbar-to-datagridcell?forum=wpf
+
++ Styling WPF
+	http://www.accendo.sk/Clanky/Tipy_009.html
+	https://github.com/punker76/code-samples
+	http://jkarger.de/archive/2014/11/23/wpf-datagrid-using-mahapps-metro/
+	https://csharphardcoreprogramming.wordpress.com/2014/04/29/wpf-datagrid-formatting-part-1/
+	https://blog.udemy.com/wpf-datagrid/
+	https://msdn.microsoft.com/en-us/library/cc278066%28v=vs.95%29.aspx
+	https://msdn.microsoft.com/en-us/library/ff506248%28v=vs.100%29.aspx
+	http://www.c-sharpcorner.com/UploadFile/nipuntomar/wpf-datagrid-style/
+	http://www.codearsenal.net/2012/07/wpf-datagrid-columnheaderstyle.html#.V6Ad432_C1w
+	http://www.wpftutorial.net/datagrid.html
+	http://help.syncfusion.com/wpf/sfdatagrid/styles-and-templates
+	http://www.infragistics.com/samples/wpf/data-grid/custom-expandablefieldrecordpresenter-style
+	http://www.mindscapehq.com/forums/thread/1660282
+	https://datagridthemesfromsl.codeplex.com/
+	https://xceed.com/wp-content/documentation/xceed-datagrid-for-wpf/Styling%20Elements.html
+	https://codedump.io/share/IsMs7D71Pkoa/1/wpf-datagridcell-styling---binding-for-tooltips-on-multiple-columns
+	http://www.andymcm.com/blog/2009/10/wpf-toolkit-datagrid-is-uggo.html
+	http://datagridthemesfromsl.codeplex.com/
+	https://bytes.com/topic/xaml/answers/944396-change-background-color-datagridrow-using-datatriggers
+	https://coderelief.net/2011/01/04/style-microsofts-datagrid-selectall-button-using-attached-properties/
+	http://thrash505.webs.com/BlogProjects/DataGridSelectAllDemo.zip
+	http://ikeptwalking.com/mahapps-controls-customization/
+	http://blogs.spencen.com/?p=615
+	http://www.nullskull.com/a/1525/styling-the-wpf-scrollviewer.aspx
+	http://stackoverflow.com/questions/4661998/simple-way-to-display-row-numbers-on-wpf-datagrid
+	http://stackoverflow.com/questions/28406290/show-row-number-in-datagrid
+	https://social.msdn.microsoft.com/Forums/sqlserver/en-US/a714c2f7-04d5-4ada-a1cc-14d59cdf6e7d/datagrid-show-row-index-and-reset-sorting?forum=wpf
+	http://asimsajjad.blogspot.com/2010/09/displaying-rownumber-in-datagrid.html
+	
+	
+https://github.com/MahApps/MahApps.Metro/issues/1243	
+http://eimagine.com/how-to-style-the-wpf-datagrids-column-headers/
+http://stackoverflow.com/questions/12545512/style-a-wpf-datagrid
+http://stackoverflow.com/questions/21976803/wpf-datagrid-style
+http://www.codeproject.com/Articles/586132/WPF-DataGrid-Custommization-using-Style-and-Templa
+https://blogs.msdn.microsoft.com/jaimer/2009/01/20/styling-microsofts-wpf-datagrid/
+http://www.nukeation.com/themes.aspx#9
+http://stackoverflow.com/questions/3074465/how-to-apply-style-for-wpf-datagrid-scrollbars
+http://phamnguyen.info/wpf-datagrid-style/
+http://www.dhirajranka.com/2010/12/styling-wpf-datagrid/
+http://docs.telerik.com/devtools/wpf/controls/radgridview/styles-and-templates/styling-radgridview
+http://stackoverflow.com/questions/32975917/wpf-datagrid-header-styling
+http://mahapps.com/controls/
+http://stackoverflow.com/questions/2630292/why-cant-i-style-a-datagridtextcolumn
+http://stackoverflow.com/questions/7943729/how-to-set-style-for-datagrid-header-in-wpf
+http://blog.scottlogic.com/2009/02/10/styling-hard-to-reach-elements-in-control-templates-with-attached-behaviours.html
+http://andora.us/blog/2011/03/21/using-style-triggers-to-give-tooltips-to-datagrid-columns/
+http://imaginarydevelopment.blogspot.com/2010/08/wpf-datagrid-row-level-styling.html
+http://www.jonathanantoine.com/2011/09/06/wpfs-datagridcheckboxcolumn-elementstyle-uses-a-wrong-default-value/
+https://msdn.microsoft.com/en-us/library/system.windows.controls.datagrid%28v=vs.110%29.aspx
+http://www.wpf-tutorial.com/datagrid-control/details-row/
+http://www.wpf-tutorial.com/datagrid-control/custom-columns/
+
+
++ WPf Themes
+https://www.nuget.org/packages/Xceed.Products.Wpf.DataGrid.Themes/
+
+https://xceed.com/xceed-pro-themes-for-wpf/
+Xceed Pro Themes for WPF
+
+http://brianlagunas.com/free-metro-light-and-dark-themes-for-wpf-and-silverlight-microsoft-controls/
+https://github.com/DanPristupov/WpfExpressionBlendTheme
+https://github.com/TanyaPristupova/WpfOfficeTheme
+http://www.infragistics.com/samples/wpf/data-grid/setting-the-theme
+http://nugetmusthaves.com/Tag/theme
+http://bootswatch.com/
+http://www.actiprosoftware.com/products/controls/wpf/datagrid
+https://documentation.devexpress.com/#WPF/CustomDocument7407
+http://www.nukeation.com/free.aspx#
+https://xceed.com/xceed-toolkit-plus-for-wpf/
+http://nugot.net/tag/theme
+
+
+
+
+
+
+
+
+
+https://www.google.com/search?q=c%23+wpf+download+file&client=firefox-b&biw=1280&bih=663&noj=1&ei=ChSeV7uvDYXwvgSOlrjoAg&start=20&sa=N&gfe_rd=cr
+https://www.google.com/search?q=wpf+datagrid+progress+bar+column&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=VRWeV6TXA4LM8geTspOADQ#q=wpf+datagrid+progress+bar+column&start=30
+
+
 https://www.google.com/search?q=c%23+wpf+download+file&client=firefox-b&biw=1280&bih=663&noj=1&ei=ChSeV7uvDYXwvgSOlrjoAg&start=20&sa=N&gfe_rd=cr
 
 https://www.google.com/search?q=wpf+datagrid+progress+bar+column&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=VRWeV6TXA4LM8geTspOADQ
