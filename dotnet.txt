@@ -1,3 +1,40 @@
+
+Infinite Money
+http://www.gamespot.com/rock-n-roll-racing/cheats/
+http://www.gamefaqs.com/snes/588623-rock-n-roll-racing/cheats
+http://www.gamefaqs.com/genesis/586430-rock-n-roll-racing/cheats
+http://www.gamewinners.com/snes/RockNRollRacing.htm
+http://www.gamewinners.com/GEN/RockRollRacing.htm
+http://www.ultracheats.net/cheats/18791/SNES/Rock%20N%20Roll%20Racing.html
+http://www.cheathappens.com/7599-Game_Boy_Advance-Rock_n_Roll_Racing_cheats
+http://www.mogelpower.de/cheats/Rock-n-Roll_SNES_34483.html
+http://wescastro.com/codetwink/cheats.codetwink.com/gba/view/5158/
+http://www.cheatzilla.com/cgi-bin/czm/cheat/3625
+http://www.spieletipps.de/tipps-5398-rocknroll-racing-action-replay-codes/
+http://www.spieletipps.de/tipps-8-rocknroll-racing-allgemeine-cheats-tipps/
+https://www.google.com.vn/?gws_rd=ssl#q=rock+%27n+roll+racing+cheat&start=20
+
+
+
+
+
+http://www.gamegenie.com/cheats/gamegenie/snes/rockrollracing.html
+CODE    KEY IN . . .    EFFECT . . .
+1       D9CF-CDD5       Start with $50,000
+2       FDCF-CDD5       Start with $100,000
+3       9DCF-CDD5       Start with $500,000
+4       BBCF-CDD5       Start with $990,000
+5       D9CF-CD05       Start with $5,020,000
+6       C28C-CF69 + C28B-C4A9   Buy items for free if you have enough money
+7       BACB-C465       No points needed to advance to any level
+8       C2BF-476F       Infinite forward weapons
+9       C2BF-1FA4       Infinite power charges
+10      3CE5-CD67       No damage from hitting other cars
+11      DD26-34D7       No damage from most mines
+12      D126-34D7       More damage from mines
+13      DD36-4F0D       Red Cross packages worth nothing
+14      FD36-4F0D       Red Cross packages can blow up
+
 == 03 - 08 - 2016
 + Change color background image
 How to change colum header background color when using WPF datagrid
