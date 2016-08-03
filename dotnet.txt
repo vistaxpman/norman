@@ -1,3 +1,316 @@
+== 03 - 08 - 2016
++ Change color background image
+How to change colum header background color when using WPF datagrid
+
+
+
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/4ddbdfb7-5a09-4a40-9863-578d13c8c071/datagrid-column-header-sort-image-is-not-displayed-when-header-background-color-is-set-in-wpf?forum=wpf
+http://wpfthoughts.blogspot.com/2014/03/changing-background-of.html
+http://www.wpf-tutorial.com/datagrid-control/details-row/
+http://stackoverflow.com/questions/2827473/setting-wpf-control-background-image-using-styles
+http://stackoverflow.com/questions/29425919/how-can-i-set-the-background-of-a-stackpanel-to-an-imagebrush-defined-in-a-style
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/d49e5a38-840c-45cd-80c9-27828eaf8736/uwp-xaml-calendarview-item-background-style?forum=wpdevelop
+https://github.com/Microsoft/WPF-Samples/blob/master/Sample%20Applications/VideoViewerDemo/MainWindow.xaml
+http://stackoverflow.com/questions/14827060/how-to-change-selected-row-background-image-in-wpf-datagrid
+http://www.mindscapehq.com/forums/thread/467228
+
+
+
+http://stackoverflow.com/questions/3100837/how-to-set-background-image-on-grid-in-wpf-using-c-sharp
+<Grid>
+    <Grid.Background>  
+        <ImageBrush ImageSource="/MyProject;component/Images/bg.png"/>     
+    </Grid.Background>
+</Grid>
+
+
+<Style TargetType="Button">
+	<Setter Property="Margin" Value="2,4"/>
+	<Setter Property="Background">
+	  <Setter.Value>
+		<ImageBrush ImageSource="images/Tab.png"/>
+	  </Setter.Value>
+	</Setter>
+</Style>
+
+
+LoadingRow="dataGrid1_LoadingRow"
+
+http://stackoverflow.com/questions/1337258/how-to-remove-datagrids-blank-row-when-binding-to-a-observablecollectiont
+IsReadOnly="True"
+CanUserAddRows="False"
+HeadersVisibility="Column"
+http://stackoverflow.com/questions/1783839/wpf-datagrid-empty-row-at-bottom
+http://stackoverflow.com/questions/11576925/delete-additional-empty-row-in-a-datagrid
+http://stackoverflow.com/questions/4849987/how-do-i-remove-the-empty-row-from-the-bottom-of-a-datagridview-control
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/b046d36a-c44b-487a-a4bc-3711045bdc40/wpf-datagrid-blank-row?forum=wpf
+
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/3d9dc156-06b1-47e2-9409-1b6f1d950e7f/how-to-put-an-image-in-a-datagrid-column-header?forum=wpf
+http://stackoverflow.com/questions/17486700/how-to-set-an-image-as-datagrid-header-background
+http://stackoverflow.com/questions/2496814/disable-selecting-in-wpf-datagrid
+http://stackoverflow.com/questions/3046988/wpf-datagrid-disable-selected-row-styles-or-row-selecting
+http://stackoverflow.com/questions/2817921/select-all-button-wpf-datagrid
+http://www.wpfsharp.com/2011/05/24/how-to-disable-row-selection-in-a-wpf-datagrid/
+
+
+<Style TargetType="{x:Type DataGridColumnHeader}">
+	<Setter Property="VerticalContentAlignment" Value="Center" />
+	<Setter Property="Height" Value="35" />
+	<Setter Property="SeparatorBrush" Value="DarkRed" />
+	<Setter Property="FontWeight" Value="Black" />
+</Style>
+
+<DataGridTemplateColumn>
+	<DataGridTemplateColumn.Header>
+		<Grid>
+			<Image Source="D:\...\images\1.png" />
+			<TextBlock Text="{Binding FirstName}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+		</Grid>
+	</DataGridTemplateColumn.Header>
+</DataGridTemplateColumn>
+		
+http://stackoverflow.com/questions/4486977/how-to-change-colum-headers-background-color-when-using-wpf-datagrid
+http://www.c-sharpcorner.com/forums/how-to-set-datagrid-column-header-background-color-in-wpf
+
+
+IsHitTestVisible="False"
+
+<!--<Setter Property="Background" Value="#F6F6F6" />-->
+<!--<Setter Property="Background" Value="#E9E9E9" />-->
+============================================= 2 ============================================================
+<Style TargetType="{x:Type DataGridCell}">
+	<Setter Property="BorderThickness" Value="0"/>
+	<Style.Triggers>
+		<Trigger Property="IsSelected" Value="True">
+			<Setter Property="Background" Value="DarkGreen" />
+		</Trigger>
+	</Style.Triggers>
+</Style>
+<!--<Style TargetType="DataGridColumnHeader">
+	<Setter Property="Background" Value="#1F2739" />
+	<Setter Property="Foreground" Value="#185875" />
+	<Setter Property="BorderThickness" Value="3" />
+	<Setter Property="SnapsToDevicePixels" Value="True" />
+	<Setter Property="HorizontalContentAlignment" Value="Center" />
+	<Setter Property="MinWidth" Value="0" />
+	<Setter Property="MinHeight" Value="30" />
+	<Setter Property="Cursor" Value="Hand" />
+	<Setter Property="FontWeight" Value="Bold" />
+</Style>-->
+<Style TargetType="DataGrid">
+	<Setter Property="RowHeight" Value="30" />
+	<Setter Property="GridLinesVisibility" Value="None" />
+	<Setter Property="AlternationCount" Value="2" />
+	<Setter Property="FontFamily" Value="Tahoma"/>
+</Style>
+<Style TargetType="{x:Type DataGridRow}">
+	<Style.Triggers>
+		<Trigger Property="AlternationIndex" Value="0" >
+			<!--<Setter Property="Background" Value="#323C50" />-->
+			<Setter Property="Background">
+				<Setter.Value>
+					<ImageBrush ImageSource="D:\norman\_ My Project\DotNet\MySolution\WpfApplication1\images\row_event.png" Stretch="Fill" />
+				</Setter.Value>
+			</Setter>
+		</Trigger>
+		<Trigger Property="AlternationIndex" Value="1" >
+			<Setter Property="Background" Value="#2C3446" />
+		</Trigger>
+	</Style.Triggers>
+	<Setter Property="Foreground" Value="#fb667a" />
+</Style>
+
+<!--<LinearGradientBrush x:Key="HeaderBrush" StartPoint="0.5,0" EndPoint="0.5,1">
+	<GradientStop Color="#FF6B8E95" Offset="0"/>
+	<GradientStop Color="#FF14A7C1" Offset="1"/>
+	<GradientStop Color="#FF1E424E" Offset="0.509"/>
+	<GradientStop Color="#FF1D4855" Offset="0.542"/>
+	<GradientStop Color="#FF1D4855" Offset="0.542"/>
+	<GradientStop Color="#FF193A44" Offset="0.526"/>
+</LinearGradientBrush>
+
+<LinearGradientBrush x:Key="HeaderBorderBrush" StartPoint="0.5,0" EndPoint="0.5,1">
+	<GradientStop Color="#FF1D1D1D" Offset="0.614"/>
+	<GradientStop Color="#FF007F96" Offset="0.853"/>
+	<GradientStop Color="#FF0AEAFA" Offset="1"/>
+</LinearGradientBrush>-->
+
+
+<!--<Style TargetType="DataGridColumnHeader">
+	<Setter Property="Background" Value="{DynamicResource HeaderBrush}" />
+	<Setter Property="Foreground" Value="White" />
+	<Setter Property="BorderBrush" Value="{DynamicResource HeaderBorderBrush}" />
+	<Setter Property="BorderThickness" Value="1" />
+	<Setter Property="SnapsToDevicePixels" Value="True" />
+	<Setter Property="HorizontalContentAlignment" Value="Center" />
+	<Setter Property="MinWidth" Value="0" />
+	<Setter Property="MinHeight" Value="30" />
+	<Setter Property="Cursor" Value="Hand" />
+</Style>-->
+
+<Style TargetType="DataGridColumnHeader">
+	<Setter Property="Background">
+		<Setter.Value>
+			<ImageBrush ImageSource="D:\norman\_ My Project\DotNet\MySolution\WpfApplication1\images\1.png" Stretch="Fill" />
+		</Setter.Value>
+	</Setter>
+	<Setter Property="Foreground" Value="White" />
+	<Setter Property="BorderBrush" Value="{DynamicResource HeaderBorderBrush}" />
+	<Setter Property="BorderThickness" Value="1" />
+	<Setter Property="SnapsToDevicePixels" Value="True" />
+	<Setter Property="HorizontalContentAlignment" Value="Center" />
+	<Setter Property="MinWidth" Value="0" />
+	<Setter Property="MinHeight" Value="30" />
+	<Setter Property="Cursor" Value="Hand" />
+</Style>
+<LinearGradientBrush x:Key="HeaderBrush" StartPoint="0.5,0" EndPoint="0.5,1">
+	<GradientStop Color="#FF6B8E95" Offset="0"/>
+	<GradientStop Color="#FF14A7C1" Offset="1"/>
+	<GradientStop Color="#FF1E424E" Offset="0.509"/>
+	<GradientStop Color="#FF1D4855" Offset="0.542"/>
+	<GradientStop Color="#FF1D4855" Offset="0.542"/>
+	<GradientStop Color="#FF193A44" Offset="0.526"/>
+</LinearGradientBrush>
+
+<LinearGradientBrush x:Key="HeaderBorderBrush" StartPoint="0.5,0" EndPoint="0.5,1">
+	<GradientStop Color="#FF1D1D1D" Offset="0.614"/>
+	<GradientStop Color="#FF007F96" Offset="0.853"/>
+	<GradientStop Color="#FF0AEAFA" Offset="1"/>
+</LinearGradientBrush>
+
+
+
+<Grid ShowGridLines="True">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <DataGrid ItemsSource="{Binding}" AutoGenerateColumns="False" HorizontalAlignment="Left" 
+                  Margin="12,12,0,0" Name="dataGrid1" VerticalAlignment="Top" 
+                  Width="550" Grid.Column="1" Grid.Row="1" CanUserAddRows="False" 
+                  CanUserDeleteRows="True" CanUserReorderColumns="True" 
+                  CanUserResizeColumns="False" CanUserSortColumns="True" 
+                  HeadersVisibility="Column"
+                  IsReadOnly="True" Height="440">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Sure Name" Binding="{Binding SureName}" Width="200" />
+                <DataGridTextColumn Header="Last Name" Binding="{Binding LastName}" Width="200" />
+                <DataGridTextColumn Header="Age" Binding="{Binding Age}" Width="200" />
+                <DataGridTextColumn Header="Gender" Binding="{Binding Gender}" Width="200" />
+                <DataGridTemplateColumn Header="Orders Count" Width="160">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <ProgressBar Grid.Row="0" Grid.Column="0"  Minimum="0" Maximum="100" Value="{Binding ReportProcess, Mode=OneWay}" ToolTip="{Binding ReportProcess, Mode=OneWay}">
+                                </ProgressBar>
+                                <TextBlock Grid.Row="0" Grid.Column="0" Text="{Binding Percent,Mode=OneWay}" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+                            </Grid>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+============================================= 1 ============================================================
+<!-- DataGrid -->
+<Style TargetType="{x:Type DataGridCell}">
+	<Setter Property="BorderThickness" Value="0"/>
+	<Style.Triggers>
+		<Trigger Property="IsSelected" Value="True">
+			<Setter Property="Background" Value="DarkGreen" />
+		</Trigger>
+	</Style.Triggers>
+</Style>
+<Style TargetType="DataGridColumnHeader">
+	<Setter Property="Background" Value="#1F2739" />
+	<Setter Property="Foreground" Value="#185875" />
+	<Setter Property="BorderThickness" Value="3" />
+	<Setter Property="SnapsToDevicePixels" Value="True" />
+	<Setter Property="HorizontalContentAlignment" Value="Center" />
+	<Setter Property="MinWidth" Value="0" />
+	<Setter Property="MinHeight" Value="30" />
+	<Setter Property="Cursor" Value="Hand" />
+	<Setter Property="FontWeight" Value="Bold" />
+</Style>
+<Style TargetType="DataGrid">
+	<Setter Property="RowHeight" Value="20" />
+	<Setter Property="GridLinesVisibility" Value="None" />
+	<Setter Property="AlternationCount" Value="2" />
+	<Setter Property="FontFamily" Value="Tahoma"/>
+</Style>
+<Style TargetType="{x:Type DataGridRow}">
+	<Style.Triggers>
+		<Trigger Property="AlternationIndex" Value="0" >
+			<Setter Property="Background" Value="#323C50" />
+		</Trigger>
+		<Trigger Property="AlternationIndex" Value="1" >
+			<Setter Property="Background" Value="#2C3446" />
+		</Trigger>
+	</Style.Triggers>
+	<Setter Property="Foreground" Value="#fb667a" />
+</Style>
+
+<!--<LinearGradientBrush x:Key="HeaderBrush" StartPoint="0.5,0" EndPoint="0.5,1">
+	<GradientStop Color="#FF6B8E95" Offset="0"/>
+	<GradientStop Color="#FF14A7C1" Offset="1"/>
+	<GradientStop Color="#FF1E424E" Offset="0.509"/>
+	<GradientStop Color="#FF1D4855" Offset="0.542"/>
+	<GradientStop Color="#FF1D4855" Offset="0.542"/>
+	<GradientStop Color="#FF193A44" Offset="0.526"/>
+</LinearGradientBrush>
+
+<LinearGradientBrush x:Key="HeaderBorderBrush" StartPoint="0.5,0" EndPoint="0.5,1">
+	<GradientStop Color="#FF1D1D1D" Offset="0.614"/>
+	<GradientStop Color="#FF007F96" Offset="0.853"/>
+	<GradientStop Color="#FF0AEAFA" Offset="1"/>
+</LinearGradientBrush>-->
+
+<!--
+<Style TargetType="DataGridColumnHeader">
+	<Setter Property="Background" Value="{DynamicResource HeaderBrush}" />
+	<Setter Property="Foreground" Value="White" />
+	<Setter Property="BorderBrush" Value="{DynamicResource HeaderBorderBrush}" />
+	<Setter Property="BorderThickness" Value="1" />
+	<Setter Property="SnapsToDevicePixels" Value="True" />
+	<Setter Property="HorizontalContentAlignment" Value="Center" />
+	<Setter Property="MinWidth" Value="0" />
+	<Setter Property="MinHeight" Value="30" />
+	<Setter Property="Cursor" Value="Hand" />
+</Style>
+<LinearGradientBrush x:Key="HeaderBrush" StartPoint="0.5,0" EndPoint="0.5,1">
+	<GradientStop Color="#FF6B8E95" Offset="0"/>
+	<GradientStop Color="#FF14A7C1" Offset="1"/>
+	<GradientStop Color="#FF1E424E" Offset="0.509"/>
+	<GradientStop Color="#FF1D4855" Offset="0.542"/>
+	<GradientStop Color="#FF1D4855" Offset="0.542"/>
+	<GradientStop Color="#FF193A44" Offset="0.526"/>
+</LinearGradientBrush>
+
+<LinearGradientBrush x:Key="HeaderBorderBrush" StartPoint="0.5,0" EndPoint="0.5,1">
+	<GradientStop Color="#FF1D1D1D" Offset="0.614"/>
+	<GradientStop Color="#FF007F96" Offset="0.853"/>
+	<GradientStop Color="#FF0AEAFA" Offset="1"/>
+</LinearGradientBrush>-->
+======================================================================================
++ Chieu apply
+http://www.codeproject.com/Articles/586132/WPF-DataGrid-Custommization-using-Style-and-Templa
+
+
+
+<DataGridTextColumn Header="FirstName" Binding="{Binding FirstName}" />
+
++ Css table
+http://codepen.io/alassetter/full/cyrfB/
+
+https://www.freshdesignweb.com/free-css-tables/
+http://codepen.io/PableraShow/full/qdIsm/
+http://codepen.io/lukepeters/full/bfFur/
+http://johnsardine.com/freebies/dl-html-css/simple-little-tab/
+http://www.hongkiat.com/blog/html-table-building-30-beautiful-examples-and-useful-javascripts/
+https://codepen.io/collection/nhowz/#
+
 <Grid ShowGridLines="True">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="Auto" />
