@@ -1,4 +1,88 @@
+== 05 - 08 - 2016
++ Logging Manager
+http://logging.apache.org/log4net/release/config-examples.html
+http://www.codeproject.com/Articles/8245/A-Brief-Introduction-to-the-log-net-logging-librar
+http://www.dotnetlogging.com/
+http://www.gurock.com/smartinspect/trial/
+https://msdn.microsoft.com/en-us/library/dn440731%28v=pandp.60%29.aspx
+https://logentries.com/doc/dotnet/
+https://www.nuget.org/packages/logentries.log4net
+https://www.nuget.org/packages/log4net
+https://www.nuget.org/packages/NLog/4.3.6
 
+http://nlog-project.org/download/
+https://github.com/nlog/nlog/wiki/Tutorial
+https://github.com/nlog/nlog/wiki/Examples
+
+https://csharp.today/log4net-tutorial-great-library-for-logging/
+http://stackify.com/smarter-errors-logs-putting-data-work-2/
+
+https://peteohanlon.wordpress.com/2009/10/12/logging-display-and-wpf/
+http://www.codeproject.com/Articles/326641/WPF-MVVM-Real-Time-Trading-Application
+http://hirenkhirsaria.blogspot.com/2012/06/logging-using-log4net-in-wpf.html
+http://social.technet.microsoft.com/wiki/contents/articles/13638.troubleshooting-wpf-debugging-wpf.aspx
+https://visualstudiogallery.msdn.microsoft.com/7a4362a7-fe5d-4f9d-bc7b-0c0dc272fe31
+https://github.com/firstfloorsoftware/mui
+http://buksbaum.us/2010/08/08/how-to-do-logging-with-caliburn-micro/
+http://geekswithblogs.net/MarkPearl/archive/2012/01/30/log4net-basics-with-a-console-application-c.aspx
+https://www.google.com.vn/?gws_rd=ssl#q=log+manager+in+c%23&start=20
+
+Free Log File Viewer
+https://sourceforge.net/projects/gamutlogviewer/
+
++ Download : SmartInspect Professional 3.3.9.166
+http://dl.downloadly.ir/Files/Software/SmartInspect_Professional_3.3.9.166_Downloadly.ir.rar
+Password: www.downloadly.ir
+http://downloadly.ir/software/programming/smartinspect-professional/
+http://www.baremetalsoft.com/baretail/index.php
+http://www.baremetalsoft.com/baretailpro/index.php
+http://www.baremetalsoft.com/baregrep/index.php
+http://www.baremetalsoft.com/baregreppro/index.php
+
+TraceTool
+http://www.codeproject.com/Articles/5498/TraceTool-12-4-The-Swiss-Army-Knife-of-Trace
+
+https://github.com/snakefoot/snaketail-net
+http://www.logmx.com/
+http://www.nltechno.com/awstats/awstats.pl?config=destailleur.fr
+http://www.awstats.org/
+
+https://www.eurekalog.com/help/eurekalog/index.php?whatiseurekalogviewer.php
+
+EurekaLog Professional 7.4.0.0 / Enterprise 7.3.2.0 Retail
+http://dl.downloadly.ir/Files/Software/EurekaLog_7.4.0.0_Professional_Edition_Downloadly.ir.rar
+Password: www.downloadly.ir
+
+
++ Log Viewer
+https://github.com/LukePet/YALV
+http://salplachta.net/AdvancedLogViewer/Screenshots.aspx
+http://glogg.bonnefon.org/download.html
+http://logexpert.codeplex.com/
+http://logview4net.com/
+http://tringi.trimcore.cz/Dynamic_Log_Viewer?language=en
+https://github.com/reflectsoftware/reflectinsight-samples
+https://github.com/reflectsoftware/Plato.NET/tree/master/src
+http://insightextensions.codeplex.com/
+http://www.3cx.com/blog/docs/3cx-log-viewer/
+http://www.gibraltarsoftware.com/loupe/desktop/free-net-log-viewer
+http://www.logviewplus.com/download.html
+http://www.log4view.com/index.php?id=17
+https://sourceforge.net/projects/gamutlogviewer/
+https://www.baremetalsoft.com/baretail/
+http://www.awstats.org/
+http://www.deepsoftware.com/iasviewer/screenshots.html
+http://www.apacheviewer.com/download/
+https://www.logfusion.ca/Screenshots/
+http://www.kiwisyslog.com/products/kiwi-log-viewer/product-overview.aspx
+http://www.uvviewsoft.com/logviewer/download.htm
+https://www.kde.org/applications/system/ksystemlog/
+https://www.google.com/search?q=log+manager+%2B+UI+%2B+WPF&ie=utf-8&oe=utf-8#q=log+viewer&start=50
+
++ Web Logger View
+https://github.com/ARCANEDEV/LogViewer
+https://github.com/rap2hpoutre/laravel-log-viewer
+===========
 Infinite Money
 http://www.gamespot.com/rock-n-roll-racing/cheats/
 http://www.gamefaqs.com/snes/588623-rock-n-roll-racing/cheats
