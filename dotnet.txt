@@ -1,3 +1,6 @@
+http://docs.telerik.com/devtools/wpf/controls/radgridview/changes-and-backward-compatibility/backward-compatibility
+http://docs.telerik.com/devtools/wpf/controls/radgridview/hierarchical-gridview/custom-hierarchies
+http://docs.telerik.com/devtools/wpf/introduction
 == 05 - 08 - 2016
 + Logging Manager
 http://logging.apache.org/log4net/release/config-examples.html
