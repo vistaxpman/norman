@@ -1,5 +1,62 @@
+
 167 Thống Nhất, Gò Vấp, Hồ Chí Minh, Vietnam
 Bv Hoàn Mỹ, phường 1 Phú Nhuận, 60A Phan Xích Long, phường 1, Hồ Chí Minh, Vietnam
+== 08 - 08 - 2016
+http://www.telerik.com/forums/radgridview-remove-grouping-panel
+<telerik:RadGridView Name="RadGridView1" ShowGroupPanel="False"> 
+</telerik:RadGridView> 
+
++ Disabling Grouping
+ShowGroupPanel="False"
+
+http://www.telerik.com/forums/disabling-hiding-the-grouped-button-in-the-group-panel
+http://www.telerik.com/forums/how-to-disable-grouping-for-some-columns-of-radgrid
+<telerik:GridTemplateColumn  Groupable="false">
+
++ Disable filter 
+RadGridViewName.IsFilteringAllowed = False 
+http://www.telerik.com/forums/disable-filter-for-all-columns-of-grid
+ RadGridView.IsFilteringAllowed to false
+ 
+ 
++ Disable Edit
+IsReadOnly="True"
+http://www.telerik.com/forums/how-can-i-disable-editing-of-a-column
+<telerik:RadGridView x:Name="radGridView" IsReadOnlyBinding="{Binding IsActive}" />
+
++ Disable Add New
+IsReadOnly="True"
+CanUserInsertRows="False"
+http://www.telerik.com/forums/disable-insert-new-item
+http://www.telerik.com/forums/removing-quot-click-here-to-add-new-row-quot
+http://docs.telerik.com/devtools/wpf/controls/radgridview/rows/adding-rows.html
+
++ Button Icon
+http://stackoverflow.com/questions/2697383/wpf-button-with-image
+http://www.codeproject.com/Questions/143861/How-to-add-icon-in-WPF-Button
+www.telerik.com/forums/how-to-put-image-in-radbutton
+<Button Width="300" Height="50">
+  <StackPanel Orientation="Horizontal">
+    <Image Source="Pictures/img.jpg" Width="20" Height="20"/>
+    <TextBlock Text="Blablabla" VerticalAlignment="Center" />
+  </StackPanel>
+</Button>
+<Button Height="100" Width="100">
+  <StackPanel>
+    <Image Source="img.jpg" />
+    <TextBlock Text="Blabla" />
+  </StackPanel>
+</Button>
+http://stackoverflow.com/questions/17515631/add-an-image-in-a-wpf-button
+<Button>
+    <StackPanel>
+        <Image Source="Pictures/apple.jpg" />
+        <TextBlock>Disconnect from Server</TextBlock>
+    </StackPanel>
+</Button>
+
+Dont forget to add apple.jpg to project. (Build Action: Resource)
+
 
 
 http://docs.telerik.com/devtools/wpf/controls/radgridview/changes-and-backward-compatibility/backward-compatibility
