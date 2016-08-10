@@ -1,0 +1,227 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>View Page Html</title>
+    <style type="text/css">
+        body
+        {
+            background-color: #C0C0C0;
+        }
+        
+        label.dropdown select
+        {
+            padding: 10px 42px 10px 10px;
+            background: #f8f8f8;
+            color: #444;
+            border: 1px solid #aaa;
+            border-radius: 0;
+            display: inline-block;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            appearance: none;
+            cursor: pointer;
+            outline: none;
+        }
+        
+        label.dropdown select:-moz-focusring
+        {
+            color: transparent;
+            text-shadow: 0 0 0 #444;
+        }
+        
+        label.dropdown select::-ms-expand
+        {
+            display: none;
+        }
+        
+        label.dropdown:before
+        {
+            content: '';
+            right: 5px;
+            top: -7px;
+            width: 30px;
+            height: 33px;
+            background: #f8f8f8;
+            position: absolute;
+            pointer-events: none;
+            display: block;
+        }
+        
+        label.dropdown
+        {
+            position: relative;
+        }
+        
+        label.dropdown:after
+        {
+            content: '>';
+            font: 16px Consolas, monospace;
+            color: #444;
+            -webkit-transform: rotate(90deg);
+            -moz-transform: rotate(90deg);
+            -ms-transform: rotate(90deg);
+            transform: rotate(90deg);
+            right: 2px;
+            top: -3px;
+            border-bottom: 1px solid #aaa;
+            position: absolute;
+            pointer-events: none;
+            width: 35px;
+            padding: 0 0 5px 0;
+            text-indent: 14px;
+        }
+        
+        @media screen\0
+        {
+            label.dropdown:after
+            {
+                width: 38px;
+                text-indent: 15px;
+                right: 0;
+            }
+        }
+        
+        @media screen and (min--moz-device-pixel-ratio:0)
+        {
+            label.dropdown select
+            {
+                padding-right: 40px;
+            }
+            label.dropdown:before
+            {
+                right: 6px;
+            }
+            label.dropdown:after
+            {
+                text-indent: 14px;
+                right: 6px;
+                top: -5px;
+                width: 36px;
+            }
+        }
+        
+        /* -- CSS - 2
+        <link rel="stylesheet" type="text/css" href="css/cs-select.css" />
+        <link rel="stylesheet" type="text/css" href="css/cs-skin-elastic.css" />
+        <script src="classie.js"></script>
+        <script src="selectFx.js"></script>
+        <script>
+            (function () {
+                [ ].slice.call(document.querySelectorAll('select.cs-select')).forEach(function (el) {
+                    new SelectFx(el);
+                });
+            })();
+        </script>
+        */
+    </style>
+    <script type="text/javascript" src="jquery-3.1.0.js"></script>
+    <script type="text/javascript" src="loadImg.js"></script>
+    <script type="text/javascript">
+        //        var jsonImages = [{ "chap1":
+        //                            { "images":
+        //                                [
+        //                                { "img": "tree.jpg" },
+        //                                { "img": "tree_1.jpg" },
+        //                                { "img": "tree_2.png" },
+        //                                { "img": "tree_3.jpg" },
+        //                                { "img": "tree_4.jpg" },
+        //                                { "img": "tree_5.jpg"}]
+        //                            }
+        //        }];
+
+        var objImages = {
+            "chapter1": ["tree.jpg", "tree_1.jpg", "index.jpg", "tree_3.jpg", "tree_4.jpg", "index.jpg"],
+            "chapter2": ["index.jpg", "tree_3.jpg", "tree_4.jpg"]
+        };
+
+        $(function () {
+            /********************************************** Lesson 1
+            var objImages = {
+            "colorsArray": [
+            {
+            "colorName": "red",
+            "hexValue": "#f00"
+            },
+            {
+            "colorName": "green",
+            "hexValue": "#0f0"
+            },
+            {
+            "colorName": "blue",
+            "hexValue": "#00f"
+            },
+            {
+            "colorName": "cyan",
+            "hexValue": "#0ff"
+            },
+            {
+            "colorName": "magenta",
+            "hexValue": "#f0f"
+            },
+            {
+            "colorName": "yellow",
+            "hexValue": "#ff0"
+            },
+            {
+            "colorName": "black",
+            "hexValue": "#000"
+            }
+            ]
+            };
+            //alert("come here");
+            //var obj = jQuery.parseJSON(jsonData);
+            //alert("Chapter 1: " + obj.chap1);
+            //var obj = jQuery.parseJSON('{ "chap1": ["John", "Smith"] }');
+            //alert(obj.chap1);
+
+
+            // parse object
+            //console.log(jsonImages["colorsArray"][0].colorName);
+            //$(jsonImages["colorsArray"]).each(function (index, value) {
+            //alert(jsonImages["colorsArray"][index].colorName);
+            //});
+
+            // parse json
+            //var jsonImages = jQuery.parseJSON(JSON.stringify(objImages));
+            $(objImages.colorsArray).each(function (index) {
+            console.log(objImages.colorsArray[index].colorName);
+            });
+            //console.log(objImages.colorsArray[0].colorName);
+            **********************************************/
+
+            // Lesson 2
+            //            var names111 = "chapter2";
+            //            $(objImages["chapter2"]).each(function (key, value) {
+            //                console.log(value);
+            //            });
+
+            $("#select_chapter").change(function () {
+                $("#view_img").empty();
+                var chapterName = $(this).val();
+                if (chapterName != "") {
+                    $(objImages[chapterName]).each(function (key, value) {
+                        //$("#view_img").append($("<img>").attr("src", "images/" + value).attr("alt", "View Image"));
+                        $("#view_img").append($("<img></img>", {
+                            src: "images/" + value,
+                            alt: "View Image"
+                        }));
+                    });
+                    $('img').imgPreload();
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+    <!--<select id="select_chapter" class="cs-select cs-skin-elastic">-->
+    <label class="dropdown">
+        <select id="select_chapter">
+            <option value="" disabled selected>-- Select Chapter --</option>
+            <option value="chapter1">chapter1</option>
+            <option value="chapter2">chapter2</option>
+        </select>
+    </label>
+    <div id="view_img">
+    </div>
+</body>
+</html>
