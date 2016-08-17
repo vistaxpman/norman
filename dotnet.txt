@@ -1,3 +1,90 @@
+== 17 - 08 - 2016
++ Download file
+www.fluxbytes.com/csharp/how-to-download-a-file-in-c-progressbar-and-download-speed/
+http://www.dreamincode.net/forums/topic/115491-download-file-asynchronously-with-progressbar/
+http://slaner.tistory.com/63
+http://dobon.net/vb/dotnet/internet/downloadfile.html
+http://www.vbforums.com/showthread.php?669162-WebClient-DownloadFileAsync-with-resume-support
+http://www.vbforums.com/forumdisplay.php?46-CodeBank-Visual-Basic-NET
+http://www.klaasnienhuis.nl/2016/07/asyncawait-in-maxscript/
+http://www.daveamenta.com/2008-05/c-webclient-usage/
+https://www.xboxchaos.com/forum/91-software-development/
+http://www.ecanarys.com/blog-entry/how-download-youtube-videos-using-net
+http://www.programkr.com/blog/MMzNzADMwYTw.html
+http://www.cnblogs.com/WeiGe/p/4220259.html
+https://www.google.com.vn/?gws_rd=ssl#q=downloadfileasync+c%23&start=100
+
+
+http://ourcodeworld.com/articles/read/227/how-to-download-a-webfile-with-csharp-and-show-download-progress-synchronously-and-asynchronously
+Check internet active
+if (System.Net.NetworkInformation.NetworkInterface.GetIsNetworkAvailable())
+{
+    MessageBox.Show("Internet available, proceed with the download");
+}
+
+
+
+
+
+
+== 15 - 08 - 2016
+https://docs.asp.net/en/latest/tutorials/first-mvc-app/
+http://www.asp.net/core
+https://docs.efproject.net/en/latest/platforms/aspnetcore/
+https://stormpath.com/blog/asp-net-core-authentication
+https://weblog.west-wind.com/posts/2016/Jun/29/First-Steps-Exploring-NET-Core-and-ASPNET-Core
+https://www.typescriptlang.org/docs/handbook/asp-net-core.html
+https://www.google.com/search?q=asp.net+core+tutorial&ie=utf-8&oe=utf-8#q=asp.net+core+tutorial&start=10
+
+
+== 09 - 08 - 2016
++ Expand / Collapse for RowDetailsTemplate
+http://www.360doc.com/content/13/0604/16/8463843_290438173.shtml
+http://www.a2zmenu.com/Blogs/Silverlight/Collapse-RowDetailstemplate-on-clicking-again.aspx
+http://kishor-naik-dotnet.blogspot.in/2013/05/wpf-datagrid-rowdetailstemplate-in-wpf.html
+http://stackoverflow.com/questions/3829137/i-need-the-expand-collapse-for-rowdetailstemplate
+http://stackoverflow.com/questions/8165209/expand-row-in-wpf-datagrid
+https://msdn.microsoft.com/en-us/library/ee344869%28v=vs.110%29.aspx
+https://csharphardcoreprogramming.wordpress.com/tag/rowdetailstemplate/
+http://developerthingsido.blogspot.com/2013/06/create-hierarchical-datagrid-in-wpf.html
+
+
+
+
++ DevOps - Commit to Git: Source Control in Visual Studio 2015
+https://msdn.microsoft.com/magazine/mt767697
+https://msdn.microsoft.com/magazine/mt767698
+
+
++ Image loading
+	- Good
+	http://bttrlazyloading.julienrenaux.fr/
+	https://jsfiddle.net/chriscoyier/77Dj2/4/
+	http://www.alessioatzeni.com/wp-content/tutorials/html-css/CSS3-Loading-Animation/index.html
+	http://www.alessioatzeni.com/wp-content/tutorials/html-css/CSS3-loading-animation-loop/index.html
+	http://vadimsva.github.io/waitMe/
+	https://github.com/vadimsva/waitMe
+	http://www.scribbletribe.com/tutorials/styling-the-select/demo-1.html
+	http://tympanus.net/codrops/2014/07/10/inspiration-for-custom-select-elements/
+	http://materializecss.com/forms.html#!
+	
+http://smallenvelop.com/display-loading-icon-page-loads-completely/ => Tải icon động
+http://smallenvelop.com/demo/image-loading/
+https://github.com/alexanderdickson/waitForImages
+
+http://luis-almeida.github.io/unveil/
+
+https://www.drupal.org/node/1015636
+https://www.barrelny.com/blog/taking-control-of-imageloading/
+http://cssload.net/
+https://davidwalsh.name/lazyload-image-fade
+http://tympanus.net/codrops/2013/07/02/loading-effects-for-grid-items-with-css-animations/
+https://www.google.com/search?q=append+jquery&ie=utf-8&oe=utf-8#q=jquery+load+image+with+animation&start=20
+
++ Git Client
+https://github.com/octokit/octokit.net
+http://www.eqqon.com/index.php/GitSharp
+https://github.com/libgit2/libgit2sharp/
 
 167 Thống Nhất, Gò Vấp, Hồ Chí Minh, Vietnam
 Bv Hoàn Mỹ, phường 1 Phú Nhuận, 60A Phan Xích Long, phường 1, Hồ Chí Minh, Vietnam
