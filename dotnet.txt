@@ -1,3 +1,62 @@
+== 18 - 08 - 2016
++ Từ khóa
+A pattern to pause/resume an async task?
+Cooperatively pausing async methods
+Pausing and cancelling async method in C#
+Cancel an Asynchronous Method [C#]
+Cancel a List of Tasks Example
+Task-based Asynchronous Pattern
+
+
+	- Find
+	https://msdn.microsoft.com/en-us/library/mt674886.aspx
+	https://bhrnjica.net/2014/04/15/pausing-and-cancelling-async-method-in-c/
+	https://msdn.microsoft.com/en-us/library/mt674886.aspx
+	http://cowthulu.com/handling-long-operations-with-cancel-and-progress-in-c-with-async/
+	https://www.cl.cam.ac.uk/teaching/1213/R204/asynclecture.pdf
+	https://programmerpayback.com/2016/04/09/async-tips-and-best-practices-in-c/
+	https://seeker.codeplex.com/releases/view/122459
+	https://programmerpayback.com/2014/02/15/file-search-and-replace-tool-for-windows/
+	https://seeker.codeplex.com/SourceControl/latest#Seeker/Seeker/SearchEngine.cs
+	
+	
+http://stackoverflow.com/questions/19613444/a-pattern-to-pause-resume-an-async-task
+https://blogs.msdn.microsoft.com/pfxteam/2013/01/13/cooperatively-pausing-async-methods/
+http://www.csharp-examples.net/cancel-asynchronous-method/
+http://blog.slaks.net/2013-10-11/threads-vs-tasks/
+
+
++ Copy Multiple Times
+http://bluemars.org/clipx/
++ Hex Editor
+	- HxD Hex Editor 1.7.7.0
+	- http://www.hhdsoftware.com/free-hex-editor
+		. Tìm bản Hex Editor Neo Ultimate 6.22.01.5862
+	- http://www.mitec.cz/hex.html
+	- http://www.sweetscape.com/010editor/
+	- http://www.ultraedit.com/
+	- https://www.x-ways.net/winhex/index-m.html
+		WinHex 18.9
+	http://www.techrepublic.com/blog/five-apps/five-feature-rich-hex-editors/
+http://www.hexedit.com/	
+	
+http://gametiengviet.com/threads/huong-dan-su-dung-hex-editor-va-irfan-view.449/
+Bây giờ toàn dùng UltraEdit hoặc Main Editor
+https://tinhte.vn/threads/tu-tay-voc-chest-hack-games-cho-ipad-da-jb-tai-sao-ko.770432/
+https://tinhte.vn/threads/huong-dan-cach-viet-patch-cho-rompatcher-guide.408641/
+http://yeuapk.com/hex-editor-pro-cong-cu-sua-ma-hex-cho-android/
+http://www.poke-mega.org/forum/archive/index.php/t-22127.html
+http://www.logviewplus.com/docs/first_look.html
+http://www.winphoneviet.com/forum/threads/huo%CC%81ng-da%CC%83n-hex-file-save-game-don-gia%CC%89n.176242/
+http://down4free.xtgem.com/viet-hoa/huong-dan-viet-hoa/huong-dan-viet-hoa-5
+http://thanhphuong97.xtgem.com/tien-ich/viet-hoa
+http://wiki.mv:8081/pages/viewpage.action?pageId=1441915
+http://danlamgame.net/threads/72044-hex-editor-chinh-sua-save-game-nfs-mw.html
+http://securitydaily.net/gioi-thieu-cong-cu-xem-chinh-sua-file-nhi-phan/
+
+
+https://www.google.com/search?q=hex+editor+%2B+vn&ie=utf-8&oe=utf-8#q=h%C6%B0%E1%BB%9Bng+d%E1%BA%ABn+s%E1%BB%AD+d%E1%BB%A5ng+hex+editor&start=20
+
 == 17 - 08 - 2016
 + Download file
 www.fluxbytes.com/csharp/how-to-download-a-file-in-c-progressbar-and-download-speed/
