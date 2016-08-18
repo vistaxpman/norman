@@ -1,4 +1,11 @@
 https://github.com/johanneszab/TumblThree
+https://github.com/j0no89/Onwo/tree/2a06f0f3dc1915a1f18f4967eb204abe1859d013/Onwo/Onwo/Threading
+https://github.com/mones88/CorsairHydroDashboard/blob/e2d40c4e59ed7939ddc809f42d694bc15516b252/CorsairDashboard.Common/PauseToken/PauseToken.cs
+https://github.com/sleemer/ZeroTest/tree/e684fb4fdd8d45e1eb26e255aea164f0b9ecef01
+https://github.com/sahil-lakhwani/AsyncAwait/tree/962bbdc261342d7b89bf1a3041d54a68fe129eeb/AsyncAwait
+https://github.com/maxim-b-dev/VKCrawler/tree/3cf4a739b21cafb8131e411d97e1ea22d959a993
+https://github.com/mones88/CorsairHydroDashboard/tree/e2d40c4e59ed7939ddc809f42d694bc15516b252/CorsairDashboard
+https://github.com/search?q=PauseTokenSource&type=Code&utf8=%E2%9C%93
 == 18 - 08 - 2016
 + Từ khóa
 A pattern to pause/resume an async task?
