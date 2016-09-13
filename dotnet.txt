@@ -1,3 +1,70 @@
+static void Main(string[] args)
+        {
+            // dinh nghia 1 lop co nhieu hoc sinh
+            Student stu1 = new Student { FirstName = "FirstName1", LastName = "LastName1", Age = 21 };
+            Student stu2 = new Student { FirstName = "FirstName2", LastName = "LastName2", Age = 22 };
+            Student stu3 = new Student { FirstName = "FirstName3", LastName = "LastName3", Age = 23 };
+            Student stu4 = new Student { FirstName = "FirstName4", LastName = "LastName4", Age = 24 };
+            Student stu5 = new Student { FirstName = "FirstName5", LastName = "LastName5", Age = 25 };
+
+            CLName clN1 = new CLName();
+            clN1.ClassName = "clN1";
+            clN1.Total = 2;
+            clN1.Students = new List<Student>();
+            clN1.Students.Add(stu1);
+
+            CLName clN2 = new CLName();
+            clN2.ClassName = "clN2";
+            clN2.Total = 3;
+            clN2.Students = new List<Student>();
+            clN2.Students.Add(stu1);
+            clN2.Students.Add(stu2);
+            clN2.Students.Add(stu3);
+
+            CLName clN3 = new CLName();
+            clN3.ClassName = "clN3";
+            clN3.Total = 4;
+            clN3.Students = new List<Student>();
+            clN3.Students.Add(stu1);
+            clN3.Students.Add(stu2);
+            clN3.Students.Add(stu3);
+            clN3.Students.Add(stu4);
+
+            Dictionary<string, CLName> dicData = new Dictionary<string, CLName>();
+            dicData.Add("clN1", clN1);
+            dicData.Add("clN2", clN2);
+            dicData.Add("clN3", clN3);
+
+            // add them 2 student 2, 3
+            dicData["clN1"].Students.Add(stu4);
+            dicData["clN1"].Students.Add(stu3);
+
+            // kiem tra lai thong tin Class 1
+            Console.WriteLine("ClassName: " + clN1.ClassName + " - Total: " + clN1.Total);
+            Console.WriteLine("List of stduents");
+            foreach (var stu in clN1.Students)
+            {
+                Console.WriteLine("FirstName: " + stu.FirstName + " - LastName: " + stu.LastName + " - Age: " + stu.Age);
+            }
+            Console.WriteLine("End of lines.");
+            Console.ReadLine();
+        }
+    }
+
+    public class Student
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public int Age { get; set; }
+    }
+
+    public class CLName
+    {
+        public string ClassName { get; set; }
+        public int Total { get; set; }
+        public List<Student> Students { get; set; }
+    }
+    
 A19 Nguyễn Oanh, Phường 7, Gò Vấp, Hồ Chí Minh, Vietnam
 Bv Hoàn Mỹ, phường 1 Phú Nhuận, 60A Phan Xích Long, phường 1, Hồ Chí Minh, Vietnam
 
