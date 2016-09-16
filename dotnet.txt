@@ -1,3 +1,22 @@
+== 16 - 09 - 2016
++ XPath Select
+https://msdn.microsoft.com/en-us/library/bb156083(v=vs.110).aspx
+https://msdn.microsoft.com/en-us/library/system.xml.linq.xdocument.xpathselectelement(v=vs.90).aspx
+http://stackoverflow.com/questions/6289784/xpath-and-xpathselectelement
+http://stackoverflow.com/questions/19866523/getting-an-xelement-via-xpathselectelements
+http://stackoverflow.com/questions/5819305/xpathselectelement-always-returns-null
+http://stackoverflow.com/questions/3186661/how-does-xpathselectelement-work-c-sharp
+http://stackoverflow.com/questions/6704093/c-sharp-xpathselectelement-and-xml-with-attribute-xmlns-http-www-w3-org-2000
+https://gist.github.com/slideep/1835377
+http://blogs.socha.com/2010/03/working-with-xdocument-and-namespaces.html
+http://rextester.com/discussion/NCHYV94337/test-xpathselectelement
+http://www.java2s.com/Code/CSharpAPI/System.Xml.Linq/XDocumentXPathSelectElement.htm
+http://anopara.net/2013/12/03/cxml%E6%93%8D%E4%BD%9C%E3%81%AFlinq%E3%82%88%E3%82%8Axpath/
+http://thinkami.hatenablog.com/entry/20131206/1386278518
+https://www.intertech.com/Blog/query-an-xml-document-using-linq-to-xml/
+http://forums.asp.net/t/2083956.aspx?Extracting+a+Element+using+XPathSelectElement
+http://www.dreamincode.net/forums/topic/353127-linq-by-example-5-linq-to-xml-querying/
+
 static void Main(string[] args)
         {
             // dinh nghia 1 lop co nhieu hoc sinh
