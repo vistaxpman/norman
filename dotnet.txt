@@ -1,3 +1,14 @@
+== 19 - 09 - 2016
+https://github.com/danielschmitz/angular2-codes
+https://www.typescriptlang.org/#download-links
+http://docs.emmet.io/cheat-sheet/
+http://www.entityframeworktutorial.net/quiz-result.aspx?ans=1,1,4,3,3,1,4,3,1,2,4,1,2,4,1,1,4,1,1,1
+http://stackoverflow.com/questions/39536440/how-do-i-group-a-list-using-linq
+https://www.safaribooksonline.com/library/view/programming-entity-framework/9780596807276/ch04.html
+http://thedatafarm.com/data-access/choosing-linq-to-entities-vs-entity-sql-vs-entityclient/
+http://stackoverflow.com/questions/tagged/linq-to-entities
+
+
 == 16 - 09 - 2016
 + XPath Select
 https://msdn.microsoft.com/en-us/library/bb156083(v=vs.110).aspx
@@ -16,6 +27,22 @@ http://thinkami.hatenablog.com/entry/20131206/1386278518
 https://www.intertech.com/Blog/query-an-xml-document-using-linq-to-xml/
 http://forums.asp.net/t/2083956.aspx?Extracting+a+Element+using+XPathSelectElement
 http://www.dreamincode.net/forums/topic/353127-linq-by-example-5-linq-to-xml-querying/
+
++ What is the difference between XElement and XDocument?
+http://stackoverflow.com/questions/3879868/whats-the-difference-between-xelement-and-xdocument
+http://stackoverflow.com/questions/1542073/xdocument-or-xmldocument
+https://msdn.microsoft.com/en-us/library/bb675196.aspx
+https://msdn.microsoft.com/en-us/library/mt693120.aspx
+https://blogs.msdn.microsoft.com/codejunkie/2008/10/08/xmldocument-vs-xelement-performance/
+http://www.codeproject.com/Questions/658297/XMLDocument-vs-XDocument-vs-XmlReader-vs-LINQ-to-X
+https://chodounsky.net/2013/10/23/descendants-vs-elements-in-linq-to-xml/
+https://www.dotnetperls.com/xelement
+http://www.dotnetfunda.com/forums/show/13114/what39s-the-difference-between-xelement-and-xdocument
+https://www.google.com/search?q=xdocument+vs+xelement+c%23&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=3v_gV4_iHISEogOI1rT4Cw
+http://www.dotnetfunda.com/forums/show/13114/what39s-the-difference-between-xelement-and-xdocument
+http://forums.asp.net/t/2061779.aspx?XmlDocument+vs+XDocument
+http://www.c-sharpcorner.com/uploadfile/babu_2082/xmldocument-dom-and-xdocument-linq/
+https://blog.udemy.com/linq-to-xml/
 
 static void Main(string[] args)
         {
