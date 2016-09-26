@@ -1,3 +1,50 @@
+== 26 - 09 - 2016
+https://vozforums.com/showthread.php?t=5337982
+
+
++ Lazy loading images
+https://www.google.com/search?q=lazy+load+images+jquery&client=firefox-b&biw=1920&bih=943&noj=1&ei=3pjoV9XnO4nzvASB1a64Dw&start=30&sa=N&gfe_rd=cr
+http://www.appelsiini.net/projects/lazyload
+http://www.appelsiini.net/projects/lazyload/enabled_timeout.html
+https://cdnjs.com/libraries/jquery.lazyload
+https://github.com/tuupola/jquery_lazyload
+
+
+https://github.com/luis-almeida/unveil
+http://luis-almeida.github.io/unveil/
+
+https://github.com/eisbehr-/jquery.lazy
+http://jquery.eisbehr.de/lazy/
+
+https://github.com/remotesynth/Lazy-Loading-Images
+http://dinbror.dk/blazy/
+https://github.com/ressio/lazy-load-xt
+http://devrama.com/static/devrama-lazyload/
+https://varvy.com/pagespeed/defer-images.html
+https://davidwalsh.name/lazyload-image-fade
+https://www.sitepoint.com/lazy-loading-images-not-really-annoy-users/
+
+https://toddmotto.com/echo-js-simple-javascript-image-lazy-loading/
+https://github.com/toddmotto/echo/archive/master.zip
+https://github.com/toddmotto/echo
+
+https://github.com/tuupola/jquery_lazyload
+http://www.appelsiini.net/projects/lazyload/enabled.html
+
+http://bttrlazyloading.julienrenaux.fr/
+http://bttrlazyloading.julienrenaux.fr/demo/several-images.php
+
+https://www.smashingmagazine.com/2015/02/redefining-lazy-loading-with-lazy-load-xt/
+
+http://robinosborne.co.uk/2016/05/16/lazy-loading-images-dont-rely-on-javascript/
+https://github.com/rposbo/lazyloadimages
+
+http://lookalive.co.uk/blog/jquery-lazy-loading-images
+https://www.resrc.it/demos/lazyload
+https://sumanrs.wordpress.com/2011/02/08/jquery-lazy-loading-images-no-scrolling/
+https://www.giftofspeed.com/lazy-load-images/
+https://speckyboy.com/how-to-create-lazy-loading-images-for-your-website/
+
 Additional information: Cross-thread operation not valid: Control 'frmMainScreen' accessed from a thread other than the thread it was created on.			
 
 An exception of type 'System.Threading.ThreadStateException' occurred in System.Windows.Forms.dll but was not handled in user code
