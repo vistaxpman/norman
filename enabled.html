@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <title>Lazy Load Enabled</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link type="text/css" media="screen" href="appelsiini.css" rel="stylesheet" />
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css"
+        rel="stylesheet" />
+    <link rel="shortcut icon" href="http://www.appelsiini.net/img/favicon.ico" />
+</head>
+<body>
+    <div class="jumbotron">
+        <div class="container">
+            <div class="col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2">
+                <h1>
+                    Lazy Load Plugin for jQuery</h1>
+                <a href="http://www.appelsiini.net/"><span class="label label-info">Blog</span></a>
+                <a href="http://www.appelsiini.net/projects"><span class="label label-danger">Projects</span></a>
+                <br>
+                <div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2">
+            <h2>
+                Plugin enabled</h2>
+            <p>
+                Images below the fold (the ones lower than window bottom) are not loaded. When scrolling
+                down they are loaded when needed. Empty cache and shift-reload to test again. Compare
+                this to page where plugin is <a href="disabled.html">disabled</a>, same page with
+                <a href="enabled_fadein.html">fadein effect</a>, page with <a href="enabled_wide.html">
+                    wide layout</a> or wide content <a href="enabled_wide_container.html">inside container</a>.
+            </p>
+            <div id="container">
+                <img class="lazy img-responsive" data-original="img/bmw_m1_hood.jpg" width="765"
+                    height="574" alt="BMW M1 Hood" /><br />
+                <img class="lazy img-responsive" data-original="img/bmw_m1_side.jpg" width="765"
+                    height="574" alt="BMW M1 Side" /><br />
+                <img class="lazy img-responsive" data-original="img/viper_1.jpg" width="765" height="574"
+                    alt="Viper 1"><br />
+                <img class="lazy img-responsive" data-original="img/viper_corner.jpg" width="765"
+                    height="574" alt="Viper Corner" /><br />
+                <img class="lazy img-responsive" data-original="img/bmw_m3_gt.jpg" width="765" height="574"
+                    alt="BMW M3 GT" /><br />
+                <img class="lazy img-responsive" data-original="img/corvette_pitstop.jpg" width="765"
+                    height="574" alt="Corvette Pitstop" /><br />
+                <img class="lazy img-responsive" data-original="img/1.jpg" alt="1" /><br />
+                <img class="lazy img-responsive" data-original="img/2.jpeg" alt="2" /><br />
+                <img class="lazy img-responsive" data-original="img/3.jpg" alt="3" /><br />
+                <img class="lazy img-responsive" data-original="img/4.jpeg" alt="4" /><br />
+                <img class="lazy img-responsive" data-original="img/5.jpeg" alt="5" /><br />
+                <img class="lazy img-responsive" data-original="img/6.jpg" alt="6" /><br />
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="jquery-2.2.4.js"></script>
+    <script type="text/javascript" src="jquery.lazyload.js"></script>
+    <script type="text/javascript" charset="utf-8">
+        $(function () {
+            $("img.lazy").lazyload({
+                event: "sporty"
+            });
+        });
+
+        $(window).bind("load", function () {
+            var timeout = setTimeout(function () {
+                $("img.lazy").trigger("sporty")
+            }, 2000);
+        });
+  </script>
+</body>
+</html>
