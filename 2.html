@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <title>Lazy Load Enabled</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link type="text/css" media="screen" href="appelsiini.css" rel="stylesheet" />
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css"
+        rel="stylesheet" />
+    <link rel="shortcut icon" href="http://www.appelsiini.net/img/favicon.ico" />
+    <style type="text/css">
+        .lazy-hidden
+        {
+            background: #eee url('loading.gif') no-repeat 50% 50%;
+        }
+    </style>
+</head>
+<body>
+    <div class="jumbotron">
+        <div class="container">
+            <div class="col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2">
+                <h1>
+                    Lazy Load Plugin for jQuery</h1>
+                <a href="http://www.appelsiini.net/"><span class="label label-info">Blog</span></a>
+                <a href="http://www.appelsiini.net/projects"><span class="label label-danger">Projects</span></a>
+                <br>
+                <div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2">
+            <h2>
+                Plugin enabled</h2>
+            <p>
+                Images below the fold (the ones lower than window bottom) are not loaded. When scrolling
+                down they are loaded when needed. Empty cache and shift-reload to test again. Compare
+                this to page where plugin is <a href="disabled.html">disabled</a>, same page with
+                <a href="enabled_fadein.html">fadein effect</a>, page with <a href="enabled_wide.html">
+                    wide layout</a> or wide content <a href="enabled_wide_container.html">inside container</a>.
+            </p>
+            <div id="container">
+                <!--<img class="lazy img-responsive" data-src="img/1.jpg" alt="1" width="200" height="200" /><br />
+                <img class="lazy img-responsive" data-src="img/2.jpeg" alt="2" width="200" height="200" /><br />
+                <img class="lazy img-responsive" data-src="img/3.jpg" alt="3" width="200" height="200" /><br />
+                <img class="lazy img-responsive" data-src="img/4.jpeg" alt="4" width="200" height="200" /><br />
+                <img class="lazy img-responsive" data-src="img/5.jpeg" alt="5" width="200" height="200" /><br />
+                <img class="lazy img-responsive" data-src="img/6.jpg" alt="6" width="200" height="200" /><br />-->
+                <img class="lazy img-responsive" data-src="img/1.jpg" alt="1" /><br />
+                <img class="lazy img-responsive" data-src="img/2.jpeg" alt="2" /><br />
+                <img class="lazy img-responsive" data-src="img/3.jpg" alt="3" /><br />
+                <img class="lazy img-responsive" data-src="img/4.jpeg" alt="4" /><br />
+                <img class="lazy img-responsive" data-src="img/5.jpeg" alt="5" /><br />
+                <img class="lazy img-responsive" data-src="img/6.jpg" alt="6" /><br />
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="jquery-2.2.4.js"></script>
+    <script type="text/javascript" src="jquery.lazyloadxt.js"></script>
+    <!--<script type="text/javascript" src="jquery.lazyloadxt.bg.js"></script>-->
+    <script type="text/javascript" src="jquery.lazyloadxt.autoload.js"></script>
+</body>
+</html>
