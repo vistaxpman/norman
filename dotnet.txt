@@ -1,3 +1,23 @@
+== 28 - 09 - 2016
+https://vozforums.com/showthread.php?t=5344545
+
+	- Get Images loading 
+	https://github.com/ressio/lazy-load-xt
+	
+
+https://toddmotto.com/echo-js-simple-javascript-image-lazy-loading/
+https://github.com/toddmotto/echo
+
+
+https://github.com/tuupola/jquery_lazyload
+https://github.com/rposbo/lazyloadimages
+https://www.resrc.it/demos/lazyload
+file:///D:/norman/_%20My%20Project/_html/image_loading/2/index.html
+
+
+url("data:image/gif;base64,R0lGODlhEAALAPIDAJSUlKWlpa2trXNzc4SEhHt7e1JSUmtrayH/C05FVFNDQVBFMi4wAwEAAAAh+QQFCwADACwAAAIAEAAHAEACHgwQM4bKJgRQIM5RZb6b2uccySJ2mOVp6Cmlx2puBQAh+QQJCwAAACwAAAAABAALAAADDXhmWrUOPhPprPg+xRIAIfkECQsAAQAsAAAAAAoACwAAAyQYumd2ZAyiTClmADDqzVsXWJjGeWWIguf4mSLJxl80rQvjHAkAIfkECQsACAAsAAAAABAACwAABD0QyUnlMeZURMYgklEURgAAgTScQzgagCAAKuuS8VwDLSLiMhpixbvBgrve76gb2nwvEypp3HQ+1U3lkokAACH5BAkLAAUALAAAAQAQAAkAAAMuWLqsNIMEAIKaVQ26hQAK4IHFBnRfOGqcmBYuaaJkzJ42vJYcZhW+26BBLDwiCQAh+QQFCwAFACwAAAIAEAAHAAADJhgAUaXMkTEIEAK4m91YH6YV3PgBYUeKHlhubHGm4yuDUPMs+lQlACH5BAUUAAMALAwAAgAEAAcAAAIKDGAip7zQ4DKoAAA7")
+
+
 == 27 - 09 - 2016
 https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js
 https://developers.google.com/speed/libraries/#jquery
