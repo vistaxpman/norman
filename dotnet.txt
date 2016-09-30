@@ -1,3 +1,112 @@
+== 30 - 09 - 2016
++ jquery lazyload images on scroll
+https://github.com/luis-almeida/unveil
+	
+		- can tim
+		http://jquery.eisbehr.de/lazy/example_heavy-usage
+		http://jquery.eisbehr.de/lazy/#examples
+		https://www.barrelny.com/blog/taking-control-of-imageloading/
+		http://www.bootply.com/McToLlBY3N
+		http://ntuts.com/jquery/plugin/jquery-lazyload
+	
++ LazyLoad
+http://www.appelsiini.net/projects/lazyload
+http://stackoverflow.com/questions/13971151/jquery-lazyload-do-not-load-images-until-scroll
+$("img.lazy").lazyload({
+             threshold : 50
+         });
+And add this:
+$(window).load(function(){
+     $("html,body").trigger("scroll");
+});
+
+https://css-tricks.com/snippets/javascript/lazy-loading-images/
+https://css-tricks.com/examples/LazyLoading/
+http://stackoverflow.com/questions/13535597/lazyload-images-not-appearing-until-after-a-scroll
+
+	
+
+== 29 - 09 - 2016
+http://gamek.vn/50-mua-phim-truyen-hinh-hay-nhat-dua-theo-danh-gia-chuyen-mon-20160928202611391.chn
+
+
++ Responsive images
+	- Html5 <picture>
+	http://www.w3schools.com/css/css_rwd_images.asp
+
+.erb-image-wrapper img{
+    max-width:100% !important;
+    height:auto;
+    display:block;
+}
+
+.erb-image-wrapper img{
+    max-width:100% !important;
+    max-height:100% !important;
+    display:block;
+}
+
+	
+	
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+Following is Bootstraps img-responsive
+.img-responsive {
+	max-width: 100%; 
+	display:block; 
+	height: auto;
+}
+
+
+.ed + p em, .pmd + p em {
+    font-family: "Skolar Italic","Roboto Slab","Droid Serif",Cambria,Georgia,"Times New Roman",Times,serif;
+    font-style: italic;
+    font-weight: 400;
+}
+
+<style>
+    #div {
+        width: 100%
+    }
+
+    @media only screen and (max-width: 600px) {
+        #image1 {
+            background-image: url("image-small.png");
+        }
+    }
+    @media only screen and (min-width: 601px) and (max-width: 900px) {
+        #image1 {
+            background-image: url("image-medium.png");
+        }
+    }
+    @media only screen and (min-width: 901px)  {
+        #image1 {
+            background-image: url("image-large.png");
+        }
+    }
+</style>
+
+
+http://stackoverflow.com/questions/11736363/responsive-images-with-css
+http://stackoverflow.com/questions/15458650/make-an-image-responsive-simplest-way
+https://www.sitepoint.com/css3-responsive-centered-image/
+
+http://voormedia.com/blog/2012/11/responsive-background-images-with-fixed-or-fluid-aspect-ratios
+http://sixrevisions.com/css/responsive-background-image/
+http://cssdeck.com/labs/responsive-image
+http://materializecss.com/media-css.html
+http://alistapart.com/article/responsive-images-in-practice
+http://alistapart.com/article/using-responsive-images-now
+http://tutorials.jenkov.com/responsive-mobile-friendly-web-design/responsive-images.html
+https://appendto.com/2014/03/responsive-approach-image-scaling-css/
+http://webdesignerwall.com/tutorials/5-useful-css-tricks-for-responsive-design
+https://www.google.com.vn/?gws_rd=ssl#q=responsive+image+%2B+css&start=20
+
+
 == 28 - 09 - 2016
 https://vozforums.com/showthread.php?t=5344545
 
