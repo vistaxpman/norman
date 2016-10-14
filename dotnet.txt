@@ -1,3 +1,153 @@
+== 10 - 10 - 2016
++ Regular Expression
+https://www.regexbuddy.com/
+https://www.powergrep.com/
+
+https://www.regexmagic.com/
+JGsoft RegexMagic 2.4.0
+
+http://www.ultrapico.com/expresso.htm
+http://www.ultrapico.com/ExpressoSetup3.msi
+http://osherove.com/tools
+https://sourceforge.net/projects/regulator/
+http://www.netregex.com/
+http://www.weitz.de/regex-coach/
+https://github.com/samsouder/reggy/
+https://sourceforge.net/projects/regextester/
+https://sourceforge.net/projects/regexpeditor/
+www.gotdotnet.com
+https://github.com/gskinner/regexr/
+
+https://www.google.com.vn/?gws_rd=ssl#q=regular+expression+%2B+c%23&start=10
+	https://visualstudiogallery.msdn.microsoft.com/bf883ae3-188b-43bc-bd29-6235c4195d1f
+	https://msdn.microsoft.com/en-us/library/az24scfc(v=vs.110).aspx
+	https://msdn.microsoft.com/en-us/library/system.text.regularexpressions.regex(v=vs.110).aspx
+	http://developer.vumon.vn/chia-se-kinh-nghiem/co-ban-ve-regular-expression-trong-c-c823i2483.htm
+	https://www.dotnetperls.com/regex
+	http://vietjack.com/csharp/regular_expression_trong_csharp.jsp
+	https://bienuit.wordpress.com/2012/12/22/cach-su-dung-regex-trong-c/
+	http://www.codeproject.com/Articles/9099/The-30-Minute-Regex-Tutorial
+	https://regexone.com/references/csharp
+	http://www.rexegg.com/regex-csharp.html
+	
+	https://taichua.com/download-regexbuddy-7162
+	http://download.jgsoft.com/buddy/SetupRegexBuddyDemo.exe
+	http://cuaso-it.blogspot.com/2015/11/regexbuddy-4-full-phan-mem-kiem-thu.html
+	http://expressmagazine.net/development/727/gioi-thieu-ve-bieu-thuc-chinh-quy-introduction-regular-expression
+	http://vietshare.vn/553/11/mot-so-tool-can-thiet-khi-hoc-Regular-Expression.aspx
+	http://cd4pro.blogspot.com/2012/06/mediafire-powergrep-433-retail-key-ho.html
+
+
++ Regex html	
+https://www.google.com.vn/?gws_rd=ssl#q=regular+expression+extract+html+tag+%2B+.net&start=10
+http://stackoverflow.com/questions/611583/net-regular-expression-involving-html-tags
+http://haacked.com/archive/2004/10/25/usingregularexpressionstomatchhtml.aspx/
+https://www.dotnetperls.com/paragraph-html
+https://forums.asp.net/t/1593096.aspx?Regular+Expression+to+Match+table+table+in+HTML
+https://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149
+https://msdn.microsoft.com/en-us/library/844skk0h(v=vs.110).aspx
+https://msdn.microsoft.com/en-us/library/63ew9az0(v=vs.110).aspx
+https://msdn.microsoft.com/en-us/library/t9e807fx(v=vs.110).aspx
+https://msdn.microsoft.com/en-us/library/01escwtf(v=vs.110).aspx
+http://archive.oreilly.com/pub/a/windows/archive/csharp-regular-expressions.html
+http://stackoverflow.com/questions/16005413/using-regex-to-get-text-between-multiple-html-tags
+http://stackoverflow.com/questions/982510/regex-extract-html-body
+https://www.mkyong.com/regular-expressions/how-to-extract-html-links-with-regular-expression/
+https://www.dotnetperls.com/remove-html-tags
+http://www.regular-expressions.info/examples.html
+http://www.pagecolumn.com/tool/all_about_html_tags.htm
+https://regexone.com/problem/matching_html
+
+	
+	
+http://2sao.vn/the-thao/4-phut-tap-chuyen-doi-8-dong-tac-nay-theo-phuong-phap-tabata-de-danh-bay-mo-bung-nhanh-hon-p0c1051n20161014081925657.vnn
+
+
++ Lưu ý
+	- Dấu / cần phải escapse : \/
+	- Dấu > không cần phải escapse
+	- (\/?) hoặc \/? nghĩa là có hoặc không có dấu /
+	- (?<groupname>)
+	
+
++ Online website - Regular Expression
+http://regexr.com/
+http://regexlib.com/?AspxAutoDetectCookieSupport=1
+http://regex.larsolavtorvik.com/
+http://www.regexpal.com/
+http://www.rubular.com/
+http://www.hongkiat.com/blog/regular-expression-tools-resources/
+http://regexr.com/desktop/
+https://regex101.com/
+http://www.regextester.com/
+http://dotnetregexevaluator.andreasandersen.dk/
+
++ TypeScript
+PP Learning TypeScript 2015
+https://bookdl.com/978-1783985548/
+
+PP TypeScript Essentials 2014
+https://bookdl.com/978-1783985760/
+
+PP Switching to Angular 2 2016
+
+
+http://builtwithangular2.com/
+http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/
+
+
+https://www.google.com/search?q=static+interface+c%23&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=VgD-V9_WOsyCoAO1_qS4Ag
+http://stackoverflow.com/questions/259026/why-doesnt-c-sharp-allow-static-methods-to-implement-an-interface
+http://stackoverflow.com/questions/9415257/how-can-i-implement-static-methods-on-an-interface
+
+
+
+
+
+https://robomongo.org/
+https://docs.mongodb.com/ecosystem/tools/administration-interfaces/
+https://www.mongodb.com/products/compass
+http://rockmongo.com/
+http://nucleonsoftware.com/
+http://3t.io/mongochef
+http://mongobooster.com/
+https://slamdata.com/
+http://mongodb-tools.com/
+http://www.mongodbmanager.com/
+https://scalegrid.io/blog/which-is-the-best-mongodb-gui/
+
+
+
+
++ Json
+https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
+http://stackoverflow.com/questions/17785592/difference-between-json-stringify-and-json-parse
+https://github.com/substack/json-stable-stringify
+http://www.json.org/js.html
+https://jsfiddle.net/ifandelse/6Yj5h/
+https://www.typescriptlang.org/
+http://kipalog.com/
+https://hieusensei.com/tuong-lai-la-typescript
+
+
+
+Galaxy Grand Prime G530
+https://mrbachkhoa.com/dien-thoai/samsung-galaxy-grand-prime-g530-8055.html
+http://www.nguyenkim.com/dtdd-samsung-galaxy-grand-prime-sm-g530h-trang.html
+
++ Mã giảm giá Lazada, Tiki, Adayroi... Update hàng ngày
+https://vozforums.com/showthread.php?t=5039597
+
+http://www.lazada.vn/bo-samsung-galaxy-grand-prime-g530-8gb-trang-hang-nhap-khau-op-lung-dan-man-hinh-the-nho-8gb-2813028.html
+http://www.lazada.vn/samsung-galaxy-grand-prime-ve-g531-8gb-vang-hang-nhap-khau-2141620.html
+http://www.lazada.vn/samsung-galaxy-grand-prime-ve-g531-8gb-vang-hang-nhap-khau-1893897.html
+http://www.lazada.vn/bo-1-samsung-galaxy-grand-prime-g530-8gb-den-xam-hang-nhap-khau-sim-viettel-the-nho-8gb-2797009.html
+http://www.lazada.vn/samsung-galaxy-grand-prime-g531-8gb-den-2090398.html
+http://www.lazada.vn/bo-1-samsung-galaxy-grand-prime-g530-8gb-den-xam-hang-nhap-khau-sim-viettel-2797005.html
+https://hc.com.vn/dien-thoai-di-dong-samsung-galaxy-grand-prime-sm-g530.html
+https://tiki.vn/samsung-galaxy-j1-2016-p197663.html
+http://dienmaycholon.vn/chi-tiet-san-pham/1963_di-dong-samsung-galaxy-grand-prime-smg530h_1_1956
+https://www.thegioididong.com/dtdd/galaxy-j1-2016
 
 == 03 - 10 - 2016
 Giordano, 700k 1 cái, mặc bao mát vì vải nó mỏng, có lỗ thoáng khí, đi mưa thì rất nhanh khô, gấp lại chỉ nhỏ như lòng bàn tay nên dễ cất, nhìn sang. 
