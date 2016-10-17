@@ -1,3 +1,45 @@
+== 17 - 10 - 2016
++ REgular Exrpession Multiple line
+<p>(.*|\n)*?<\/p>
+
+<p>blablablabla
+blablablabla</p>
+<span class="desciption">Description</span>
+<span class="title">(.*|\n)*?<\/span>
+<span class="title">Title</span>
+<span class="title">(.+?)<\/span>\n+<span class="desciption">(.+?)<\/span>
+
++ Sample 2
+<span class="title">(.+?)<\/span>\n+<span class="desciption">(.+?)<\/span>
+<span class="title">Title</span>
+<span class="desciption">Description</span>
+<span class="title">Title</span>
+<span class="desciption">Description</span>
+<span class="title">Title</span>
+<span class="desciption">Description</span>
+<span class="title">Title</span>
+<span class="desciption">Description</span>
+<span class="title">Title</span>
+<span class="desciption">Description</span>
+<span class="title">Title</span>
+<span class="desciption">Description</span>
+<span class="title">Title</span>
+<span class="desciption">Description</span>
+
+	http://regexlib.com/Search.aspx?k=tags&c=0&m=0&ps=20&p=4
+	https://weblogs.asp.net/paulomorgado/cleaning-html-with-regular-expressions
+	http://madskristensen.net/post/remove-html-tags-from-a-string
+http://stackoverflow.com/questions/9331001/regex-everything-between-2-html-tags-vb-net
+http://stackoverflow.com/questions/15876801/extract-text-from-p-html-tag
+http://haacked.com/archive/2004/10/25/usingregularexpressionstomatchhtml.aspx/
+https://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149
+http://www.rexegg.com/regex-best-trick.html
+https://www.daniweb.com/programming/software-development/threads/431886/extract-data-between-two-tags-html
+<h4><b>File Name:</b>(.*)</h4>
+http://www.geekzilla.co.uk/View86FE27C3-E286-4EC7-8275-6E0D8BB58C42.htm
+http://stackoverflow.com/questions/787932/using-c-sharp-regular-expressions-to-remove-html-tags
+http://www.codeproject.com/Questions/626656/RegEx-How-to-match-string-that-is-not-HTML-tag-or
+
 == 10 - 10 - 2016
 + Regular Expression
 https://www.regexbuddy.com/
