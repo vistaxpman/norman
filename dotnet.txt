@@ -40,6 +40,90 @@ http://www.geekzilla.co.uk/View86FE27C3-E286-4EC7-8275-6E0D8BB58C42.htm
 http://stackoverflow.com/questions/787932/using-c-sharp-regular-expressions-to-remove-html-tags
 http://www.codeproject.com/Questions/626656/RegEx-How-to-match-string-that-is-not-HTML-tag-or
 
+
+Regex.Matches(fileHtml, @"\bthickbox\w*\b", RegexOptions.IgnoreCase)
+Regex.Matches(fileHtml, "\\bthickbox\\w*\\b", RegexOptions.IgnoreCase)
+Regex.Matches(fileHtml, "class=\"\\bthickbox\\w*\\b\"", RegexOptions.IgnoreCase)[0].Value
+
+
+Regex.Matches(fileHtml, "<a.+?href=\"(.+?)\".+?class=\"\\bthickbox\\w*\\b\"", RegexOptions.IgnoreCase)[0].Value
+
+
+
+https://msdn.microsoft.com/en-us/library/bk1x0726(v=vs.110).aspx
+string pattern = @"\ba\w*\b";
+string input = "An extraordinary day dawns with each new day.";
+Match m = Regex.Match(input, pattern, RegexOptions.IgnoreCase);
+if (m.Success)
+	Console.WriteLine("Found '{0}' at position {1}.", m.Value, m.Index);
+	
+
+Regex.Matches(fileHtml, "<a.+?href=\"(.+?)\".+?class=\"\\bthickbox\\w*\\b\".+?\\>(.+?)</a>", RegexOptions.IgnoreCase)[1].Value
+Regex.Matches(fileHtml, "<a.+?href=\"(.+?)\".+?class=\"\\bthickbox\\w*\\b\".+?\\>(.+?)", RegexOptions.IgnoreCase)
+
++ Sau class không có thêm một word nào nữa
+Regex.Matches(fileHtml, "<a.+?href=\"(.+?)\".+?class=\"\\bthickbox\\w*\\b\"[\\S]+", RegexOptions.IgnoreCase)
+
+
+"<li><a.+?href=\"(.+?)\".+?class=\"\\bthickbox\\w*\\b\".+?>(.+?)</a></li>"
+
+	- Regex : "<a.+?href=\"(.+?)\".+?class=\"\\bthickbox\\w*\\b\".+?[\\btitle*\\b]*"
+"<a href=\"/Contracts/CancelledDDTL\" class=\"thickboxDDTL\">"
+"<a href=\"/Contracts/CancelledDDOperator\" class=\"thickboxCancelled\">"
+"<a href=\"/Contracts/ContractNumberPopup?action=3&height=150&width=360\" class=\"thickbox\" title"
+
+	- Regex
+	"<a.+?href=\"(.+?)\".+?class=\"\\bthickbox\\w*\\b\".+?[^<>]*(.+?)</a>"
+		"<a href=\"/Contracts/ContractNumberPopup?action=3&height=150&width=360\" class=\"thickbox\" title=\"Enter Contract Number\">Checking Documents</a>"
+		"<a href=\"/Contracts/BatchArchiving\" class=\"thickboxArchiving\" title=\"Archiving Documents\">Archiving Documents</a>"
+		"<a href=\"/Contracts/CancelledDDOperator\" class=\"thickboxCancelled\">Cancelled DD - Operator</a>"
+	- Regex
+	"<a.+?href=\"(.+?)\".+?class=\"\\bthickbox\\w*\\b\"[^<>]*\\>(.+?)</a>"	
+	Regex.Matches(fileHtml, "<a.+?href=\"(.+?)\".+?class=\"\\bthickbox\\w*\\b\"[^<>]*\\>(.+?)</a>", RegexOptions.IgnoreCase)[4].Groups[2].Value
+
+	- Regex
+	<table(.*?)>.*?</table>
+	<title>\s*(.+?)\s*</title>
+	
+	- Good
+	http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags
+	http://www.danylkoweb.com/Blog/how-do-you-read-html-parser-or-regex-8Z
+	http://www.moserware.com/2009/03/how-net-regular-expressions-really-work.html
+	https://blog.codinghorror.com/parsing-beyond-regex/
+	http://www.freeformatter.com/regex-tester.html
+	http://eloquentjavascript.net/09_regexp.html
+	
+	
+	
+www.radsoftware.com.au/regexdesigner/	
+https://www.google.com.vn/?gws_rd=ssl#q=string+contains+regular+expression+c%23&start=20
+https://www.google.com.vn/?gws_rd=ssl#q=string+contains+regular+expression+c%23&start=10
+http://stackoverflow.com/questions/2962670/regex-ismatch-vs-string-contains
+http://stackoverflow.com/questions/25110712/checking-if-a-string-contains-a-specific-word-c-sharp
+https://www.dotnetperls.com/regex
+https://regexone.com/references/csharp
+http://theburningmonk.com/2012/05/performance-test-string-contains-vs-string-indexof-vs-regex-ismatch/
+http://cc.davelozinski.com/c-sharp/fastest-way-to-check-if-a-string-occurs-within-a-string
+http://www.regular-expressions.info/dotnet.html
+http://www.informit.com/articles/article.aspx?p=27313&seqNum=4
+http://www.mikesdotnetting.com/article/50/c-regular-expressions-the-basics
+http://www.wrox.com/WileyCDA/Section/Regular-Expressions-in-C-System-Text-RegularExpressions.id-310801.html
+http://codereview.stackexchange.com/questions/102568/checking-if-a-text-contains-n-consecutive-repeating-characters
+https://regexone.com/lesson/optional_characters
+http://stackoverflow.com/questions/611583/net-regular-expression-involving-html-tags
+http://haacked.com/archive/2004/10/25/usingregularexpressionstomatchhtml.aspx/
+https://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149
+https://codecanyon.net/item/regex-extractor-extract-everything-simply-/1327433
+https://codecanyon.net/item/php-regular-expression-tester/859454
+https://codecanyon.net/item/myregexp-php-regular-expression-builder/641770
+http://www.codeproject.com/Articles/297056/Most-Important-Regular-Expression-for-parsing-HTML
+https://www.dotnetperls.com/paragraph-html
+https://forums.asp.net/t/1593096.aspx?Regular+Expression+to+Match+table+table+in+HTML
+
+
+- Test online
+http://derekslager.com/blog/posts/2007/09/a-better-dotnet-regular-expression-tester.ashx
+
 == 10 - 10 - 2016
 + Regular Expression
 https://www.regexbuddy.com/
