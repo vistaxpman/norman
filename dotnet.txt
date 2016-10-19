@@ -1,3 +1,20 @@
+== 19 - 10 - 2016
+https://www.google.com.vn/?gws_rd=ssl#q=regular+expression+c%23&start=20
+http://developer.vumon.vn/chia-se-kinh-nghiem/co-ban-ve-regular-expression-trong-c-c823i2483.htm
+https://msdn.microsoft.com/en-us/library/az24scfc(v=vs.110).aspx
+https://msdn.microsoft.com/en-us/library/system.text.regularexpressions.regex(v=vs.110).aspx
+https://www.dotnetperls.com/regex
+http://vietjack.com/csharp/regular_expression_trong_csharp.jsp
+https://bienuit.wordpress.com/2012/12/22/cach-su-dung-regex-trong-c/
+https://www.google.com.vn/?gws_rd=ssl#q=regular+expression+c%23
+http://www.mikesdotnetting.com/article/46/c-regular-expressions-cheat-sheet
+http://regexlib.com/
+http://laptrinh.vn/d/4621-regular-expression-trong-c-bieu-thuc-chinh-quy.html
+http://regexstorm.net/tester
+https://www.regexbuddy.com/csharp.html
+http://stackoverflow.com/questions/4740984/c-sharp-regex-matches-example
+http://stackoverflow.com/questions/906493/how-do-i-access-named-capturing-groups-in-a-net-regex
+
 == 17 - 10 - 2016
 + REgular Exrpession Multiple line
 <p>(.*|\n)*?<\/p>
