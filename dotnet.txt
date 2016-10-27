@@ -1,3 +1,19 @@
+== 26 - 10 - 2016
++ DotNetBar
+http://www.devcomponents.com/kb2/?p=741
+How to hide Ribbon Control System Buttons (Minimize, Maximize, Close) and other system parts of the Ribbon control
+http://www.devcomponents.com/kb2/?p=848
+http://www.devcomponents.com/kb2/?p=784
+https://www.experts-exchange.com/questions/26702333/how-to-hide-maximize-button-from-ribbon-control-of-dotnetbar-library-for-Visual-Basic-NET.html
+http://caulacbovb.com/forum/viewtopic.php?t=17240
+http://diendan.congdongcviet.com/threads/t65848::cach-lap-trinh-tao-ribbon-control-trong-csharp.cpp
+http://www.devcomponents.com/dotnetbar/TabControl.aspx
+http://www.devcomponents.com/kb2/?p=703
+http://www.devcomponents.com/kb2/?tag=ribbon
+http://diendan.congdongcviet.com/threads/t111985::cach-xoa-bo-boder-mac-dinh-cho-form-khi-dung-dotnetbar-ribbon-control.cpp
+http://www.se7ensins.com/forums/threads/using-dotnetbar-with-c.92265/?jdfwkey=5mmby2
+http://www.devcomponents.com/kb2/?p=1538
+
 == 19 - 10 - 2016
 https://www.google.com.vn/?gws_rd=ssl#q=regular+expression+c%23&start=20
 http://developer.vumon.vn/chia-se-kinh-nghiem/co-ban-ve-regular-expression-trong-c-c823i2483.htm
