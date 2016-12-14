@@ -1,3 +1,5 @@
+VNHQIT32
+
 Joel Murach, Michael Urban, "Murach's Python Programming" 
 2016 | ISBN-10: 1890774979 | 590 pages | PDF | 100 MB
 http://nitroflare.com/view/E4C722829FB3D71/1890774979.pdf
