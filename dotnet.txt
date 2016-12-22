@@ -1,4 +1,51 @@
-VNHQIT32
+== 22 - 12 - 2016
++ Keyword
+	C# Linq to XML add, update, delete
+	https://www.google.com/search?q=add+edit+delete+xml+file+c%23&client=firefox-b&biw=1920&bih=943&noj=1&ei=xaZbWPaQHcv0vASx1bqQCg&start=50&sa=N&gfe_rd=cr
+
+
++ XML Utility
+	http://babasahebkale.blogspot.com/2012/11/insert-edit-update-delete-in-xml-file.html
+	http://www.codeguru.com/csharp/csharp/cs_data/xml/article.php/c9427/Manipulate-XML-File-Data-Using-C.htm
+	http://csharpdotnetfreak.blogspot.com/2011/12/gridview-xml-edit-delete-insert-update.html
+	http://yeasir007.blogspot.com/2012/10/add-edit-delete-in-gridview-with-xml.html
+	http://niravdaraniya.blogspot.com/2012/12/how-to-edit-xml-file-in-cnet_9.html
+	http://mrbool.com/adding-and-removing-records-from-dataset-xml-and-populate-grid-using-asp-net-and-c/24620
+	http://www.codemag.com/article/1210021
+	http://www.codeexperts.com/showthread.php?452-C-XML-read-write-modify-delete-elements
+	http://technico.qnownow.com/display-insert-update-delete-xml-in-gridview/
+	http://codesamplez.com/programming/linq-to-xml-tutorial
+	http://jeya-ganesh.blogspot.com/2012/06/bind-xml-saving-data-to-datagridview.html
+	http://www.nerdynaut.com/computer/xml-data-manipulation-with-xpath-and-xmldocument-in-c
+	http://www.gregjopa.com/2011/04/crud-operations-with-xml-data-in-asp-net-mvc-3/
+	http://www.codescratcher.com/windows-forms/update-data-xml-file-using-windows-application/
+	http://www.advancesharp.com/blog/1121/read-write-xml-in-asp-net-c
+	http://www.drdobbs.com/windows/parsing-xml-files-in-net-using-c/184416669
+	http://www.fizixstudios.com/labs/do/view/id/unity-file-management-and-xml-p4
+	http://www.vbforums.com/showthread.php?478692-VB-NET-XML-Create-and-Merge-Files-Edit-Add-and-Delete-Nodes
+	https://www.mindstick.com/Articles/965/insert-delete-update-in-datagridview-with-datatable-in-c-sharp
+	https://deepumi.wordpress.com/2010/03/08/linq-to-xml-crud-operations/
+	http://www.aspdotnet-pools.com/2014/08/insert-update-delete-operation-in.html
+	https://marketplace.visualstudio.com/items?itemName=ActiproSoftware.ActiproSyntaxEditorforWinForms
+	http://www.encodedna.com/2013/01/asp.net-gridview-edit-delete.htm
+	
+	
+https://www.benday.com/2014/01/01/xml-utility-methods-for-c/
+http://stackoverflow.com/questions/4203540/generate-c-sharp-class-from-xml
+http://www.c-sharpcorner.com/uploadfile/b8e86c/insert-update-delete-in-xml-file-using-c-sharp/
+http://www.worldbestlearningcenter.com/index_files/csharp-read-add-edit-remove-xml-linq.htm
+http://www.techcognition.com/post/Add-Edit-Delete-data-From-XML-File-in-C-2406
+http://www.dotnetfox.com/articles/insert-delete-update-records-in-xml-file-Asp-Net-using-C-Sharp-1016.aspx
+http://www.developer.com/net/csharp/article.php/3489611/Manipulate-XML-File-Data-Using-C.htm
+http://stackoverflow.com/questions/919645/how-to-delete-node-from-xml-file-using-c-sharp
+http://kavstech.blogspot.com/2009/07/append-new-node-in-xml-file.html
+http://kavstech.blogspot.com/2009/06/how-to-remove-nodes-from-xml.html
+https://forums.asp.net/t/1461602.aspx?insert+Update+Delete+Search+in+a+xml+file+using+c+
+https://social.msdn.microsoft.com/Forums/en-US/a7aae7ae-a81a-4fbf-ae05-6ddae0c5d10c/add-edit-update-delete-comands-for-xml-database-in-c-needed?forum=xmlandnetfx
+http://stackoverflow.com/questions/13289320/c-sharp-linq-to-xml-add-update-delete
+https://www.experts-exchange.com/questions/23072440/add-edit-delete-and-update-xml-file-with-datagrid-VB-to-C.html
+http://stackoverflow.com/questions/8058182/edit-and-delete-data-from-xml-file-using-asp-net-and-vb-net-or-c
+http://stackoverflow.com/questions/6500989/deleting-xml-using-a-selected-xpath-and-a-for-loop/6501111#6501111
 
 Joel Murach, Michael Urban, "Murach's Python Programming" 
 2016 | ISBN-10: 1890774979 | 590 pages | PDF | 100 MB
