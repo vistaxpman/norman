@@ -3,6 +3,44 @@
 	C# Linq to XML add, update, delete
 	https://www.google.com/search?q=add+edit+delete+xml+file+c%23&client=firefox-b&biw=1920&bih=943&noj=1&ei=xaZbWPaQHcv0vASx1bqQCg&start=50&sa=N&gfe_rd=cr
 
++ Xml Get element
+	- CT
+	http://stackoverflow.com/questions/15199326/select-xelement-where-child-element-has-a-value
+	https://social.msdn.microsoft.com/Forums/en-US/b14ce4d1-77f1-420d-ad91-0989794a1d45/linq-to-xml-get-single-element-value?forum=csharpgeneral
+	https://www.intertech.com/Blog/query-an-xml-document-using-linq-to-xml/
+	https://chodounsky.net/2013/10/23/descendants-vs-elements-in-linq-to-xml/
+	https://dzone.com/articles/using-linq-xml-query-xml-data
+	http://www.4guysfromrolla.com/articles/062310-1.aspx
+	https://weblogs.asp.net/dixin/linq-to-xml-2-query-methods
+	https://www.codeproject.com/Questions/287298/Select-specific-node-in-XML-using-csharp
+	http://www.dreamincode.net/forums/topic/353127-linq-by-example-5-linq-to-xml-querying/
+	http://www.java2s.com/Code/CSharp/XML-LINQ/UseLinqquerytogetXMLdocumentelements.htm
+	https://www.reddit.com/r/csharp/comments/351hk4/using_linq_to_extract_attributes_from_xml/
+	http://stackoverflow.com/questions/7892488/linq-to-xml-selecting-a-node-bases-on-a-attribute-value
+	http://stackoverflow.com/questions/594231/how-to-select-a-specific-node-with-linq-to-xml
+	http://stackoverflow.com/questions/3885795/select-element-with-given-attribute-using-linq-to-xml
+	http://www.worldbestlearningcenter.com/index_files/csharp-read-add-edit-remove-xml-linq.htm
+	https://johnpapa.net/linq-to-xml-tip-checking-for-values/
+	http://www.encodedna.com/linq/conditional-xml-element-selection-in-linq-to-xml.htm
+	https://www.microsoftpressstore.com/articles/article.aspx?p=2225078&seqNum=3
+	
+	- Xpath
+	http://stackoverflow.com/questions/16012390/how-to-get-element-content-using-only-xpath-and-net-c-sharp
+	http://stackoverflow.com/questions/5944845/c-sharp-using-xpath-to-select-specific-element-with-known-values-then-delete
+	http://stackoverflow.com/questions/9460069/xpath-string-that-grabs-an-element-with-a-specific-id-value
+	http://stackoverflow.com/questions/7981266/using-xpath-to-select-specific-values-from-an-xml-document
+	https://msdn.microsoft.com/en-us/library/d271ytdx(v=vs.110).aspx
+	https://social.msdn.microsoft.com/Forums/vstudio/en-US/d512b5d3-a98d-4970-a26b-15d07fd41e4b/get-xml-node-value-using-xpath-c?forum=csharpgeneral
+	http://www.csharp-examples.net/xml-nodes-by-attribute-value/
+	
+http://stackoverflow.com/questions/15903671/how-can-i-access-a-single-xml-elements-value-using-c-net-web-pages-with-webmat
+http://stackoverflow.com/questions/17590182/how-to-get-the-xml-node-value-in-string
+http://stackoverflow.com/questions/6442024/getting-specified-node-values-from-xml-document
+https://msdn.microsoft.com/en-us/library/mt693068.aspx
+http://stackoverflow.com/questions/356091/linq-to-xml-how-to-select-the-value-from-elements
+http://stackoverflow.com/questions/10302158/linq-to-xml-get-given-xelements-text-content-without-child-elements-text-con
+http://stackoverflow.com/questions/14501196/selecting-elements-from-xml-file-using-linq
+https://www.codeproject.com/articles/38534/linq-to-xml-retrieve-element-value-by-its-attribut
 
 + XML Utility
 	http://babasahebkale.blogspot.com/2012/11/insert-edit-update-delete-in-xml-file.html
