@@ -2,6 +2,14 @@
 https://vozforums.com/showthread.php?t=5623478&page=37
 Skylight (TV Movie 2014) - IMDb
 
+http://kenh14.vn/4-phut-tap-tabata-duoi-day-giup-ban-giam-mo-nhieu-hon-bat-ki-dong-tac-cardio-nao-20170102113237047.chn
+http://stackoverflow.com/questions/2652460/how-to-get-the-name-of-the-current-method-from-code
+http://stackoverflow.com/questions/10130504/how-to-get-the-name-of-current-function
+https://msdn.microsoft.com/en-us/library/system.runtime.compilerservices.callermembernameattribute.aspx
+http://stackoverflow.com/questions/2968352/using-system-reflection-to-get-a-methods-full-name
+http://stackoverflow.com/questions/34156818/get-current-method-name
+https://www.dotnetperls.com/getmethod
+
 + Keyword
 	C# Linq to XML add, update, delete
 	https://www.google.com/search?q=add+edit+delete+xml+file+c%23&client=firefox-b&biw=1920&bih=943&noj=1&ei=xaZbWPaQHcv0vASx1bqQCg&start=50&sa=N&gfe_rd=cr
