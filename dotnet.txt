@@ -1,3 +1,27 @@
++ C++ decompiler
+http://derevenets.com/
+http://www.dll-decompiler.com/
+http://www.9rays.net/TourStep.aspx?TourStepID=21
+https://www.hex-rays.com/products/ida/support/download_freeware.shtml
+https://www.hex-rays.com/products/ida/index.shtml
+https://www.hex-rays.com/products/ida/6.95/index.shtml
+https://www.hex-rays.com/products/decompiler/
+http://x64dbg.com/#start
+https://www.hopperapp.com/
+http://win.cutephp.com/t/decompiler_disassembler_for_qt/
+http://www.hexblog.com/?paged=2&cat=3
+http://www.techgainer.com/decompile-analyze-edit-recompile-apk-files-apk-studio/
+http://ntcore.com/files/qtrev.htm
+http://www.developingthefuture.net/disassembling-decompiling-and-modifying-executables/
+https://github.com/yegord/snowman/blob/master/doc/licenses.asciidoc
+http://boomerang.sourceforge.net/
+http://idc.sourceforge.net/wiki/
+https://sourceforge.net/projects/relipmoc/
+https://retdec.com/
+https://github.com/yegord/snowman
+https://www.onlinedisassembler.com/static/home/
+https://en.wikibooks.org/wiki/X86_Disassembly/Disassemblers_and_Decompilers
+
 https://www.google.com/search?q=t%E1%BA%A1o+t%E1%BB%B1+%C4%91%E1%BB%99ng+roboform+%2B+autoit&client=firefox-b&biw=1704&bih=920&noj=1&ei=9ou2WLeNC8Pa8QW336Nw&start=10&sa=N&gfe_rd=cr
 https://trungduc.net/tutorial-imacros/
 http://hocimacros.blogspot.com/
