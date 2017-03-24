@@ -1,5 +1,115 @@
 https://belkasoft.com/new
 
+- Abstract Class, abstract method, event, delegate, where ( Constraints on Type Parameters ), sealed, Microsoft.Bcl, internal
+	- C# 6.0 "=>"
+	
+- abstract class	
+http://liveproject.edu.vn/tintuc/17/107/bai-8--lop-truu-tuong-va-lop-giao-dien-trong-c-abstract-va-interface-.aspx
+http://www.kenbon.net/index.php?cid=programmer&sub=c_sharp&itm=abstractClasses_interfaces
+http://o7planning.org/vi/10431/abstract-class-va-interface-trong-csharp
+http://code5s.com/windows/visual-c-sharp/lop-truu-tuong.html
+http://vietjack.com/csharp/interface_trong_csharp.jsp
+http://vietjack.com/java/lop_abstract_trong_java.jsp
+http://diendan.congdongcviet.com/threads/t70745::cach-su-dung-doi-tuong-trong-abstract-class-trong-csharp.cpp
+http://tedu.com.vn/lap-trinh-c/so-sanh-giua-abstract-class-va-interface-trong-cnet-51.html
+http://dotnet.edu.vn/ChuyenMuc/Lop-Truu-tuong--Giao-dien-Abstract-Classes--Interfaces-790.aspx
+http://giasutinhoc.vn/lap-trinh-c-sharp/lop-truu-tuong-va-interface-trong-csharp-bai-6/
+
+- abstract method
+https://voer.edu.vn/c/thua-ke-va-da-hinh-trong-c/9f00d32d/1c08d90e
+http://vietjack.com/csharp/tinh_da_hinh_trong_csharp.jsp
+https://daynhauhoc.com/t/su-khac-biet-giua-phuong-thuc-ao-va-phuong-thuc-truu-tuong/23690
+http://expressmagazine.net/development/461/tap-phan-lap-trinh-huong-doi-tuong-c
+http://laptrinh.vn/archive/index.php/t-4596.html
+http://congdongjava.com/forum/threads/abstract-class-kh%C3%A1c-v%E1%BB%9Bi-class-th%C6%B0%E1%BB%9Dng-%E1%BB%9F-ch%E1%BB%95-n%C3%A0o.17199/
+http://itvsolution.vn/tim-hieu-ve-lop-truu-tuong-abstract-class-trong-c-2018.html
+http://timoday.edu.vn/phan-3-lap-trinh-huong-doi-tuong-trong-c/
+http://blogit-v1.blogspot.com/2011/05/phan-biet-phuong-thuc-virtual-abstract-c.html
+http://www.ddth.com/showthread.php/11331-Q-new-virtual-v%C3%A0-override-trong-C
+https://msdn.microsoft.com/en-us/library/aa664435(v=vs.71).aspx
+
+- delegate, event
+http://tapchilaptrinh.vn/2012/07/16/delegates-va-events-trong-c/
+http://code5s.com/windows/visual-c-sharp/delegate-va-event-trong-csharp.html
+http://dotnet.edu.vn/ChuyenMuc/Delegates-va-Events-trong-CNET-595.aspx
+http://o7planning.org/vi/10591/huong-dan-su-dung-csharp-delegate-va-event
+http://vietjack.com/csharp/delegate_trong_csharp.jsp
+https://voer.edu.vn/c/delegate-va-event/9f00d32d/56bd675f
+http://liveproject.edu.vn/tintuc/17/111/bai-12--delegates--events-uy-nhiem-ham--su-kien-trong-c--.aspx
+https://daynhauhoc.com/t/cho-minh-hoi-ve-delegate-trong-c/9224
+https://toidicodedao.com/2015/02/10/series-c-hay-ho-callback-trong-c-delegate-action-predicate-func/
+https://www.stdio.vn/articles/read/30/delegates-va-events-trong-c
+https://yinyangit.wordpress.com/2011/07/18/csharp-basic-delegate-very-basic/
+
+- internal
+http://diendan.congdongcviet.com/threads/t37556::su-khac-nhau-giua-public-va-internal-trong-csharp.cpp
+http://o7planning.org/vi/10439/access-modifier-trong-csharp
+http://vietjack.com/csharp/tinh_dong_goi_trong_csharp.jsp
+https://bachnhut.wordpress.com/2013/01/03/su-khac-nhau-giua-public-va-internal-trong-c-cong-dong-c-viet/
+https://kipalog.com/posts/C---Tam-vuc-hay-thuoc-tinh-truy-cap-trong-CSharp
+https://voer.edu.vn/c/lop-va-doi-tuong-trong-c/9f00d32d/7ae4309c
+
+- sealed
+http://ngogiaphuc.blogspot.com/2009/02/lop-uoc-niem-phong-sealed-class-la-gi.html
+http://itshare24h.com/lop-va-thua-ke-trong-c/
+http://liveproject.edu.vn/tintuc/17/106/bai-7--tinh-ke-thua-va-tinh-da-hinh-trong-c-.aspx
+http://vubka.blogspot.com/2010/04/abstract-sealed.html
+http://polygonexpress.com/lap-trinh-csharp-tu-khoa-partial-kieu-tung-phan-partial-type.html
+http://hocweb.com.vn/hoc-phan-mem/lap-trinh-c/access-modifiers-abstract-class-sealed-class-oop-c.html
+https://www.slideshare.net/tuoitrecomvn/bai-5-kethuadahinh
+
+- where T
+https://msdn.microsoft.com/en-us/library/d5x73970.aspx
+http://stackoverflow.com/questions/4737970/what-does-where-t-class-new-mean
+http://stackoverflow.com/questions/22247573/generics-where-t-is-class-implementing-interface
+http://stackoverflow.com/questions/9658492/what-is-where-t-class-in-c-sharp-generic-methods
+https://msdn.microsoft.com/en-us/library/bb384067.aspx
+http://stackoverflow.com/questions/2974519/generic-constraints-where-t-struct-and-where-t-class
+http://stackoverflow.com/questions/7810550/specify-generics-class-where-t-should-be-subclass-of-other-type
+https://www.dotnetperls.com/generic
+http://www.functionx.com/csharp/generics/Lesson02.htm
+
+- C# 6
+https://automatetheplanet.com/7-new-cool-features-csharp-6-0/?gclid=CNXzm6z07tICFYhhvQodGiUCTQ
+https://msdn.microsoft.com/en-us/magazine/dn802602.aspx
+https://docs.microsoft.com/en-us/dotnet/articles/csharp/csharp-6
+https://github.com/dotnet/roslyn/wiki/New-Language-Features-in-C%23-6
+https://www.simple-talk.com/dotnet/net-framework/whats-new-in-c-6/
+https://www.codeproject.com/Tips/1023426/Whats-New-in-Csharp
+https://www.codeproject.com/articles/874205/new-features-in-csharp
+http://developer.telerik.com/featured/essential-c-6-features-you-need-to-know/
+http://www.developer.com/net/csharp/slideshows/top-10-csharp-6.0-language-features.html
+http://www.c-sharpcorner.com/UploadFile/8ef97c/full-C-Sharp-6-0-in-single-article-on-visual-studio-2015-preview/
+https://csharp.today/all-c-6-features-with-short-examples/
+
+- C# 7
+https://docs.microsoft.com/en-us/dotnet/articles/csharp/csharp-7
+https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/
+http://www.infoworld.com/article/3151536/application-development/new-features-in-c-7.html
+https://www.kenneth-truyers.net/2016/01/20/new-features-in-c-sharp-7/
+https://www.codeproject.com/Articles/1131035/New-Features-of-Csharp
+https://channel9.msdn.com/Events/Connect/2016/105
+http://www.c-sharpcorner.com/article/top-10-new-features-of-c-sharp-7-with-visual-studio-2017/
+https://www.infoq.com/news/2016/04/CSharp-7
+	
+http://forum.diadiemanuong.com/home/f11/oc-thao-oc-hop-dong-gia-20k-chat-luong-tuoi-ngon-khoi-keu-la-1-lan-la-cu-le-la-toi-hoai-936154/
+http://forum.diadiemanuong.com/home/f11/tu-oc-lau-vua-hai-san-tuoi-xanh-hoanh-trang-chon-nuong-lien-tay-giua-long-sai-gon-73215/
+http://forum.diadiemanuong.com/home/f11/tasaki-bbq-bat-ngo-phat-hien-buffet-nhat-ngon-me-do-ngap-ban-chat-luong-voi-gia-uu-dai-vo-cung-khong-bo-qua-926888/
+http://forum.diadiemanuong.com/home/f11/oc-xe-day-cuc-ngon-cac-mon-xao-toi-ngay-nga-tu-xom-moi-912696/
+http://forum.diadiemanuong.com/home/f11/?prefixid=GV
+
+https://msdn.microsoft.com/en-us/library/bb311038.aspx
+https://msdn.microsoft.com/en-us/library/dd260048(v=vs.110).aspx
+https://vi.wikipedia.org/wiki/S%E1%BB%91_Hex
+https://www.stdio.vn/articles/read/225/tim-hieu-he-co-so-16-hexadecimal
+https://sites.google.com/site/lechidai1993/he-dem-co-so-16
+http://diendan.congdongcviet.com/archive/index.php/t-13913.html
+https://hocict.wordpress.com/2014/03/18/cac-he-dem-co-ban-nen-biet/
+http://stackoverflow.com/questions/1139957/c-sharp-convert-integer-to-hex-and-back-again
+http://stackoverflow.com/questions/4690480/int-to-hex-string
+
+
+
 + C++ decompiler
 http://derevenets.com/
 http://www.dll-decompiler.com/
