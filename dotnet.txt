@@ -1,3 +1,25 @@
++ Http Tracker
+https://www.httrack.com/
+https://www.manictime.com/download/ ( ManicTime client needs Microsoft .Net 4.5 to run ) 
+
+https://toggl.com/
+https://www.adremsoft.com/netcrunch.tools/?gclid=EAIaIQobChMIkpio_K7W1QIVzgYqCh3DpAvCEAMYAiAAEgL2HPD_BwE
+https://www.paessler.com/internet_monitoring_software?utm_source=google&utm_medium=cpc&utm_campaign=OTHERS_PRTG_Search&utm_adgroup=internet_monitoring_software&utm_adnum=A198&utm_campaignid=2119671&utm_adgroupid=668503466&utm_targetid=kwd-11942541&gclid=EAIaIQobChMIkpio_K7W1QIVzgYqCh3DpAvCEAMYASAAEgIyiPD_BwE
+https://desktime.com/
+https://hubstaff.com/
+https://github.com/prey/
+https://www.wireshark.org/
+http://www.telerik.com/fiddler
+https://addons.mozilla.org/en-US/firefox/addon/live-http-headers/
+https://www.charlesproxy.com/
+
+http://www.microsoft.com/en-us/download/details.aspx?id=4865
+Microsoft Network Monitor 3.4 (archive)
+http://www.httpwatch.com/
+
+
+https://stackoverflow.com/questions/1271768/what-http-traffic-monitor-would-you-recommend-for-windows
+
 using System.Threading.Tasks.Dataflow;
 NguyenDanPhuong
 Tyrrrz
