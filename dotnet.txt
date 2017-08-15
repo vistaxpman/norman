@@ -1,3 +1,6 @@
+Network Monitoring
+TCPEye Network Monitoring Software With Virustotal Integration
+
 + Http Tracker
 https://www.httrack.com/
 https://www.manictime.com/download/ ( ManicTime client needs Microsoft .Net 4.5 to run ) 
@@ -8,17 +11,64 @@ https://www.paessler.com/internet_monitoring_software?utm_source=google&utm_medi
 https://desktime.com/
 https://hubstaff.com/
 https://github.com/prey/
+
 https://www.wireshark.org/
 http://www.telerik.com/fiddler
 https://addons.mozilla.org/en-US/firefox/addon/live-http-headers/
 https://www.charlesproxy.com/
+http://www.httpwatch.com/
+https://www.soapui.org/http-recording/reference/http-monitor.html
+https://www.telerik.com/download/fiddler-wizard
+http://docs.telerik.com/fiddler/configure-fiddler/tasks/configurefiddler
+http://www.telerik.com/fiddler/fiddlercap
+http://www.colasoft.com/capsa-free/
+https://www.netxms.org/download/
+https://www.softinventive.com/total-network-monitor/
+http://www.ieinspector.com/httpanalyzer/tour.html
+https://www.ntkernel.com/windows-packet-filter/lan-http-monitor/
+https://www.ntkernel.com/windows-packet-filter/
+https://www.paessler.com/windows_monitoring
+https://www.adremsoft.com/
+https://www.adremsoft.com/demo/nc
+http://www.wisecleaner.com/wise-system-monitor.html
+http://www.cpuid.com/softwares/hwmonitor.html
+http://www.shinken-monitoring.org/download.php
+
+
+
+
+http://www.avajava.com/tutorials/lessons/how-do-i-monitor-http-communication-in-eclipse.html
+http://www.nurgo-software.com/pricing/aquasnap
+
+
 
 http://www.microsoft.com/en-us/download/details.aspx?id=4865
 Microsoft Network Monitor 3.4 (archive)
-http://www.httpwatch.com/
+
+
+http://www.nirsoft.net/utils/http_network_sniffer.html
 
 
 https://stackoverflow.com/questions/1271768/what-http-traffic-monitor-would-you-recommend-for-windows
+
+
+http://www.imonitorsoft.com/download.htm  ( needs Microsoft .Net 4.5 to run ) 
+http://www.veriato.com/products/veriato-360/trial
+
+https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+Process Monitor v3.33
+
+https://www.ionx.co.uk/products/verisys/trial ( needs Microsoft .Net 4.5 to run ) 
+Verisys - Free Trial Download
+
+
++ image link website
+https://www.google.com.vn/search?q=monitor+software+activity&sa=N&tbm=isch&tbo=u&source=univ&ved=0ahUKEwjw6K7m2NjVAhVExrwKHUebCiM4ChDsCQhL&biw=1920&bih=947#imgdii=laiWXQc6Si1P4M:&imgrc=rYxD2BHzGIrmLM:
+
+
+https://hubstaff.com/employee_monitoring_software
+
+
 
 using System.Threading.Tasks.Dataflow;
 NguyenDanPhuong
