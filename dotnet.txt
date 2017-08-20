@@ -1,3 +1,14 @@
+http://ffmpeg.zeranoe.com/builds/
+https://www.ffmpeg.org/download.html
+https://kwizzu.com/construct.html
+https://www.tecmint.com/ffmpeg-commands-for-video-audio-and-image-conversion-in-linux/
+https://facebookincubator.github.io/facebook-360-spatial-workstation/KB/EncodingQuadBinauralMix.html
+https://www.poftut.com/ffmpeg-command-tutorial-examples-video-audio/
+http://kb.imakewebsites.ca/2016/10/30/ffmpeg-concatenating-with-image-sequences-and-audio/
+https://ubuntuforums.org/showthread.php?t=2075747
+http://txt.binnyva.com/2008/08/add-audio-to-a-video-file-using-ffmpeg/
+https://www.ostechnix.com/20-ffmpeg-commands-beginners/
+
 + Tcp listener
 https://www.allscoop.com/tcp-listen.php
 http://www.rjlsoftware.com/software/utility/portlistener/screenshots.shtml
