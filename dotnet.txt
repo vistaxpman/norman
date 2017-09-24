@@ -1,3 +1,7 @@
+An unhandled exception of type 'System.NullReferenceException' occurred in DevComponents.DotNetBar.SuperGrid.dll
+
+Additional information: Object reference not set to an instance of an object.
+
 http://ffmpeg.zeranoe.com/builds/
 https://www.ffmpeg.org/download.html
 https://kwizzu.com/construct.html
