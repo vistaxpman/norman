@@ -1,3 +1,18 @@
+Parallel.ForEach(
+                   listView1.Items.Cast<ListViewItem>(),
+                   new ParallelOptions { MaxDegreeOfParallelism = 2 },
+                   item =>
+                   {
+                       Downloadfile(item);
+		   }
+               );
+
+ listView1.Invoke((MethodInvoker)delegate
+{
+item.SubItems[2].Text = "Cancelled";
+});
+
+
 An unhandled exception of type 'System.NullReferenceException' occurred in DevComponents.DotNetBar.SuperGrid.dll
 
 Additional information: Object reference not set to an instance of an object.
