@@ -1,4 +1,4 @@
-
+ kahoot.it
 https://www.softfluent.com/blog/dev/Quickly-insert-millions-of-rows-in-SQL-Server-in-NET
 https://stackoverflow.com/questions/24877240/fastest-way-to-insert-1-million-rows-in-sql-server
 https://stackoverflow.com/questions/13722014/insert-2-million-rows-into-sql-server-quickly
