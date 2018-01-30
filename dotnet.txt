@@ -1,4 +1,6 @@
- kahoot.it
+https://www.google.com/maps/place/Highlands/@10.7705251,106.6987473,19.5z/data=!4m5!3m4!1s0x0:0x67e18428fc8c52b4!8m2!3d10.770764!4d106.6993546
+
+kahoot.it
 https://www.softfluent.com/blog/dev/Quickly-insert-millions-of-rows-in-SQL-Server-in-NET
 https://stackoverflow.com/questions/24877240/fastest-way-to-insert-1-million-rows-in-sql-server
 https://stackoverflow.com/questions/13722014/insert-2-million-rows-into-sql-server-quickly
