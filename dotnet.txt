@@ -1,3 +1,16 @@
++ Upload multiple file	
+https://stackoverflow.com/questions/14092845/add-fileupload-dynamically-with-a-different-name-field
+https://stackoverflow.com/questions/1992874/multiple-file-upload-with-asp-net-mvc-jquery-multiple-file-upload-plugin
+https://stackoverflow.com/questions/37176210/how-to-keep-asynchronously-uploaded-files-of-a-form-in-asp-net-mvc
+https://stackoverflow.com/questions/17128196/file-upload-as-part-of-form-with-other-fields
+https://stackoverflow.com/questions/23614530/add-more-text-fields-dynamically-mvc-view
+https://stackoverflow.com/questions/20900320/dynamically-add-new-file-upload-input-using-jquery
+
+	- can tim
+	https://stackoverflow.com/questions/14092845/add-fileupload-dynamically-with-a-different-name-field
+
+	
+
 xmlTemplate.AppendLine(string.Format("  <item key=\"{0}\"><![CDATA[{1}]]></item>", iKey, iValue));
 
 string aKey = nodes[nodeIndex].Attributes["key"].Value;
