@@ -1,3 +1,20 @@
++ Admin template
+https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469
+https://themeforest.net/item/pages-admin-dashboard-template-web-app/9694847
+https://themeforest.net/item/limitless-responsive-web-application-kit/13080328
+https://themeforest.net/item/remark-responsive-bootstrap-4-admin-template/11989202
+https://themeforest.net/item/constellation-complete-admin-skin/116461
+https://themeforest.net/item/neon-bootstrap-admin-theme/6434477
+https://themeforest.net/item/elite-admin-the-ultimate-dashboard-web-app-kit-material-design/16750820
+https://themeforest.net/item/todo-web-application-and-admin-panel-template/5458827
+
++ AngularJS
+https://themeforest.net/item/angulr-bootstrap-admin-web-app-with-angularjs/8437259
+https://themeforest.net/item/fuse-angularjs-material-design-admin-template/12931855
+
++ Link tham khảo
+https://themeforest.net/category/site-templates/admin-templates
+
 + Ram máy tính
 http://phuongtin.vn/gioi-thieu-laptop-phuong-tin.html
 http://ramlaptopcu.com/ram-laptop-cu/ram-laptop-ddr2-4gb-bus-800.html
