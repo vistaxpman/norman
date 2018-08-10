@@ -9,6 +9,18 @@ https://stackjava.com/category/spring
 https://stackjava.com/spring/code-vi-du-spring-boot-logging.html
 https://stackjava.com/spring/code-vi-du-spring-boot-data-jpa-jparepository.html
 https://stackjava.com/web-service/code-vi-du-swagger-voi-springfox-swagger2-swagger-ui.html
+
++ Spring JPA
+http://www.oracle.com/technetwork/database/migration/connect-sqlserver-1945229.html
+http://www.oracle.com/us/products/database/migrating-to-oracle-database-wp-3610526.pdf
+https://taliphakanozturken.wordpress.com/2012/11/29/migration-from-sql-server-to-oracle-using-sql-developer/
+https://stackoverflow.com/questions/1728694/export-tables-from-sql-server-to-be-imported-to-oracle-10g
+https://smartjob.vn/ky-thuat-autowiring-su-dung-annotation-trong-spring-framework/
+https://stackjava.com/cdi/java-cdi-inject-nhieu-kieu-vao-cung-mot-bean-annotation-qualifier.html
+https://stackjava.com/faq/jpa-la-gi-su-khac-nhau-giua-jpa-voi-hibernate.html
+https://huongdanjava.com/vi/tong-quan-ve-spring-data-jpa.html
+https://dodangquan.blogspot.com/2016/01/mot-so-annotation-trong-spring.html
+
 	
 https://ngoisao.net/tin-tuc/lam-dep/bi-quyet/10-phut-van-dong-moi-ngay-de-co-bung-phang-eo-thon-3789211.html	
 https://forums.voz.vn/showthread.php?t=7366633
