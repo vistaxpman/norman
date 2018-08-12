@@ -1,3 +1,21 @@
++ Article
+https://spring.io/guides/gs/accessing-data-jpa/
+https://dzone.com/articles/spring-boot-jpa-hibernate-oracle
+https://springframework.guru/configuring-spring-boot-for-oracle/
+https://www.mkyong.com/spring-boot/spring-boot-spring-data-jpa-oracle-example/
+http://www.springboottutorial.com/spring-boot-with-mysql-and-oracle
+https://www.programmergate.com/spring-boot-jpa-hibernate-oracle/
+
+https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/
+http://www.springboottutorial.com/spring-boot-crud-rest-service-with-jpa-hibernate
+http://www.springboottutorial.com/introduction-to-jpa-with-spring-boot-data-jpa
+https://www.javacodegeeks.com/2018/03/spring-data-jpa-example-with-spring-boot.html
+https://www.concretepage.com/spring-boot/spring-boot-rest-jpa-hibernate-mysql-example
+http://www.springboottutorial.com/spring-boot-projects-with-code-examples
+https://www.google.com/search?biw=1240&bih=660&ei=9lJwW8qzE42BoASF-pTQBg&q=Creating+a+Web+Application+with+Spring+Boot&oq=Creating+a+Web+Application+with+Spring+Boot&gs_l=psy-ab.3..0j0i22i30k1l3.78333.78333.0.79712.1.1.0.0.0.0.149.149.0j1.1.0....0...1.1.64.psy-ab..0.1.149....0.wuPpbVYMms8
+https://dzone.com/articles/java-8-springboot-angularjs-bootstrap-springdata-j
+
+
 + Spring
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#getting-started-introducing-spring-boot
 https://stackjava.com/spring/code-vi-du-spring-data-query-creation-dat-ten-method.html
