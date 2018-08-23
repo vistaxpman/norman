@@ -39,6 +39,7 @@ https://stackjava.com/faq/jpa-la-gi-su-khac-nhau-giua-jpa-voi-hibernate.html
 https://huongdanjava.com/vi/tong-quan-ve-spring-data-jpa.html
 https://dodangquan.blogspot.com/2016/01/mot-so-annotation-trong-spring.html
 
+https://forums.voz.vn/showthread.php?t=7054401
 theync.com 
 https://forums.voz.vn/showthread.php?t=7381489
 https://forums.voz.vn/showthread.php?t=7371494
