@@ -1,3 +1,82 @@
+/// <summary>
+        /// Print Total File In Folder
+        /// </summary>
+        private static void PrintTotalFileInFolder()
+        {
+            StringBuilder sb = new StringBuilder();
+            var listFiles = new List<FileFolderItem>();
+            var fileTxt = new List<string> { "document.txt", "html.txt", "image.txt", "script.txt", "software.txt", "other.txt" };
+            if (listFiles != null && listFiles.Count > 0)
+            {
+                var listFolderDocument = (from p in listFiles where p.FolderType == TypeFolder.Document select p);
+                var listFolderHtml = (from p in listFiles where p.FolderType == TypeFolder.Html select p);
+                var listFolderImage = (from p in listFiles where p.FolderType == TypeFolder.Image select p);
+                var listFolderScript = (from p in listFiles where p.FolderType == TypeFolder.Script select p);
+                var listFolderSoftware = (from p in listFiles where p.FolderType == TypeFolder.Software select p);
+                var listFolderOther = (from p in listFiles where p.FolderType == TypeFolder.Other select p);
+
+                if (listFolderDocument != null && listFolderDocument.Count() > 0)
+                {
+                    foreach (var itemDocument in listFolderDocument)
+                    {
+                        sb.AppendLine(itemDocument.SourceFolder);
+                    }
+                    System.IO.File.WriteAllText(Path.Combine(FolderOriginal, fileTxt[0]), sb.ToString());
+                    sb.Clear();
+                }
+
+                if (listFolderHtml != null && listFolderHtml.Count() > 0)
+                {
+                    foreach (var itemHtml in listFolderHtml)
+                    {
+                        sb.AppendLine(itemHtml.SourceFolder);
+                    }
+                    System.IO.File.WriteAllText(Path.Combine(FolderOriginal, fileTxt[1]), sb.ToString());
+                    sb.Clear();
+                }
+
+                if (listFolderImage != null && listFolderImage.Count() > 0)
+                {
+                    foreach (var itemImage in listFolderImage)
+                    {
+                        sb.AppendLine(itemImage.SourceFolder);
+                    }
+                    System.IO.File.WriteAllText(Path.Combine(FolderOriginal, fileTxt[2]), sb.ToString());
+                    sb.Clear();
+                }
+
+                if (listFolderScript != null && listFolderScript.Count() > 0)
+                {
+                    foreach (var itemScript in listFolderScript)
+                    {
+                        sb.AppendLine(itemScript.SourceFolder);
+                    }
+                    System.IO.File.WriteAllText(Path.Combine(FolderOriginal, fileTxt[3]), sb.ToString());
+                    sb.Clear();
+                }
+
+                if (listFolderSoftware != null && listFolderSoftware.Count() > 0)
+                {
+                    foreach (var itemSoftware in listFolderSoftware)
+                    {
+                        sb.AppendLine(itemSoftware.SourceFolder);
+                    }
+                    System.IO.File.WriteAllText(Path.Combine(FolderOriginal, fileTxt[4]), sb.ToString());
+                    sb.Clear();
+                }
+
+                if (listFolderOther != null && listFolderOther.Count() > 0)
+                {
+                    foreach (var itemOther in listFolderOther)
+                    {
+                        sb.AppendLine(itemOther.SourceFolder);
+                    }
+                    System.IO.File.WriteAllText(Path.Combine(FolderOriginal, fileTxt[5]), sb.ToString());
+                    sb.Clear();
+                }
+            }
+        }
+	
 public void MovingFile(string from, string to)
         {
             /*
