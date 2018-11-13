@@ -1,3 +1,9 @@
+https://github.com/framgia/coding-standards/blob/master/vn/README.md
+https://github.com/framgia/coding-standards/tree/master/vn/php
+https://github.com/alexeymezenin/laravel-best-practices
+
+
+
 http://www.iconarchive.com/show/boomy-icons-by-milosz-wlazlo/move-file-icon.html
 http://www.iconarchive.com/show/i-icons-by-treetog/Documents-icon.html
 http://icons.iconseeker.com/png/fullsize/icandy-junior-toolbar/move.png
