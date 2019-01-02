@@ -1,3 +1,55 @@
++ Download file with Node Js
+https://stackoverflow.com/questions/11944932/how-to-download-a-file-with-node-js-without-using-third-party-libraries
+https://www.npmjs.com/package/download-file
+https://futurestud.io/tutorials/download-files-images-with-axios-in-node-js
+https://arjunphp.com/download-file-node-js-express-js/
+https://www.hacksparrow.com/using-node-js-to-download-files.html
+https://www.codexpedia.com/node-js/nodejs-http-file-server-serving-file-for-download/
+https://www.mydatahack.com/uploading-and-downloading-files-in-s3-with-node-js/
+https://code.i-harness.com/en/q/6f37ee
+https://javadeveloperzone.com/nodejs/nodejs-download-file-example/
+https://www.example-code.com/nodejs/sharepoint_download_file.asp
+https://stackoverflow.com/questions/7288814/download-a-file-from-nodejs-server-using-express
+https://stackoverflow.com/questions/11944932/how-to-download-a-file-with-node-js-without-using-third-party-libraries/11944984
+https://www.valentinog.com/blog/http-requests-node-js-async-await/
+https://codereview.stackexchange.com/questions/122808/node-js-parallel-file-download-the-es6-way
+https://lowrey.me/download-everything-async-wget-i-in-nodejs/
+https://stackabuse.com/read-files-with-node-js/
+https://blog.risingstack.com/node-hero-async-programming-in-node-js/
+http://www.yaoyuyang.com/2017/01/20/nodejs-batch-file-processing.html
+https://stackoverflow.com/questions/46378532/download-multiple-images-with-node-js-and-wait-until-all-requests-are-done
+https://www.hacksparrow.com/using-node-js-to-download-files.html
+https://www.twilio.com/blog/2018/05/how-to-receive-and-download-picture-messages-in-node-js-with-twilio-mms.html
+
+
+	- Thư viện cho download file
+	https://www.google.com/search?q=node+js+download+file&ei=T18sXObyEYTGvQT_8LCYDw&start=20&sa=N&ved=0ahUKEwim1r6Kwc7fAhUEY48KHX84DPM4ChDy0wMIcQ&biw=1920&bih=925
+	
+	https://www.npmjs.com/package/image-downloader
+	https://www.npmjs.com/package/images-downloader
+	https://gitlab.com/demsking/image-downloader
+	https://github.com/koltyakov/sp-download
+	https://www.npmjs.com/package/downloadjs
+	https://www.npmjs.com/package/download-file
+	https://gist.github.com/jhidalgo3/4534067
+	https://medium.com/@humadvii/downloading-files-from-google-drive-using-node-js-3704c142a5f6
+	https://javadeveloperzone.com/nodejs/nodejs-download-file-example/
+	https://www.npmjs.com/package/file-saver
+	https://github.com/sindresorhus/multi-download
+	http://danml.com/download.html
+	https://github.com/tj/commander.js
+	https://github.com/bitinn/node-fetch/issues/375
+	https://www.opentechguides.com/tutorials/nodejs/36/nodejs-download-file.html
+	
+	Axios File Download in Node.js
+	
+	- Hình demo cho download file
+	https://unsplash.com/photos/AaEQmoufHLk
+	
+
+	- Upload File
+	https://github.com/pqina/filepond
+	
 https://www.swtestacademy.com/jenkins-dotnet-integration/
 
 https://github.com/csharp-leaf/Leaf.xNet
