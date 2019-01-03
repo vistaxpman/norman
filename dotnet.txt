@@ -1,3 +1,45 @@
++ Article NodeJS
+https://stackoverflow.com/questions/1349404/generate-random-string-characters-in-javascript
+https://blog.cloudboost.io/execute-asynchronous-tasks-in-series-942b74697f9c
+https://medium.com/@tkssharma/writing-neat-asynchronous-node-js-code-with-promises-async-await-fa8d8b0bcd7c
+https://nemethgergely.com/async-function-best-practices/
+https://www.valentinog.com/blog/http-requests-node-js-async-await/
+https://dev.to/mrm8488/from-callbacks-to-fspromises-to-handle-the-file-system-in-nodejs-56p2
+https://futurestud.io/tutorials/download-files-images-with-axios-in-node-js
+https://www.reddit.com/r/node/comments/5xkuxr/download_an_array_of_files_and_wait_until_they/
+
+https://stackoverflow.com/questions/38362231/how-to-use-promise-in-foreach-loop-of-array-to-populate-an-object/45611657
+https://codeburst.io/javascript-async-await-with-foreach-b6ba62bbf404
+https://stackoverflow.com/questions/31413749/node-js-promise-all-and-foreach
+https://www.google.com/search?biw=1920&bih=925&ei=288tXPLSLsjNvgSO5ZuQCA&q=foreach+promise&oq=foreach+%2B+pr&gs_l=psy-ab.3.0.0i22i30l10.806312.813182..815983...2.0..0.246.1094.11j0j1......0....1..gws-wiz.......0j0i71j0i131j0i67j33i160.SooUTrB_wJw
+
+
++ Node.js library
+https://www.npmjs.com/package/node-html-parser
+https://cheerio.js.org/
+https://nodesource.com/
+https://github.com/nodesource/distributions
+https://www.npmjs.com/package/fs-extra ( dùng cho tạo thư mục và file )
+https://www.npmjs.com/package/fs.extra
+https://www.npmjs.com/package/request
+https://www.npmjs.com/package/request-progress
+https://www.npmjs.com/package/superagent
+https://www.npmjs.com/package/download
+https://www.npmjs.com/package/request-promise
+https://www.npmjs.com/package/file-type
+https://www.npmjs.com/package/lower-case
+https://chancejs.com/
+https://www.npmjs.com/package/random-string
+https://www.npmjs.com/package/r2
+https://www.npmjs.com/package/axios
+https://www.npmjs.com/package/node-fetch
+https://www.npmjs.com/package/asyncawait
+https://github.com/bitinn/node-fetch/issues/375
+https://github.com/petkaantonov/bluebird
+https://github.com/mobxjs/mobx
+https://github.com/sinonjs/sinon
+
+
 + Download file with Node Js
 https://stackoverflow.com/questions/11944932/how-to-download-a-file-with-node-js-without-using-third-party-libraries
 https://www.npmjs.com/package/download-file
@@ -20,7 +62,6 @@ http://www.yaoyuyang.com/2017/01/20/nodejs-batch-file-processing.html
 https://stackoverflow.com/questions/46378532/download-multiple-images-with-node-js-and-wait-until-all-requests-are-done
 https://www.hacksparrow.com/using-node-js-to-download-files.html
 https://www.twilio.com/blog/2018/05/how-to-receive-and-download-picture-messages-in-node-js-with-twilio-mms.html
-
 
 	- Thư viện cho download file
 	https://www.google.com/search?q=node+js+download+file&ei=T18sXObyEYTGvQT_8LCYDw&start=20&sa=N&ved=0ahUKEwim1r6Kwc7fAhUEY48KHX84DPM4ChDy0wMIcQ&biw=1920&bih=925
