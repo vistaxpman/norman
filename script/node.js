@@ -19,7 +19,7 @@ const puppeteer = require('puppeteer');
     });
     const page = await browser.newPage();
     //await page.setViewport({width: 1000, height: 500});
-    await page.goto('https://batdongsan.com.vn', { waitUntil: "networkidle2", "timeout": 3000000 });
+    await page.goto('https://abc.com.vn', { waitUntil: "networkidle2", "timeout": 3000000 });
     await page.waitForSelector('img[class=product-avatar-img]');
     //await page.screenshot({path: 'pic.png'});
 
