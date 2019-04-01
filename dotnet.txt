@@ -1,3 +1,11 @@
++ JHipster
+https://www.youtube.com/results?search_query=jhipster+jdl&sp=CAI%253D
+https://www.jhipster.tech/video-tutorial/
+https://dzone.com/articles/getting-started-with-jhipster-part-i
+https://medium.com/@deepu105/create-full-microservice-stack-using-jhipster-domain-language-under-30-minutes-ecc6e7fc3f77
+https://github.com/mraible/jhipster5-demo
+https://github.com/PacktPublishing/Full-Stack-Development-with-JHipster
+
 + Last segment
 var pageURL = window.location.href;
 var lastURLSegment = pageURL.substr(pageURL.lastIndexOf('/') + 1);
