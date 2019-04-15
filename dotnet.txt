@@ -1,3 +1,7 @@
+jhipster import-jdl jh-blog.jh
+jhipster import-jdl jh-blog.jh --ignore-application
+https://stackoverflow.com/questions/53307964/jhipster-how-to-generate-only-entities-during-jdl-import
+
 https://books.google.com.vn/books?id=PLZTDwAAQBAJ&printsec=frontcover&hl=vi&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
 https://books.google.com.vn/books?id=PLZTDwAAQBAJ&printsec=frontcover&hl=vi&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
 https://books.google.com.vn/books?id=5AuLDwAAQBAJ&pg=PA221&lpg=PA221&dq=Spring+5.0+Projects:+Build+seven+web+development+projects+%2B+google&source=bl&ots=3yV0XcYjiz&sig=ACfU3U1YnWw5dAxlzavIIUR00iZWeVgWuQ&hl=en&sa=X&ved=2ahUKEwjB5ZXX-7_hAhXIbX0KHbITBhkQ6AEwAHoECAkQAQ#v=onepage&q&f=false
