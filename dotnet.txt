@@ -1,3 +1,32 @@
+
+Mastering Angular Components, 2nd Edition
+https://www.avaxhome.co/mastering-angular-components-second-edition/
+https://turbobit.net/s195dy35cjgi.html
+
+Angular Design Patterns
+https://www.avaxhome.co/angular-design-patterns/
+https://turbobit.net/hihnu47f9o46.html
+
+ng-book: The Complete Book on Angular 6
+https://www.avaxhome.co/ng-book-the-complete-book-on-angular-6/
+https://turbobit.net/hh0i15q1z90z.html
+
+Pro Angular 6, 3rd Edition
+https://turbobit.net/hmo8sal538en.html
+https://www.avaxhome.co/pro-angular-6-3rd-edition/
+
+https://www.avaxhome.co/angular-in-action/
+Angular in Action
+https://turbobit.net/7g9so9sqacwh.html
+
+Learning Angular 7 [Video]
+https://www.avaxhome.co/learning-angular-7-video/
+https://turbobit.net/ax2o42j501cn.html
+
+Angular 7 New Features [Video]
+https://turbobit.net/rsjk5tiiq10j.html
+https://www.avaxhome.co/angular-7-new-features-video/
+
 jhipster import-jdl jh-blog.jh
 jhipster import-jdl jh-blog.jh --ignore-application
 https://stackoverflow.com/questions/53307964/jhipster-how-to-generate-only-entities-during-jdl-import
