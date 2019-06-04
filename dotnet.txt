@@ -1,3 +1,5 @@
+https://github.com/shiyunjin/Bangumi_manger/blob/master/main.js
+https://github.com/agalwood/Motrix
 
 Mastering Angular Components, 2nd Edition
 https://www.avaxhome.co/mastering-angular-components-second-edition/
