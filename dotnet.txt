@@ -1,3 +1,5 @@
+https://www.npmjs.com/search?q=parcel-bundler
+
 https://auth0.com/blog/beyond-create-react-app-react-router-redux-saga-and-more/
 https://scotch.io/tutorials/build-a-bookshop-with-react-redux-i-react-redux-flow
 https://blog.bitsrc.io/building-a-todo-app-in-react-with-firebase-and-redux-ba3ab53a671b
