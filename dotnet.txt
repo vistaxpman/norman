@@ -1,3 +1,29 @@
+
+
+select a.REGION_NAME, regexp_replace(a.REGION_NAME, '([^,]+)(,\1)+', '\1') a1,
+ regexp_replace('Hà Nội,Hà Nội,Di Linh,TP HCM,Hà Nội,Hà Nội,TP HCM,TP HCM,Đà Lạt', '([^,]+)(,\1)+', '\1') a2
+from 
+(
+SELECT RTRIM (
+          XMLAGG (XMLELEMENT (e, REGION_NAME || ',')).EXTRACT ('//text()'),
+          ',')
+          REGION_NAME
+  FROM REGION order by REGION_NAME
+ )a;
+ 
+ 
+ 
+ 
+ 
+ https://asktom.oracle.com/pls/apex/f?p=100:11:::NO::P11_QUESTION_ID:9537880200346430387
+ https://stackoverflow.com/questions/21924724/oracle-pl-sql-remove-duplicate-data-in-string
+ https://stackoverflow.com/questions/38000610/how-to-remove-duplicates-from-comma-separated-list-by-regexp-replace-in-oracle
+ https://stackoverflow.com/questions/26234079/oracle-remove-repeating-characters
+ https://stackoverflow.com/questions/45219644/oracle-plsql-how-to-remove-duplicate-data-in-string
+ https://community.oracle.com/thread/4277590
+ http://volder-notes.blogspot.com/2007/10/removing-duplicate-elements-from-string.html
+ 
+ 
 https://www.oracle.com/tools/downloads/sqlcl-downloads.html
 
 + Màn hình máy tính
