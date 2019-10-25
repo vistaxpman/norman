@@ -1,4 +1,4 @@
-
+ORA-00054: resource busy and acquire with NOWAIT specified or timeout expired
 
 select a.REGION_NAME, regexp_replace(a.REGION_NAME, '([^,]+)(,\1)+', '\1') a1,
  regexp_replace('Hà Nội,Hà Nội,Di Linh,TP HCM,Hà Nội,Hà Nội,TP HCM,TP HCM,Đà Lạt', '([^,]+)(,\1)+', '\1') a2
