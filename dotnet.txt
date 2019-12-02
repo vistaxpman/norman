@@ -1,3 +1,6 @@
+https://chiasecongnghe.net/cai-dat-va-active-phpstorm-moi-nhat-license-key/
+https://kenhsinhvien.vn/topic/cai-dat-jetbrains-webstorm-2019-1-2-license-key.710366/
+
 ORA-00054: resource busy and acquire with NOWAIT specified or timeout expired
 
 select a.REGION_NAME, regexp_replace(a.REGION_NAME, '([^,]+)(,\1)+', '\1') a1,
